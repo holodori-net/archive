@@ -1,0 +1,15 @@
+{
+  "fixedSlotName": "Slot Jaminan ★4 ke Atas",
+  "gachaButtons": [
+    {
+      "description": "Jaminan ★4 ke Atas!",
+      "gachaButtonId": "gacha_button-gacha-common-ticket_r4-001-btn_01-gacha-ticket",
+      "name": "Pakai Tiket"
+    }
+  ],
+  "gachaId": "gacha-common-ticket_r4-001",
+  "name": "Tiket Jaminan ★4 ke Atas",
+  "precaution": "■ Peringatan\n・Bisa mendapatkan member dengan menggunakan Tiket Gacha Jaminan ★4 ke Atas.\n・Hanya sebagian member yang akan muncul. Pastikan untuk selalu memeriksa persentasi kemunculan.\n・Persentasi kemunculan member dalam Gacha berbeda-beda untuk setiap member.\n・Member yang didapatkan untuk pertama kali akan berada dalam kondisi Lv1.\n・Member yang muncul dalam Gacha ini bisa saja duplikat.\n・Jika mendapatkan member yang duplikat, maka akan dikonversi menjadi Mekar Pt member yang bersangkutan.\n・Jika mendapatkan member tertentu, kamu bisa mendapatkan Outfit Live dan Outfit Taman secara bersamaan.\n・Isi Gacha ini dapat berubah sewaktu-waktu tanpa pemberitahuan sebelumnya.\n\n▼Tentang Sistem Gacha\n(1) Undian dilakukan setiap 1 kali berdasarkan persentasi kemunculan.\n(2) Jika melakukan Gacha beberapa kali, undian akan dilakukan setiap kali berdasarkan persentasi kemunculan tanpa mempertimbangkan hasil sebelumnya.\n・Persentasi kemunculan berbeda-beda untuk setiap member.\n・Persentase dari tiap item akan ditunjukkan hingga 5 angka desimal, sehingga totalnya mungkin tidak mencapai tepat 100%.\n・Tergantung pada kondisi komunikasi dengan server, animasi Gacha mungkin terlewati, atau sebagian/seluruh animasi Gacha mungkin tidak ditampilkan dengan normal, namun perolehan member akan berhasil diproses.\n・Riwayat untuk setiap Gacha dapat diperiksa melalui \"Log Gacha\".\n\n▼Tentang Holosticker\nHolosticker dapat ditukarkan dengan berbagai item di [Toko]→[Penukaran Holosticker].\n\n▽Cara Mendapatkan dan Jumlah Perolehan Holosticker\n・Mendapatkan member ★4 yang sudah mekar sempurna: 20 lembar.\n*Hal ini juga berlaku jika memainkan member ★4 dengan Blooming Point yang cukup untuk mencapai tahap akhir Blooming.\n\n▼Tentang Holosticker Spesial\nHolosticker Spesial dapat ditukarkan dengan berbagai item di [Toko]→[Penukaran Holosticker Spesial].\n\n▽Cara Mendapatkan dan Jumlah Perolehan Holosticker Spesial\n・Mendapatkan member ★5: 30 lembar.\n・Mendapatkan member ★5 yang sudah mekar sempurna: 100 lembar.\n*Jika member ★5 yang didapatkan sudah mekar sempurna, bisa mendapatkan total 130 lembar.\n*Kondisi ini juga berlaku jika mendapatkan member ★5 yang telah memiliki Mekar Pt yang cukup untuk mekar sempurna.",
+  "promotionSubText": "",
+  "promotionText": ""
+}

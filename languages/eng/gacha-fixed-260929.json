@@ -1,0 +1,15 @@
+{
+  "fixedSlotName": "★5 Guaranteed Slot",
+  "gachaButtons": [
+    {
+      "description": "One ★5 Member guaranteed!",
+      "gachaButtonId": "gacha_button-gacha-fixed-260929-btn_10-paid_stone",
+      "name": "10-Pulls"
+    }
+  ],
+  "gachaId": "gacha-fixed-260929",
+  "name": "New Area Celebration!\nOne ★5 Member Guaranteed Gacha",
+  "precaution": "■Important Notes\n・Spend Blue Diamonds to earn Members.\n・Only some Members appear. Please check the Drop Rates.\n・Drop Rates of Members in this Gacha vary by Member.\n・Members are Lv1 when you first obtain them.\n・Members appearing in this Gacha may have duplicates.\n・Obtaining a duplicate of a Member will convert them into the corresponding Member’s Bloom Pts.\n・When earning specific Members, you will obtain both the Live Outfits and Park Outfits at the same time.\n・The contents of this Gacha may change without warning.\n\n▼Gacha Mechanics\n(1) Each pull of the Gacha is based on the Drop Rates.\n(2) When pulling multiple times, each pull is based on the same Drop Rates, regardless of the results of previous pulls.\n・Pressing the 10-Pulls button guarantees at least one ★5 Member. ★5 Member Guaranteed Drop Rates conform to the [★5 Guaranteed Slot] List.\n・Drop Rates other than ★5 Guaranteed Slot (1 in a 10-Pulls) conform to the [Standard] List.\n・Drop Rates vary depending on Members.\n・The visible Drop Rate is cut off at the fifth decimal number, so the total may not equal exactly 100%.\n・An unstable connection to the server may result in display issues with Gacha, or lead to animations being skipped entirely. However, Gacha results will be unaffected.\n・Previous results of Gacha can be viewed in [Gacha Log].\n\n▼Holostickers\nYou can exchange them for various items by going to [Shop] → [Holosticker Exchange].\n\n■How To Obtain Holostickers & Amount\n・Fully Bloomed ★3 Member = 1 Sticker\n・Fully Bloomed ★4 Member = 20 Stickers\n* This also includes ★3 and ★4 Members that have the required Bloom Pts to fully Bloom.\n\n▼Special Holostickers\nYou can exchange them for various items by going to [Shop] → [Special Holosticker Exchange].\n\n■How To Obtain Special Holostickers & Amount\n・★5 Member = 30 Stickers\n・Fully Bloomed ★5 Member = 100 Stickers\n*If the ★5 Member you obtain has already been fully Bloomed, you can earn a total of 130 Stickers.\n*This also applies when you obtain a ★5 Member who has the required Bloom Pts to fully Bloom.",
+  "promotionSubText": "",
+  "promotionText": "One ★5 Member guaranteed!"
+}

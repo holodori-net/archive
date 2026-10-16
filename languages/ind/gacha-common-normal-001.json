@@ -1,0 +1,30 @@
+{
+  "fixedSlotName": "Slot Jaminan ★4 ke Atas",
+  "gachaButtons": [
+    {
+      "description": "Hanya 1x sehari!",
+      "gachaButtonId": "gacha_button-common-normal-001-btn_01-paid_stone-daily",
+      "name": "Tarik 1x"
+    },
+    {
+      "description": "",
+      "gachaButtonId": "gacha_button-common-normal-001-btn_01-gacha_ticket",
+      "name": "Pakai Tiket"
+    },
+    {
+      "description": "",
+      "gachaButtonId": "gacha_button-common-normal-001-btn_01-stone",
+      "name": "Tarik 1x"
+    },
+    {
+      "description": "Garansi 1 ★4 atau lebih!",
+      "gachaButtonId": "gacha_button-common-normal-001-btn_10-stone",
+      "name": "Tarik 10x"
+    }
+  ],
+  "gachaId": "gacha-common-normal-001",
+  "name": "Gacha holodori",
+  "precaution": "■Perhatian!\n・Kamu bisa mendapatkan Member dengan mengkonsumsi item seperti Diamond Biru, Diamond Merah, Tiket Gacha, dan lainnya.\n・Diamond akan dikonsumsi mulai dari Diamond Merah terlebih dahulu.\n・Hanya sebagian Member yang akan muncul. Pastikan untuk memeriksa probabilitas kemunculan.\n・Probabilitas kemunculan Member dalam Gacha berbeda-beda untuk setiap anggota.\n・Member yang baru pertama kali didapatkan akan dimulai dari Lv1.\n・Ada kemungkinan Member yang sama akan muncul lagi dalam Gacha.\n・Jika mendapatkan Member yang sudah dimiliki (duplikat), maka akan dikonversi menjadi Mekar Pt Member tersebut.\n・Jika mendapatkan member tertentu, kamu bisa mendapatkan Outfit Live dan Outfit Taman secara bersamaan.\n・Isi dari Gacha dapat berubah sewaktu-waktu tanpa pemberitahuan sebelumnya.\n\n▼Tentang Mekanisme Gacha\n(1) Setiap undian dilakukan berdasarkan probabilitas kemunculan.\n(2) Jika melakukan Gacha berkali-kali, hasil sebelumnya tidak akan mempengaruhi hasil berikutnya, dan undian tetap dilakukan berdasarkan probabilitas kemunculan.\n・Gacha harian dapat ditarik satu kali sehari menggunakan Diamond Biru.\n・Gacha yang dibatasi 1 kali sehari akan di-reset setiap hari.\n・\"10x Gacha\" dijamin akan mendapatkan 1 Member ★4 atau lebih. Persentase peluang pada slot jaminan Member ★4 atau lebih mengikuti daftar \"Slot Jaminan ★4 ke Atas\".\n・Probabilitas kemunculan selain \"Slot Terjamin ★4 ke Atas\" (satu kali 10-pull) mengikuti daftar \"Slot Normal\".\n・Probabilitas kemunculan berbeda-beda untuk setiap Member.\n・Persentase dari tiap item akan ditunjukkan hingga 5 angka desimal, sehingga totalnya mungkin tidak mencapai tepat 100%.\n・Tergantung pada kondisi komunikasi dengan server, animasi Gacha mungkin terlewatkan, atau sebagian/seluruh animasi Gacha mungkin tidak ditampilkan dengan normal, namun perolehan Member tetap ditampilkan dengan normal.\n・Riwayat setiap Gacha dapat dilihat melalui \"Log Gacha\".\n\n▼Tentang Gacha Pt\n■Cara Mendapatkan\n・Anda akan mendapatkan 1 Pt untuk setiap 1 kali tarikan Gacha.\n・Gacha Point yang diperoleh pada Gacha ini tiak akan ditambahkan atau diteruskan ke Gacha lainnya.\n\n■Cara Penggunaan\n・Dengan \"Tukar Gacha Pt\", Kamu dapat mengkonsumsi \"Gacha Pt\" untuk mendapatkan Member yang ada di daftar.\n・Untuk informasi mengenai Member yang bisa diperoleh melalui \"Gacha Point\". silahkan cek bagian \"Penukaran Gacha Point\" pada Gacha ini.\n・Penyimpanan \"Gacha Pt\" yang telah didapatkan serta penukaran Member terkait hanya dapat dilakukan selama periode Gacha berlangsung.\n・Untuk periode berlangsungnya Gacha, silakan periksa pengumuman.\n\n■ Catatan Penting\n・Gacha Point yang tidak digunakan selama periode event akan dikonversikan menjadi \"holo Sticker\" setelah event selesai dan akan dikirim ke gift box. holo Sticker tersebut bisa digunakan di \"Shop\" → \"Penukaran holo Sticker\".\n・Periode dan isi dari Penukaran Gacha Pt dapat berubah sewaktu-waktu tanpa pemberitahuan sebelumnya.\n\n▼Tentang Holostiker\nHolostiker dapat ditukarkan dengan berbagai item melalui [Toko] → [Penukaran Holostiker].\n\n▽Cara Mendapatkan dan jumlah Holostiker\n・Jika batas waktu penukaran Gacha Pt berakhir: 1 lembar per 1 Pt\n・Mendapatkan Member ★3 yang sudah mencapai level mekar maksimal: 1 lembar\n・Mendapatkan Member ★4 yang sudah mencapai level mekar maksimal: 20 lembar\n*Berlaku juga jika mendapatkan Member ★3 atau ★4 yang sudah memiliki cukup Pt untuk mencapai level mekar maksimal.\n\n▼Tentang Holostiker Spesial\nHolostiker Spesial dapat ditukarkan dengan berbagai item melalui [Toko] → [Penukaran Holostiker Spesial].\n\n▽Cara Mendapatkan dan Jumlah Holostiker Spesial\n・Mendapatkan Member ★5: 30 lembar\n・Mendapatkan Member ★5 yang sudah mencapai level mekar maksimal: 100 lembar\n*Jika Member ★5 yang didapatkan sudah mencapai level mekar maksimal, total yang didapatkan adalah 130 lembar.\n*Berlaku juga jika mendapatkan Member ★5 yang sudah memiliki cukup Pt untuk mencapai level mekar maksimal.",
+  "promotionSubText": "",
+  "promotionText": ""
+}

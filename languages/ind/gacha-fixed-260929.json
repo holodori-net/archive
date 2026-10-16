@@ -1,0 +1,15 @@
+{
+  "fixedSlotName": "Slot Jaminan ★5",
+  "gachaButtons": [
+    {
+      "description": "Jaminan satu member ★5!",
+      "gachaButtonId": "gacha_button-gacha-fixed-260929-btn_10-paid_stone",
+      "name": "Tarik 10x"
+    }
+  ],
+  "gachaId": "gacha-fixed-260929",
+  "name": "Perayaan Area Baru! Gacha Jaminan 1 Member ★5 ",
+  "precaution": "■ Penting\n・Gunakan Diamond Biru untuk mendapatkan member.\n・Hanya member tertentu yang muncul. Harap cek detail Drop Rate.\n・Drop Rate setiap member pada Gacha ini berbeda-beda.\n・Member yang didapatkan untuk pertama kali akan berada dalam kondisi Lv1.\n・Member duplikat mungkin didapatkan dari Gacha ini.\n・Member duplikat akan dikonversi menjadi Mekar Pt yang bersangkutan.\n・Dapatkan member tertentu untuk membuka Outfit Live & Outfit Taman sekaligus.\n・Konten Gacha ini dapat berubah sewaktu-waktu tanpa pemberitahuan.\n\n▼Tentang Sistem Gacha\n(1) Penarikan dilakukan setiap 1 kali berdasarkan Drop Rate.\n(2) Penarikan berturut-turut tidak dipengaruhi oleh hasil sebelumnya dan tetap mengacu pada Drop Rate yang sama.\n・\"Tarik 10x\" menjamin kemunculan minimal 1 member ★5. Drop Rate pada slot jaminan ★5 mengacu pada daftar \"Slot Jaminan ★5\".\n・Drop Rate selain \"Slot Jaminan ★5\" (1 kali dalam 10 tarikan) akan mengikuti daftar \"Standar\".\n・Drop Rate berbeda-beda untuk setiap member.\n・Masing-masing Drop Rate ditampilkan dengan pembulatan ke bawah pada angka desimal ke-5, sehingga totalnya mungkin tidak genap 100%.\n・Tergantung pada kondisi koneksi server, animasi Gacha mungkin terlewati atau tidak tampil dengan sempurna. Meski demikian, perolehan member tetap terproses dengan normal.\n・Riwayat penarikan dapat diperiksa melalui \"Riwayat Gacha\".\n\n▼Tentang Holosticker\nHolosticker dapat ditukarkan dengan berbagai item melalui [Toko] → [Penukaran Holosticker].\n\n▽Cara Mendapatkan dan Jumlah Perolehan Holosticker\n・Dapat member ★3 yang sudah Mekar maksimal = 1 lembar\n・Dapat member ★4 yang sudah Mekar maksimal = 20 lembar\n*Kondisi ini juga berlaku jika mendapatkan member ★3 atau ★4 yang telah memiliki Mekar Pt yang cukup untuk Mekar maksimal.\n\n▼Tentang Holosticker Spesial\nHolosticker Spesial dapat ditukarkan dengan berbagai item melalui [Toko] → [Penukaran Holosticker Spesial].\n\n▽Cara Mendapatkan dan Jumlah Perolehan Holosticker Spesial\n・Dapat Member ★5 = 30 Stiker\n・Dapat Member ★5 yang sudah Mekar maksimal = 100 Stiker\n*Total 130 Stiker jika Member ★5 yang didapatkan sudah Mekar maksimal.\n*Kondisi ini juga berlaku jika mendapatkan Member ★5 yang telah memiliki Mekar Pt yang cukup untuk Mekar maksimal.",
+  "promotionSubText": "",
+  "promotionText": "Jaminan satu member ★5!"
+}

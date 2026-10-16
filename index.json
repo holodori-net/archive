@@ -1,0 +1,77 @@
+{
+  "app": {
+    "versionCode": 1790677050,
+    "versionName": "1.2.1"
+  },
+  "currentGachaIds": [
+    "gacha-common-normal-001",
+    "gacha-common-ticket_r4-001",
+    "gacha-fixed-260929",
+    "gacha-pickup-normal-260929",
+    "gacha-pickup-normal-261007",
+    "gacha-pickup-select-260929",
+    "gacha-pickup-select-261007"
+  ],
+  "groups": [
+    {
+      "gachaGroupId": "gacha_group-common-ticket_r4-001",
+      "gachaIds": [
+        "gacha-common-ticket_r4-001"
+      ],
+      "iconAssetId": "common-ticket_r4-001"
+    },
+    {
+      "gachaGroupId": "gacha_group-pickup-select-261007",
+      "gachaIds": [
+        "gacha-pickup-select-261007"
+      ],
+      "iconAssetId": "pickup-select-261007"
+    },
+    {
+      "gachaGroupId": "gacha_group-pickup-normal-261007",
+      "gachaIds": [
+        "gacha-pickup-normal-261007"
+      ],
+      "iconAssetId": "pickup-normal-261007"
+    },
+    {
+      "gachaGroupId": "gacha_group-pickup-select-260929",
+      "gachaIds": [
+        "gacha-pickup-select-260929"
+      ],
+      "iconAssetId": "pickup-select-260929"
+    },
+    {
+      "gachaGroupId": "gacha_group-pickup-normal-260929",
+      "gachaIds": [
+        "gacha-pickup-normal-260929"
+      ],
+      "iconAssetId": "pickup-normal-260929"
+    },
+    {
+      "gachaGroupId": "gacha_group-fixed-260929",
+      "gachaIds": [
+        "gacha-fixed-260929"
+      ],
+      "iconAssetId": "fixed-260929"
+    },
+    {
+      "gachaGroupId": "gacha_group-common-normal-001",
+      "gachaIds": [
+        "gacha-common-normal-001"
+      ],
+      "iconAssetId": "common-normal-001"
+    }
+  ],
+  "knownGachaIds": [
+    "gacha-common-normal-001",
+    "gacha-common-ticket_r4-001",
+    "gacha-fixed-260929",
+    "gacha-pickup-normal-260929",
+    "gacha-pickup-normal-261007",
+    "gacha-pickup-select-260929",
+    "gacha-pickup-select-261007"
+  ],
+  "masterVersion": "65badf8533aacbc04382f97f0f5f56740e761e6f5be6172d8440ae9061deebe7",
+  "schemaVersion": 1
+}
