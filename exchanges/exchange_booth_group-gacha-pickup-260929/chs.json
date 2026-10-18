@@ -1,0 +1,36 @@
+{
+  "booths": [
+    {
+      "id": "exchange_booth-gacha-pickup-260929",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-260929-001",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-260929-002",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-260929-003",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-260929-004",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        }
+      ],
+      "name": "逐梦蔚蓝边境扭蛋Pt兑换所"
+    }
+  ],
+  "id": "exchange_booth_group-gacha-pickup-260929",
+  "name": "逐梦蔚蓝边境扭蛋Pt兑换所"
+}

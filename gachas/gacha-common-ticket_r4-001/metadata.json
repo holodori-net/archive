@@ -1,0 +1,762 @@
+{
+  "bgmAssetId": "",
+  "cardBonuses": [],
+  "cardIds": [
+    "card-00001-4-cmmn-0000-00",
+    "card-00001-5-uniq-0000-00",
+    "card-00002-4-cmmn-0000-00",
+    "card-00002-5-uniq-0001-00",
+    "card-00004-4-cmmn-0000-00",
+    "card-00004-5-uniq-0005-00",
+    "card-00005-4-cmmn-0000-00",
+    "card-00005-5-uniq-0006-00",
+    "card-00006-4-cmmn-0000-00",
+    "card-00006-5-uniq-0007-00",
+    "card-00007-4-cmmn-0000-00",
+    "card-00007-5-uniq-0008-00",
+    "card-00010-4-cmmn-0000-00",
+    "card-00010-5-uniq-0010-00",
+    "card-00011-4-cmmn-0000-00",
+    "card-00011-5-uniq-0011-00",
+    "card-00012-4-cmmn-0000-00",
+    "card-00012-5-uniq-0012-00",
+    "card-00013-4-cmmn-0000-00",
+    "card-00013-5-uniq-0002-00",
+    "card-00014-4-cmmn-0000-00",
+    "card-00014-5-uniq-0013-00",
+    "card-00015-4-cmmn-0000-00",
+    "card-00015-5-uniq-0003-00",
+    "card-00016-4-cmmn-0000-00",
+    "card-00016-5-uniq-0014-00",
+    "card-00017-4-cmmn-0000-00",
+    "card-00017-5-uniq-0015-00",
+    "card-00018-4-cmmn-0000-00",
+    "card-00018-5-uniq-0004-00",
+    "card-00019-4-cmmn-0000-00",
+    "card-00019-5-uniq-0016-00",
+    "card-00021-4-cmmn-0000-00",
+    "card-00021-5-uniq-0017-00",
+    "card-00022-4-cmmn-0000-00",
+    "card-00022-5-uniq-0018-00",
+    "card-00023-4-cmmn-0000-00",
+    "card-00023-5-uniq-0019-00",
+    "card-00026-4-cmmn-0000-00",
+    "card-00026-5-uniq-0021-00",
+    "card-00027-4-cmmn-0000-00",
+    "card-00027-5-uniq-0022-00",
+    "card-00028-4-cmmn-0000-00",
+    "card-00028-5-uniq-0023-00",
+    "card-00030-4-cmmn-0000-00",
+    "card-00030-5-uniq-0024-00",
+    "card-00031-4-cmmn-0000-00",
+    "card-00031-5-uniq-0025-00",
+    "card-00032-4-cmmn-0000-00",
+    "card-00032-5-uniq-0026-00",
+    "card-00034-4-cmmn-0000-00",
+    "card-00034-5-uniq-0027-00",
+    "card-00035-4-cmmn-0000-00",
+    "card-00035-5-uniq-0028-00",
+    "card-00036-4-cmmn-0000-00",
+    "card-00036-5-uniq-0029-00",
+    "card-00037-4-cmmn-0000-00",
+    "card-00037-5-uniq-0030-00",
+    "card-00039-4-cmmn-0000-00",
+    "card-00039-5-uniq-0032-00",
+    "card-03001-4-cmmn-0000-00",
+    "card-03001-5-uniq-0033-00",
+    "card-03002-4-cmmn-0000-00",
+    "card-03002-5-uniq-0034-00",
+    "card-03003-4-cmmn-0000-00",
+    "card-03003-5-uniq-0035-00",
+    "card-03004-4-cmmn-0000-00",
+    "card-03004-5-uniq-0036-00",
+    "card-03005-4-cmmn-0000-00",
+    "card-03005-5-uniq-0037-00",
+    "card-03006-4-cmmn-0000-00",
+    "card-03006-5-uniq-0038-00",
+    "card-03007-4-cmmn-0000-00",
+    "card-03007-5-uniq-0039-00",
+    "card-03008-4-cmmn-0000-00",
+    "card-03008-5-uniq-0040-00",
+    "card-03009-4-cmmn-0000-00",
+    "card-03009-5-uniq-0041-00",
+    "card-04001-4-cmmn-0000-00",
+    "card-04001-5-uniq-0042-00",
+    "card-04002-4-cmmn-0000-00",
+    "card-04002-5-uniq-0043-00",
+    "card-04003-4-cmmn-0000-00",
+    "card-04003-5-uniq-0044-00",
+    "card-04007-4-cmmn-0000-00",
+    "card-04007-5-uniq-0047-00",
+    "card-04010-4-cmmn-0000-00",
+    "card-04010-5-uniq-0049-00",
+    "card-04012-4-cmmn-0000-00",
+    "card-04012-5-uniq-0051-00",
+    "card-04013-4-cmmn-0000-00",
+    "card-04013-5-uniq-0052-00",
+    "card-04014-4-cmmn-0000-00",
+    "card-04014-5-uniq-0053-00",
+    "card-04015-4-cmmn-0000-00",
+    "card-04015-5-uniq-0054-00",
+    "card-04016-4-cmmn-0000-00",
+    "card-04016-5-uniq-0055-00",
+    "card-04017-4-cmmn-0000-00",
+    "card-04017-5-uniq-0056-00",
+    "card-06002-4-cmmn-0000-00",
+    "card-06002-5-uniq-0058-00",
+    "card-06003-4-cmmn-0000-00",
+    "card-06003-5-uniq-0059-00",
+    "card-06004-4-cmmn-0000-00",
+    "card-06004-5-uniq-0060-00",
+    "card-06005-4-cmmn-0000-00",
+    "card-06005-5-uniq-0061-00"
+  ],
+  "detailNoticeId": "notice-news-gacha-common-ticket_r4-001",
+  "endTime": "0",
+  "exchangeBoothGroupId": null,
+  "fixedRarityProbabilities": [
+    {
+      "cardProbabilities": [
+        {
+          "cardId": "card-00001-5-uniq-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00002-5-uniq-0001-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00013-5-uniq-0002-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00015-5-uniq-0003-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00018-5-uniq-0004-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00004-5-uniq-0005-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00005-5-uniq-0006-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00006-5-uniq-0007-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00007-5-uniq-0008-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00010-5-uniq-0010-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00011-5-uniq-0011-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00012-5-uniq-0012-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00014-5-uniq-0013-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00016-5-uniq-0014-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00017-5-uniq-0015-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00019-5-uniq-0016-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00021-5-uniq-0017-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00022-5-uniq-0018-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00023-5-uniq-0019-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00026-5-uniq-0021-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00027-5-uniq-0022-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00028-5-uniq-0023-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00030-5-uniq-0024-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00031-5-uniq-0025-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00032-5-uniq-0026-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00034-5-uniq-0027-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00035-5-uniq-0028-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00036-5-uniq-0029-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00037-5-uniq-0030-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-00039-5-uniq-0032-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-03001-5-uniq-0033-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-03002-5-uniq-0034-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-03003-5-uniq-0035-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-03004-5-uniq-0036-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-03005-5-uniq-0037-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-03006-5-uniq-0038-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-03007-5-uniq-0039-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-03008-5-uniq-0040-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-03009-5-uniq-0041-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04001-5-uniq-0042-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04002-5-uniq-0043-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04003-5-uniq-0044-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04007-5-uniq-0047-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04010-5-uniq-0049-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04012-5-uniq-0051-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04013-5-uniq-0052-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04014-5-uniq-0053-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04015-5-uniq-0054-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04016-5-uniq-0055-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-04017-5-uniq-0056-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-06002-5-uniq-0058-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-06003-5-uniq-0059-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-06004-5-uniq-0060-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        },
+        {
+          "cardId": "card-06005-5-uniq-0061-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 9259
+        }
+      ],
+      "partsPerTenMillionProbability": 500000,
+      "rarity": 5
+    },
+    {
+      "cardProbabilities": [
+        {
+          "cardId": "card-00001-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00002-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00013-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00015-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00018-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00004-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00005-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00006-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00007-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00010-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00011-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00012-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00014-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00016-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00017-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00019-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00021-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00022-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00023-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00026-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00027-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00028-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00030-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00031-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00032-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00034-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00035-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00036-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00037-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-00039-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-03001-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-03002-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-03003-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-03004-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-03005-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-03006-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-03007-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-03008-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-03009-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04001-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04002-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04003-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04007-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04010-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04012-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04013-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04014-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04015-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04016-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-04017-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-06002-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-06003-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-06004-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        },
+        {
+          "cardId": "card-06005-4-cmmn-0000-00",
+          "isRateUp": false,
+          "partsPerTenMillionProbability": 175925
+        }
+      ],
+      "partsPerTenMillionProbability": 9500000,
+      "rarity": 4
+    }
+  ],
+  "gachaAnimationAssetId": "gacha_animation_movie-default-001",
+  "gachaAnimationGroupingId": "gacha_animation_grouping-fix-001",
+  "gachaAnimationMovieGroupId": "gacha_animation_movie-default-001",
+  "gachaButtons": [
+    {
+      "bonusRewards": [],
+      "consumptions": [
+        {
+          "quantity": "1",
+          "resourceId": "item-gacha_ticket-r4-01",
+          "resourceType": 3
+        }
+      ],
+      "fixedRewardPickCount": 1,
+      "gachaButtonId": "gacha_button-gacha-common-ticket_r4-001-btn_01-gacha-ticket",
+      "limitCount": 0,
+      "priority": 1000,
+      "resetIntervalType": 0,
+      "totalRewardPickCount": 1
+    }
+  ],
+  "gachaId": "gacha-common-ticket_r4-001",
+  "iconAssetId": "common-ticket-r4-001",
+  "isDisplayPromotionPickupCardRandom": true,
+  "isEndTimeHidden": true,
+  "isPromotionPickupCardMovie": true,
+  "normalRarityProbabilities": [],
+  "pickupCardIds": [],
+  "probabilityStatus": "available",
+  "promotionImageAssetId": "img_gacha_top_gacha-common-ticket_r4-001",
+  "promotionMovieAssetId": "",
+  "promotionPickupCardIds": [
+    "card-00001-5-uniq-0000-00",
+    "card-00002-5-uniq-0001-00",
+    "card-00013-5-uniq-0002-00",
+    "card-00015-5-uniq-0003-00",
+    "card-00018-5-uniq-0004-00",
+    "card-00004-5-uniq-0005-00",
+    "card-00005-5-uniq-0006-00",
+    "card-00006-5-uniq-0007-00",
+    "card-00007-5-uniq-0008-00",
+    "card-00010-5-uniq-0010-00",
+    "card-00011-5-uniq-0011-00",
+    "card-00012-5-uniq-0012-00",
+    "card-00014-5-uniq-0013-00",
+    "card-00016-5-uniq-0014-00",
+    "card-00017-5-uniq-0015-00",
+    "card-00019-5-uniq-0016-00",
+    "card-00021-5-uniq-0017-00",
+    "card-00022-5-uniq-0018-00",
+    "card-00023-5-uniq-0019-00",
+    "card-00026-5-uniq-0021-00",
+    "card-00027-5-uniq-0022-00",
+    "card-00028-5-uniq-0023-00",
+    "card-00030-5-uniq-0024-00",
+    "card-00031-5-uniq-0025-00",
+    "card-00032-5-uniq-0026-00",
+    "card-00034-5-uniq-0027-00",
+    "card-00035-5-uniq-0028-00",
+    "card-00036-5-uniq-0029-00",
+    "card-00037-5-uniq-0030-00",
+    "card-00039-5-uniq-0032-00",
+    "card-03001-5-uniq-0033-00",
+    "card-03002-5-uniq-0034-00",
+    "card-03003-5-uniq-0035-00",
+    "card-03004-5-uniq-0036-00",
+    "card-03005-5-uniq-0037-00",
+    "card-03006-5-uniq-0038-00",
+    "card-03007-5-uniq-0039-00",
+    "card-03008-5-uniq-0040-00",
+    "card-03009-5-uniq-0041-00",
+    "card-04001-5-uniq-0042-00",
+    "card-04002-5-uniq-0043-00",
+    "card-04003-5-uniq-0044-00",
+    "card-04007-5-uniq-0047-00",
+    "card-04010-5-uniq-0049-00",
+    "card-04012-5-uniq-0051-00",
+    "card-04013-5-uniq-0052-00",
+    "card-04014-5-uniq-0053-00",
+    "card-04015-5-uniq-0054-00",
+    "card-04016-5-uniq-0055-00",
+    "card-04017-5-uniq-0056-00",
+    "card-06002-5-uniq-0058-00",
+    "card-06003-5-uniq-0059-00",
+    "card-06004-5-uniq-0060-00",
+    "card-06005-5-uniq-0061-00"
+  ],
+  "startTime": "0",
+  "termLimitedHours": 0,
+  "type": 1,
+  "unlockConditionGroupId": ""
+}

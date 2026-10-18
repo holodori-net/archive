@@ -1,0 +1,95 @@
+{
+  "id": "notice-news-gacha-common-001",
+  "locales": {
+    "chs": {
+      "bannerAssetId": "img_banner_full_gacha-common-001",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/49f64d19595a83d6bc892295af187f51e3dcbd185ccdd82f7dc257f70f6b51ca/index.html",
+      "externalUrl": "",
+      "htmlPath": "chs/index.html",
+      "images": [
+        {
+          "path": "chs/757ae84fd262539f23a07e5b175f3c3f47c0902e782db5b1a288412093f7f110.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fc80b6c251a7a3665877be4b9673fa7e5bb86693a789d6b38722e8b5b6b31a3d.jpg"
+        }
+      ],
+      "startTime": "1784685600000",
+      "title": "holodori扭蛋开放",
+      "type": 1
+    },
+    "cht": {
+      "bannerAssetId": "img_banner_full_gacha-common-001",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/f220915e49cce3ad1f67228296d5ce7b34b88564b6e0667cb51550be29222475/index.html",
+      "externalUrl": "",
+      "htmlPath": "cht/index.html",
+      "images": [
+        {
+          "path": "cht/544984ac974efe3c362078ef660cecea6a9781e07d6027987d0cd80028717ef3.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3966baa44276e8b318477db0df8b4b9d14d86cc292a2ce30b99fcde8bca65045.jpg"
+        }
+      ],
+      "startTime": "1784685600000",
+      "title": "holodori轉蛋活動開始",
+      "type": 1
+    },
+    "eng": {
+      "bannerAssetId": "img_banner_full_gacha-common-001",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/7e52a969977800840c67cbb758bdac9b6cbc866afb1880bf2b08cf5e4b489a80/index.html",
+      "externalUrl": "",
+      "htmlPath": "eng/index.html",
+      "images": [
+        {
+          "path": "eng/35457a2fb66378d5e7ad458e0a8603e429e6ae25d0d60d514a821b1aa31ca3ad.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/02bd05cd523d71ed3cb7f5cd6576c42704cc63a855c0254f63d16c59d4192b8a.jpg"
+        }
+      ],
+      "startTime": "1784685600000",
+      "title": "holodori Gacha now live!",
+      "type": 1
+    },
+    "ind": {
+      "bannerAssetId": "img_banner_full_gacha-common-001",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/fd737faf0bf19f74f83316009589783892cfa1474f56e7323dbe8d9d204092f1/index.html",
+      "externalUrl": "",
+      "htmlPath": "ind/index.html",
+      "images": [
+        {
+          "path": "ind/5923b38fb6cfc07e7e42bb7c5265330de48c4621d846bcba3698f71e57ea2889.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ce83a62a7d9fb4beab43a7deac98624ca993bed84281837c3ca8fcc7fd829c02.jpg"
+        }
+      ],
+      "startTime": "1784685600000",
+      "title": "Gacha holodori Kini Hadir",
+      "type": 1
+    },
+    "jpn": {
+      "bannerAssetId": "img_banner_full_gacha-common-001",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/319a9037398310a9f176fc8d11d8090e3f0f55fa3d0eb4f07226d2fa64cf91f9/index.html",
+      "externalUrl": "",
+      "htmlPath": "jpn/index.html",
+      "images": [
+        {
+          "path": "jpn/2983c534b276b3b2046169bd7c15ad34616a4c3d3e601e866f474adcbd6b35c1.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1c4aa8ded139f4b038bf597b7e2955b9fcc382f728faeb863876b818fc1fe04b.jpg"
+        }
+      ],
+      "startTime": "1784685600000",
+      "title": "ホロドリガチャ開催",
+      "type": 1
+    },
+    "kor": {
+      "bannerAssetId": "img_banner_full_gacha-common-001",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/40e5c73aa767353696758be127a7836a7789fc5a077e31621e1fdce73aa799e2/index.html",
+      "externalUrl": "",
+      "htmlPath": "kor/index.html",
+      "images": [
+        {
+          "path": "kor/28a8d11b440814a5502fe976a75f718cf5a83406bcb101d2ab06e1167030a6f1.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3a64d431402edac08f10cf2ec52855c5faf563ec39617410495b173c830b7771.jpg"
+        }
+      ],
+      "startTime": "1784685600000",
+      "title": "holo드림 뽑기 개최",
+      "type": 1
+    }
+  }
+}

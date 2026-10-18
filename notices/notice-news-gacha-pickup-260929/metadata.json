@@ -1,0 +1,191 @@
+{
+  "id": "notice-news-gacha-pickup-260929",
+  "locales": {
+    "chs": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/4adeb0f2034ea861b42b16834808bc0fb21121b56750291402e1e2616c8e6f0b/index.html",
+      "externalUrl": "",
+      "htmlPath": "chs/index.html",
+      "images": [
+        {
+          "path": "chs/2fbed441306220cae1ee2ca8e0b851c3477a192ba8b4ee944a9e2f700c4ad7b9.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8288d69c21a08867e934474714b8cb2c9078b9423918dfcd072dadb413d0ada0.jpg"
+        },
+        {
+          "path": "chs/f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bc64e7b022681ffc54e18caf0306565c08349dbada97bd424682ce4d6ef10ae8.jpg"
+        },
+        {
+          "path": "chs/8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8f57add2ec16763dd1e66af0905238c30e392ec9b037c3cd9cc7970c525b1122.jpg"
+        },
+        {
+          "path": "chs/43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/cbb23e2a7ff97718f5a8a0a94992e8fec5c4a18f3abc3d3a8d29d13a7eb99c2b.jpg"
+        },
+        {
+          "path": "chs/a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/331ed51522a224091c7bfe454d1b172a462b059c27176ca2ebf6376dd4be9cf4.jpg"
+        }
+      ],
+      "startTime": "1790629200000",
+      "title": "逐梦蔚蓝边境扭蛋上线！",
+      "type": 1
+    },
+    "cht": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/09bbaf28e6b141e40a993c6d04a97822bf6885e070b4994f189c1664bc1782c4/index.html",
+      "externalUrl": "",
+      "htmlPath": "cht/index.html",
+      "images": [
+        {
+          "path": "cht/736429007fe9ffe984630232f6d42e0ef9849dea9d7df92ef9124522ba070722.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6aaf2bddfdea6e552fb7d1429dfe8f14be5fd98f7212b3db29c30898b565eb7b.jpg"
+        },
+        {
+          "path": "cht/f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e107aa47f7433b463ffcc116c140f3793dedba2242aee9f6e5b1523da9c70922.jpg"
+        },
+        {
+          "path": "cht/8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1b674da18292abe4107712b34ecbd2c73a66b7bca34960d5790516f147bbcd85.jpg"
+        },
+        {
+          "path": "cht/43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bbffc27f2f690b4d08aa2715ab369126cf083ee3270a19c8948efa52a862a711.jpg"
+        },
+        {
+          "path": "cht/a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f6745bdda79e5b3ea94fe03b55c111f0ac48bf312677f3de3248757222309d20.jpg"
+        }
+      ],
+      "startTime": "1790629200000",
+      "title": "夢幻的碧藍新天地轉蛋活動開始！",
+      "type": 1
+    },
+    "eng": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/6590ace1590485c3ed4fd4276a2a7e26cb35cc82c44585baebf67e46fdbc375f/index.html",
+      "externalUrl": "",
+      "htmlPath": "eng/index.html",
+      "images": [
+        {
+          "path": "eng/d84d18093e5f81f31bc433eedea0f49fa7a194e67a4f9e3cf034751cee5eb12d.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9990f9555f737a03dce5372ff4390c2bc2f03323f38615fbf2074b4fcf7200bf.jpg"
+        },
+        {
+          "path": "eng/f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3d497525f8ec03b888edfd21a0baa8cd9f2a5fb58392e7b78f0fcc578d24552f.jpg"
+        },
+        {
+          "path": "eng/8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ab7224d24a907715c3adf7d6ca428c1ff2f67771c547f7662604cba9430726c1.jpg"
+        },
+        {
+          "path": "eng/43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2c058d7cf0e193c2fc9288c6bfb336a3ba9b774cc7866699bb5d306c0b8b2ee4.jpg"
+        },
+        {
+          "path": "eng/a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/145113fca14d817eb9e7dbe504aeb29ab5bfe1320eeb1e8f486de994bb595329.jpg"
+        }
+      ],
+      "startTime": "1790629200000",
+      "title": "\"Dreamy Deep Blue Gacha\" is now underway!",
+      "type": 1
+    },
+    "ind": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/ee884ea482c99b4ef2726bbefcc79b59fc42ce6366de8dba0b542a3ea8a5329b/index.html",
+      "externalUrl": "",
+      "htmlPath": "ind/index.html",
+      "images": [
+        {
+          "path": "ind/fd7ab676889b1819bd682d424d2b48d8ff85907f9440dd8ec83e70bc7f9f4010.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7f7830efc09375c5484e7a3f18c746ffab87854702bd044668ac01e6a6ed5ebd.jpg"
+        },
+        {
+          "path": "ind/f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/12a5f41b8c371c38f71a3b784e1ce2b943e9aa588178b5288297aaebdab2a310.jpg"
+        },
+        {
+          "path": "ind/8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9c12b3b73fd58660fc83f180aaa3f89ad4e7efb8ffa6111b4880b90690c3ef93.jpg"
+        },
+        {
+          "path": "ind/43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/eea5c1c7a53cd39823186bce5b150e2053353b105aa65919600e911b7ee1cc68.jpg"
+        },
+        {
+          "path": "ind/a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/298e4b8a77362cac5012fb8a056760e1069824003de866aeca0b08c9939f7db9.jpg"
+        }
+      ],
+      "startTime": "1790629200000",
+      "title": "Gacha Cakrawala Biru Impian dimulai!",
+      "type": 1
+    },
+    "jpn": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/a2fef67a08c940c9d570499848200b3a5c6095a0b4c0e302b033912b6048c4ea/index.html",
+      "externalUrl": "",
+      "htmlPath": "jpn/index.html",
+      "images": [
+        {
+          "path": "jpn/59711e68a70dfc2bbba0334c4d409ce383859737d104e8d2edf3605952d3c57e.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1c94d79882148c79a93c253ea56cada3c7794df74e515bc461130de374b8477e.jpg"
+        },
+        {
+          "path": "jpn/f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/48071ee04089b160463cb7581e29e25f8347220cf891e3ddadb1c892f9f44f3a.jpg"
+        },
+        {
+          "path": "jpn/8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/669327e85fb691d7949004dbc5321f10d5ebc2ac99330adf471baf90c73b6b7e.jpg"
+        },
+        {
+          "path": "jpn/43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/26ef4b16f741251e524773205196050758daaf39d58d352c97836d0825ebda4f.jpg"
+        },
+        {
+          "path": "jpn/a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bd31d28cde493709127f45201573688506f7e4b8ebb08e7767d8ae2751a28d8f.jpg"
+        }
+      ],
+      "startTime": "1790629200000",
+      "title": "夢みるブルーフロンティアガチャ開催！",
+      "type": 1
+    },
+    "kor": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/90cb9911d3826ed67a178557b0bb3c2dab2554ea82b5c4681c798a1455e2cc39/index.html",
+      "externalUrl": "",
+      "htmlPath": "kor/index.html",
+      "images": [
+        {
+          "path": "kor/1fa0d9f2d299f1ddd1d826eeb65bc3f8e75448eea79a85993745e1193e4ed525.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4285baa51e699e6f64018b551bdf6740ba4c1c353a209485eed46a4c5fae8691.jpg"
+        },
+        {
+          "path": "kor/f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7ca5f1b2407b2ca732237685d406704fd59c00e4e22b1ce60ae99dc79c315cff.jpg"
+        },
+        {
+          "path": "kor/8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bed5633c47cb64756ec742c0e78ccdd171d389fa56194afa681af022395a298e.jpg"
+        },
+        {
+          "path": "kor/43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2deebdb71905bb9134828b843e12842d58ab78ca046b5d96227a1c8fd4e613b7.jpg"
+        },
+        {
+          "path": "kor/a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0c8b81e6673822a096d1813784fd2bc7babdb019b51649d1636896f6287a5174.jpg"
+        }
+      ],
+      "startTime": "1790629200000",
+      "title": "꿈꾸는 블루 프론티어 뽑기 개최!",
+      "type": 1
+    }
+  }
+}

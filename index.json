@@ -12,6 +12,33 @@
     "gacha-pickup-select-260929",
     "gacha-pickup-select-261007"
   ],
+  "databaseMasterVersion": "65badf8533aacbc04382f97f0f5f56740e761e6f5be6172d8440ae9061deebe7",
+  "exchanges": {
+    "exchange_booth_group-gacha-common-001": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "exchange_booth_group-gacha-pickup-260929": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "exchange_booth_group-gacha-pickup-261007": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ]
+  },
   "groups": [
     {
       "gachaGroupId": "gacha_group-common-ticket_r4-001",
@@ -73,5 +100,47 @@
     "gacha-pickup-select-261007"
   ],
   "masterVersion": "65badf8533aacbc04382f97f0f5f56740e761e6f5be6172d8440ae9061deebe7",
-  "schemaVersion": 1
+  "notices": {
+    "notice-news-gacha-common-001": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-gacha-common-ticket_r4-001": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-gacha-fixed-260929": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-gacha-pickup-260929": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-gacha-pickup-261007": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ]
+  },
+  "schemaVersion": 2
 }

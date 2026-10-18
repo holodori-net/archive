@@ -1,0 +1,30 @@
+{
+  "booths": [
+    {
+      "id": "exchange_booth-gacha-pickup-261007",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261007-001",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261007-002",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261007-003",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        }
+      ],
+      "name": "Tempat penukaran Gacha Pt Jembatan Bahari"
+    }
+  ],
+  "id": "exchange_booth_group-gacha-pickup-261007",
+  "name": "Tempat penukaran Gacha Pt Jembatan Bahari"
+}

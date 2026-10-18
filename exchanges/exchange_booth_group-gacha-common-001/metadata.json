@@ -1,0 +1,1482 @@
+{
+  "backgroundAssetId": "default-001",
+  "booths": [
+    {
+      "boothType": 1,
+      "endTime": "0",
+      "id": "exchange_booth-gacha-common-001",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-001",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00001-5-uniq-0000-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-002",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00002-5-uniq-0001-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-003",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00013-5-uniq-0002-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-004",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00015-5-uniq-0003-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-005",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00018-5-uniq-0004-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-006",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00004-5-uniq-0005-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-007",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00005-5-uniq-0006-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-008",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00006-5-uniq-0007-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-009",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00007-5-uniq-0008-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-010",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00010-5-uniq-0010-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-011",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00011-5-uniq-0011-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-012",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00012-5-uniq-0012-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-013",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00014-5-uniq-0013-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-014",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00016-5-uniq-0014-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-015",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00017-5-uniq-0015-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-016",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00019-5-uniq-0016-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-017",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00021-5-uniq-0017-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-018",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00022-5-uniq-0018-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-019",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00023-5-uniq-0019-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-021",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00026-5-uniq-0021-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-022",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00027-5-uniq-0022-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-023",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00028-5-uniq-0023-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-024",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00030-5-uniq-0024-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-025",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00031-5-uniq-0025-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-026",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00032-5-uniq-0026-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-027",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00034-5-uniq-0027-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-028",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00035-5-uniq-0028-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-029",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00036-5-uniq-0029-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-030",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00037-5-uniq-0030-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-031",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-00039-5-uniq-0032-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-032",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-03001-5-uniq-0033-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-033",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-03002-5-uniq-0034-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-034",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-03003-5-uniq-0035-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-035",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-03004-5-uniq-0036-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-036",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-03005-5-uniq-0037-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-037",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-03006-5-uniq-0038-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-038",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-03007-5-uniq-0039-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-039",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-03008-5-uniq-0040-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-040",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-03009-5-uniq-0041-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-041",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04001-5-uniq-0042-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-042",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04002-5-uniq-0043-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-043",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04003-5-uniq-0044-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-044",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04007-5-uniq-0047-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-045",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04010-5-uniq-0049-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-046",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04012-5-uniq-0051-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-047",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04013-5-uniq-0052-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-048",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04014-5-uniq-0053-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-049",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04015-5-uniq-0054-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-050",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04016-5-uniq-0055-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-052",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-04017-5-uniq-0056-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-053",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-06002-5-uniq-0058-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-054",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-06003-5-uniq-0059-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-055",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-06004-5-uniq-0060-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-common-056",
+          "boothItemType": 2,
+          "consumptions": [
+            {
+              "discountRatioPermil": 0,
+              "originalQuantity": "200",
+              "quantity": "200",
+              "resourceId": "gacha_point-common-001",
+              "resourceType": 18
+            }
+          ],
+          "endTime": "0",
+          "limitQuantity": 10,
+          "nextResetTime": "0",
+          "releaseTime": "1786815668432",
+          "resetIntervalType": 0,
+          "rewards": [
+            {
+              "quantity": "1",
+              "resourceId": "card-06005-5-uniq-0061-00",
+              "resourceType": 2
+            }
+          ],
+          "thumbnailAssetId": "",
+          "unlockConditionGroupId": ""
+        }
+      ],
+      "nextResetTime": "0",
+      "unlockConditionGroupId": ""
+    }
+  ],
+  "color1": "",
+  "color2": "",
+  "color3": "",
+  "color4": "",
+  "headerAssetId": "default-001",
+  "hookColor": "",
+  "iconAssetId": "",
+  "id": "exchange_booth_group-gacha-common-001",
+  "logoAssetId": "default-001",
+  "pegboardColor": ""
+}

@@ -1,0 +1,30 @@
+{
+  "booths": [
+    {
+      "id": "exchange_booth-gacha-pickup-261007",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261007-001",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261007-002",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261007-003",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        }
+      ],
+      "name": "다리 놓는 오션 크리에이트 뽑기 Pt 교환소"
+    }
+  ],
+  "id": "exchange_booth_group-gacha-pickup-261007",
+  "name": "다리 놓는 오션 크리에이트 뽑기 Pt 교환소"
+}
