@@ -1,0 +1,191 @@
+{
+  "id": "notice-news-gacha-pickup-261019",
+  "locales": {
+    "chs": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/5f4410fc12b29ae82f769fa34baa866703b43981b374d351e5d5ded9125f45f2/index.html",
+      "externalUrl": "",
+      "htmlPath": "chs/index.html",
+      "images": [
+        {
+          "path": "chs/0cb5875c5ed83b5402b4e0dea0acfaad40fa0b46e67673f42c5d576eb9ab0b99.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/48c37c95218ee0275efaa75fcb7cd9fe94165d1270d6041436624b9598c35b35.jpg"
+        },
+        {
+          "path": "chs/8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1076a728f87c16c85c4fd34e9c5228f0b57af198755475d96beb26759f67c06e.jpg"
+        },
+        {
+          "path": "chs/1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4df392bf984eb012735703c412147fe1599583ffc8bef19a005c773576227099.jpg"
+        },
+        {
+          "path": "chs/6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/81193986e5c16f8954f0a2f6418aeb63d12e13a22ab1cfe5fefbdf34049ea053.jpg"
+        },
+        {
+          "path": "chs/2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0269194700c4aedee23114c41b124a1c3602311c792d8151afedeb9d2c282682.jpg"
+        }
+      ],
+      "startTime": "1792375200000",
+      "title": "至福的海边时光 扭蛋上线！",
+      "type": 1
+    },
+    "cht": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/599280534e4a3a5447f915f114800132dee120bca736d1b82720c5196f90574a/index.html",
+      "externalUrl": "",
+      "htmlPath": "cht/index.html",
+      "images": [
+        {
+          "path": "cht/8bee206e333acecb22f402004b1b07ed732d71b469c678965721e565eedbe201.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/06b8f0d0e946884ab68c7bd37d41ba39429cc85275bf1794a58138d4fe2718a7.jpg"
+        },
+        {
+          "path": "cht/8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ce774e6ec2dc7e62060d20891bcf877a63d9f5fa3f48894aa4c9057baba08dde.jpg"
+        },
+        {
+          "path": "cht/1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/df43fecaab97bc97f4a87a904a8e694c137d48e4c47b2d9f36e00fcaa893a3ed.jpg"
+        },
+        {
+          "path": "cht/6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/aa43be915660dc1b407c4f4746aacf302f2b5629721e0ce72bf72483a37db6ca.jpg"
+        },
+        {
+          "path": "cht/2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1adf29187f41016b186936c2dc9eefcdaec579e4bcc98124925f3a425ee3bf3d.jpg"
+        }
+      ],
+      "startTime": "1792375200000",
+      "title": "幸福無比的海濱時光 轉蛋活動開始！",
+      "type": 1
+    },
+    "eng": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/316740c6ecc7d1cc9628a22f3ac6605046f16c38fb97aace17d1b5c1462afde2/index.html",
+      "externalUrl": "",
+      "htmlPath": "eng/index.html",
+      "images": [
+        {
+          "path": "eng/972d4544b4a86f0f2ccc7dfc7d413039b8180d75d0c5a5081d9ff4e9363f6f62.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/45d80736db33f76bc319d4e30846b50066eb41f25a3dc726221b303ecbc82b42.jpg"
+        },
+        {
+          "path": "eng/8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6381ab8e2a524451533d1dcb271ce45ec690b55ef32e6ff3e5bdf85cf908b3b1.jpg"
+        },
+        {
+          "path": "eng/1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b6c3eb06607179277a9d8d4a3062faed20af9a0659e68daeaf11c7e12eb54277.jpg"
+        },
+        {
+          "path": "eng/6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4ee28899be59aa4b9a1ad2d63f72e2f7396b90c890f93a89908c3d9e5c77bc7d.jpg"
+        },
+        {
+          "path": "eng/2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/835baeee55962390d5b9adeddeed3c947967765e059c2ee152d34074cd271146.jpg"
+        }
+      ],
+      "startTime": "1792375200000",
+      "title": "Blissful Seaside Days Gacha is now live!",
+      "type": 1
+    },
+    "ind": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/b014de8ed58adc9117cf29a16d998135465552677f08d09c8467cb4647732621/index.html",
+      "externalUrl": "",
+      "htmlPath": "ind/index.html",
+      "images": [
+        {
+          "path": "ind/79e06d5fb5c4962a59d677420257eb230a7f7bdb7e7428449bd0b2b1026d4788.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/44a49c6c768ed774e846b67eb9a44a35b15847b061bbc50f6743cdf3970edf19.jpg"
+        },
+        {
+          "path": "ind/8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/830d8b6ba3f00e17d1b9633b12f2f76c37726257a11e13790f6cb4c6a597cb6c.jpg"
+        },
+        {
+          "path": "ind/1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a52fe4aab2fcc71b02c3098ce0b0be19c955dad07e49db5e229b0d52fbf8e208.jpg"
+        },
+        {
+          "path": "ind/6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/deda9cd60748b97c47d23bb6800668154d1792910da141f3f57e2f15d5e14b57.jpg"
+        },
+        {
+          "path": "ind/2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/805b036eb1b3b9da4306aafe9885b1dc84e42ee3ebab02f9f8624d0ddbc33979.jpg"
+        }
+      ],
+      "startTime": "1792375200000",
+      "title": "Gacha Hari Indah di Tepi Pantai Telah Dimulai!",
+      "type": 1
+    },
+    "jpn": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/0c453fe32063d47dd70aa11aba4ca2de1ec51bb9187b21ae7cfa44b97f4e73e5/index.html",
+      "externalUrl": "",
+      "htmlPath": "jpn/index.html",
+      "images": [
+        {
+          "path": "jpn/f8e15e2e659262088bd8bcc8304404c4392b4699ff8d8a490865e07358caa485.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/53607e1df45a060e03807d235e221584f8009046799f741dd6c9e58ca90102b1.jpg"
+        },
+        {
+          "path": "jpn/8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b9fe7daa71ed1dfe51ee0404958b7718706011ee9fb21492dc8967a01ced760a.jpg"
+        },
+        {
+          "path": "jpn/1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1b1f37b8649b8808a796b2da9668118503839c778313cdd04d6e9d9e28419ebd.jpg"
+        },
+        {
+          "path": "jpn/6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/39378b5943f877b1a6770a8e36e499f834d33af8895772ea834e5c6563908f19.jpg"
+        },
+        {
+          "path": "jpn/2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/37933dc5976d953979fcb96bd80107ec0c83312adf0247c47b0c1bc415c51557.jpg"
+        }
+      ],
+      "startTime": "1792375200000",
+      "title": "至福のシーサイドデイズガチャ開催！",
+      "type": 1
+    },
+    "kor": {
+      "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/4a28293f875cd126e5fe4e419998328ac9ed5828fe3c4393db01f993b75d9559/index.html",
+      "externalUrl": "",
+      "htmlPath": "kor/index.html",
+      "images": [
+        {
+          "path": "kor/0f14cb455454a0f25ac067611d30731908889cd137ea90a0d1c328c4b0f212fd.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/dca20ff6c9718d3525819dde72a9ede545153971266cfa59acede827edd2b43f.jpg"
+        },
+        {
+          "path": "kor/8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/05277b647ae981e85d9ce9337e3fb1f9de844463d295c747e0d4d1db08096cc7.jpg"
+        },
+        {
+          "path": "kor/1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5eeee1509028e480f2911ef0d845a2fdd2f1b53e5cc1851b028c7b0c563821f6.jpg"
+        },
+        {
+          "path": "kor/6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c9a6e9593951e3a2e670ac7109bbb5ffdf08444924ed1566a7b55b713abd551c.jpg"
+        },
+        {
+          "path": "kor/2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2a2445891eb93c2a2811210dbdbc6f4b5dd7a0ffd415a4011172f50fceb3678d.jpg"
+        }
+      ],
+      "startTime": "1792375200000",
+      "title": "행복한 시사이드 데이즈 뽑기 개최!",
+      "type": 1
+    }
+  }
+}

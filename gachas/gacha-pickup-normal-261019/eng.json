@@ -1,0 +1,25 @@
+{
+  "fixedSlotName": "★4 Guaranteed or higher Slot",
+  "gachaButtons": [
+    {
+      "description": "Just once per day!",
+      "gachaButtonId": "gacha_button-gacha-pickup-normal-261019-btn_01-paid_stone-daily",
+      "name": "1-Pull"
+    },
+    {
+      "description": "",
+      "gachaButtonId": "gacha_button-gacha-pickup-normal-261019-btn_01-stone",
+      "name": "1-Pull"
+    },
+    {
+      "description": "Guaranteed 1 ★4 or higher!",
+      "gachaButtonId": "gacha_button-gacha-pickup-normal-261019-btn_10-stone",
+      "name": "10-Pulls"
+    }
+  ],
+  "gachaId": "gacha-pickup-normal-261019",
+  "name": "Blissful Seaside Days Gacha",
+  "precaution": "■Important Notes\n・Exchange items such as Blue or Red Diamonds to earn Members.\n・Red Diamonds are spent first.\n・Only some Members appear. Please check the Drop Rates.\n・Drop Rates of Members in this Gacha vary by Member.\n・Members are Lv1 when you first obtain them.\n・Members appearing in this Gacha may have duplicates.\n・Obtaining a duplicate of a Member will convert them into the corresponding Member’s Bloom Pts.\n・When earning specific Members, you will obtain both the Live Outfits and Park Outfits at the same time.\n・The contents of this Gacha may change without warning.\n\n▼Gacha Mechanics\n(1) Each pull of the Gacha is based on the Drop Rates.\n(2) When pulling multiple times, each pull is based on the same Drop Rates, regardless of the results of previous pulls.\n・Once Per Day Gacha can only be pulled with Blue Diamonds.\n・Once Per Day Gacha resets daily.\n・Pressing the 10-Pulls button guarantees at least one ★4 or higher Member. Drop Rates for the ★4 Guaranteed or higher Member Slot conform to the [★4 Guaranteed or higher Slot] List.\n・Drop rates other than the ★4 Guaranteed or higher Slot (1 in a 10-Pulls) conform to the [Standard] List.\n・Drop Rates vary depending on Members.\n・The visible Drop Rate is cut off at the fifth decimal number, so the total may not equal exactly 100%.\n・An unstable connection to the server may result in display issues with Gacha, or lead to animations being skipped entirely. However, Gacha results will be unaffected.\n・Previous results of Gacha can be viewed in [Gacha Log].\n\n▼Gacha Pts\n■How To Earn\n・You will earn 1 Gacha Pt per Gacha pull.\n・Gacha Pts earned from this Gacha will not be added to or carried over from other Gacha pulls, except for Gacha listed as shared.\n・For shared Gacha, please check the Gacha details in the Gacha.\n・For details for this Gacha, please check the Gacha details via [Gacha Menu] → [Details].\n\n■How To Use\n・You can earn any Member from the list by spending Gacha Pts at the Gacha Pt Exchange.\n・For information on Members that can be exchanged with Gacha Pts, please check the Gacha Pt Exchange menu.\n・Earned Gacha Pts can only be exchanged for eligible Members during the Gacha period.\n・For information on the Gacha period, please check the in-game announcement.\n\n■Important Notes\n・Gacha Pts not used during the Gacha period are converted into Holostickers after the event has concluded and sent to your Gift Box. Use them in [Shop] → [Holosticker Exchange].\n・The duration and contents of the Gacha Pt Exchange may change without warning.\n\n▼Holostickers\nYou can exchange them for various items by going to [Shop] → [Holosticker Exchange].\n\n▽How To Obtain Holostickers & Amount\n・If Gacha Pt exchange period expires: 1Pt = 1 Sticker\n・Fully Bloomed ★3 Member = 1 Sticker\n・Fully Bloomed ★4 Member = 20 Stickers\n* This also includes ★3 and ★4 Members that have the required Bloom Pts to fully Bloom.\n\n▼Special Holostickers\nYou can exchange them for various items by going to [Shop] → [Special Holosticker Exchange].\n\n▽How To Obtain Special Holostickers & Amount\n・★5 Member = 30 Stickers\n・Fully Bloomed ★5 Member = 100 Stickers\n* If the ★5 Member you obtain has already been fully Bloomed, you can earn a total of 130 Stickers.\n* This also includes ★5 Members that have the required Bloom Pts to fully Bloom.",
+  "promotionSubText": "",
+  "promotionText": ""
+}

@@ -1,0 +1,25 @@
+{
+  "fixedSlotName": "Slot Jaminan ★4 ke Atas",
+  "gachaButtons": [
+    {
+      "description": "Hanya 1x sehari!",
+      "gachaButtonId": "gacha_button-gacha-pickup-normal-261019-btn_01-paid_stone-daily",
+      "name": "Tarik 1x"
+    },
+    {
+      "description": "",
+      "gachaButtonId": "gacha_button-gacha-pickup-normal-261019-btn_01-stone",
+      "name": "Tarik 1x"
+    },
+    {
+      "description": "Garansi 1 ★4 atau lebih!",
+      "gachaButtonId": "gacha_button-gacha-pickup-normal-261019-btn_10-stone",
+      "name": "Tarik 10x"
+    }
+  ],
+  "gachaId": "gacha-pickup-normal-261019",
+  "name": "Gacha Hari Indah di Tepi Pantai",
+  "precaution": "■ Penting\n・Kamu bisa mendapatkan member menggunakan Diamond Biru dan Diamond Merah.\n・Diamond Merah akan digunakan terlebih dahulu.\n・Hanya sebagian member yang akan muncul. Pastikan untuk selalu memeriksa Drop Rate.\n・Persentasi kemunculan member dalam Gacha berbeda-beda untuk setiap member.\n・Member yang didapatkan untuk pertama kali akan berada dalam kondisi Lv1.\n・Member yang didapatkan dari gacha ini dapat berupa duplikat.\n・Jika mendapatkan member duplikat, maka akan dikonversi menjadi Mekar Pt member yang bersangkutan.\n・Jika mendapatkan member tertentu, Anda akan mendapatkan outfit Live dan outfit Taman secara bersamaan.\n・Isi Gacha ini dapat berubah sewaktu-waktu tanpa pemberitahuan sebelumnya.\n\n▼Tentang Sistem Gacha\n(1) Setiap penarikan Gacha berdasarkan Drop Rate.\n(2) Setiap kali melakukan gacha, penarikan dinilai sesuai drop rate tanpa dipengaruhi hasil sebelumnya.\n・Gacha harian dapat ditarik satu kali sehari menggunakan Diamond Biru.\n・Gacha yang dibatasi 1 kali sehari akan di-reset setiap hari.\n・\"Tarik 10x\" dijamin akan mendapatkan 1 Member ★4 atau lebih. Drop Rate pada slot jaminan Member ★4 atau lebih mengikuti daftar \"Slot Jaminan ★4 ke Atas\".\n・Drop Rate selain \"Slot Jaminan ★4 ke Atas\" (1 kali dalam 10 tarikan) akan mengikuti daftar \"Standar\".\n・Drop Rate berbeda-beda untuk setiap member.\n・Drop Rate ditampikan hingga 5 angka desimal, sehingga totalnya mungkin tidak mencapai tepat 100%.\n・Koneksi server yang tidak stabil dapat menyebabkan animasi gacha terlewati atau tidak tampil dengan benar. Meskipun begitu, member yang didapatkan tetap tersimpan dengan aman.\n・Riwayat untuk setiap Gacha dapat diperiksa melalui \"Riwayat Gacha\".\n\n▼Tentang Gacha Pt\n■ Cara Mendapatkan\n・\"Gacha Pt\" bisa didapatkan sebanyak 1Pt setiap 1 kali tarikan Gacha.\n・Gacha Pt dari Gacha ini tidak berlaku untuk Gacha lain dan tidak dapat ditransfer, kecuali pada gacha yang memiliki keterangan tersebut.\n・Mengenai Gacha yang dapat berbagi Pt, silakan periksa informasi pada Gacha ini.\n・Silakan periksa detail Gacha ini melalui menu [Layar Gacha] → [Detail Gacha].\n\n■ Cara Penggunaan\n・Pada \"Penukaran Gacha Pt\", Anda dapat menggunakan \"Gacha Pt\" untuk memilih dan mendapatkan member dari daftar yang tersedia.\n・Untuk informasi mengenai Member yang bisa diperoleh dengan \"Gacha Pt\". silahkan cek bagian \"Penukaran Gacha Pt\" pada Gacha ini.\n・Penyimpanan \"Gacha Pt\" yang diperoleh, serta penukaran member terkait, hanya dapat dilakukan selama periode Gacha itu berlangsung.\n・Untuk periode berlangsungnya Gacha, silakan periksa pengumuman.\n\n■ Penting\n・Gacha Pt yang tidak digunakan selama periode event akan dikonversikan menjadi \"Holosticker\" setelah event selesai dan akan dikirim ke Hadiah. Holosticker tersebut bisa digunakan di [Toko] → [Penukaran Holosticker].\n・Periode penukaran Gacha Pt dan isinya dapat berubah sewaktu-waktu tanpa pemberitahuan sebelumnya.\n\n▼Tentang Holosticker\nHolosticker dapat ditukarkan dengan berbagai item di [Toko] → [Penukaran Holosticker].\n\n▽Cara Mendapatkan dan Jumlah Perolehan Holosticker\n・Jika periode penukaran Gacha Pt telah berakhir: 1 Stiker per 1Pt\n・Mendapatkan member ★3 yang sudah Mekar sempurna: 1 Stiker\n・Mendapatkan member ★4 yang sudah Mekar sempurna: 20 Stiker\n*Kondisi ini juga berlaku jika mendapatkan member ★3 atau ★4 yang telah memiliki Mekar Pt yang cukup untuk Mekar sempurna.\n\n▼Tentang Holosticker Spesial\nHolosticker Spesial dapat ditukar dengan berbagai item di [Toko] → [Penukaran Holosticker Spesial].\n\n▽Cara Mendapatkan dan Jumlah Perolehan Holosticker Spesial\n・Mendapatkan member ★5: 30 Stiker\n・Mendapatkan member ★5 yang sudah Mekar sempurna: 100 Stiker\n*Jika member ★5 yang didapatkan sudah Mekar sempurna, bisa mendapatkan total 130 Stiker.\n*Kondisi ini juga berlaku jika mendapatkan member ★5 yang telah memiliki Mekar Pt yang cukup untuk Mekar sempurna.",
+  "promotionSubText": "",
+  "promotionText": ""
+}
