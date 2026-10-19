@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_area-a03",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d796db7f09d835257c352805680d36737eac47ff25a32150b84ed1b3d7357541/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "b56c2c68f1ae8672c92119053458ede80c62e79e8c6880943ff6afb34c24c41c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a68f06d20b1a674c0ff2c32189e74a9f5cbae415379141a63313ca4218500040.jpg"
+    },
+    {
+      "path": "c4a1f77bb8773d70664ef5c7ff3fe7b5d8ae04f695bdd4d1484faac537e5e9bf.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/90ad77c733747bb1fb85b844f94cf3286f00a0fef93beba441553736037da1b8.jpg"
+    },
+    {
+      "path": "65fe2e0f6dd46d385eec9c70c2eaa7b3aa2f8682d01535790717d90245d92743.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4e7501e0d98caf0a3d06f73b0a78cfaa293848013af9e55266457f52380d7e41.jpg"
+    },
+    {
+      "path": "bf5e4abcbbc4323799dbc764d19f5d5311f010f8fea6d709e6db24c3b284f7f6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/49ccd59d0ca1d95308eb0ad43d1f3e94734f737bc63f4b66959da8d7d8b8aa28.jpg"
+    }
+  ],
+  "startTime": "1790647200000",
+  "title": "Area Baru \"Soda Pop Lagoon\" Hadir!",
+  "type": 3
+}

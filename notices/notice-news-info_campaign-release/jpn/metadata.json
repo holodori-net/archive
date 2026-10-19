@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_info-campaign-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/97e6bb042f25f364e2ee99bc9fa65e777c372a5dae3468905c566ea43cceb750/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "a4732961224a0cd56f6d5d7f460656b5df87578b5f968e321e3db25abaddef32.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e6b4a2b674f0f73f50f032b5def14904811c8f319c6152c3d469d0de38836482.jpg"
+    },
+    {
+      "path": "484a840b25b014cd91a410da5a88fa7d1c0b72488f22fc1c6738b03b11a24f16.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b135dfa067af88ce24ed12a14d93f5c82625a172441328cbef3af8b5d6d7a221.jpg"
+    },
+    {
+      "path": "786d1190e9c4b58fe5970fa819a4b9826c3b81db51c957b2e3d884ad42bced6b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1983695690c765a98fa4053af27395286d65c229c90d1f8fc1bd60a628395e16.jpg"
+    },
+    {
+      "path": "d2dc6a9ad32cc58ff2c15d56de177416d65ffe863cef4e39d72b699969a2adb5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fc1a4c5f434030416bc518aa20ef0f7259ed0d3af0734a0807fd3e774e666303.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "「ホロライブドリームス」正式サービス開始",
+  "type": 4
+}

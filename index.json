@@ -143,6 +143,22 @@
   ],
   "masterVersion": "452bd7acfd1b9f90cc85d9978aea55b1a6bf6c2cddaff470c640462830c8c00d",
   "notices": {
+    "notice-mal-list-confirmed": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-mal-list-fixed": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
     "notice-marathon_event-normal-007": [
       "jpn",
       "eng",
@@ -152,6 +168,14 @@
       "chs"
     ],
     "notice-marathon_event-relay-003": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-gacha-beginner-select-001": [
       "jpn",
       "eng",
       "ind",
@@ -183,6 +207,14 @@
       "cht",
       "chs"
     ],
+    "notice-news-gacha-fixed-beginner-001": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
     "notice-news-gacha-pickup-260929": [
       "jpn",
       "eng",
@@ -200,6 +232,190 @@
       "chs"
     ],
     "notice-news-gacha-pickup-261019": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-creative-chart-01": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-daily_quest_update-261016": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-mv-release": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-other-261019": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-update-260730": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-update-260805": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-update-260828": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-update-260909": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-update-260929": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-update-261002": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-update-area03": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-update-chase": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info_campaign-release": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-mission-area03-release-260929": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-mission_beginner-release": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-shop-membership-261001": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-shop-missionpass-261001": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-shop_pass-release": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-shop_startdash-release": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-pr-official-game-discord": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-pr-official-game-website": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-pr-official-game-x": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-pr-official-game-youtube": [
       "jpn",
       "eng",
       "ind",

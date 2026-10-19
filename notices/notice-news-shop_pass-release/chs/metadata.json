@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_hololive-pass-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/4a81342804db12d35bcb8bb694bf1eed233e6eb96b033df2bdf32c3918b01933/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "2d0a7345f839dbe18df8314a71d096de3256e8c9996ee914bb8afc6913bad8aa.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/64c010534d760df756e078254ddd9297bed3d9286231392be42ab743f39bce0b.jpg"
+    },
+    {
+      "path": "ffc2988e58e1a057372731c81343a35ba51bbcf48972ee793f6fc2033431f14a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/26e2a0e94432f3750fc1cf9110bd76135101120317245afa958fbda13b5c402e.jpg"
+    },
+    {
+      "path": "90f980e3155aaab8e8ecd7b7eec8b73e06120782655df5af4a27271d8262d66b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9711e592f13df188bc914afe055f3ad626bf71f7a8db1bade15f1efe5ff783f0.jpg"
+    }
+  ],
+  "startTime": "1784772000000",
+  "title": "Holo通行证等实惠商品上架",
+  "type": 4
+}

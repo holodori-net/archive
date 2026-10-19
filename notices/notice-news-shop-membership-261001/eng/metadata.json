@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_shop-membership-261001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/cfc8d58a13935bc2960123bb7606e882a7f724f51b946a19132da16eb41e1ff5/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "5fdd685a60af15bbee76d1bb6e53119d361f6c32247bcf68157eeb60035742a5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7519e17d508e82bf43c67ecfd2a92dc7e1eca75c8d77ecfa1ec3c92e687c4f79.jpg"
+    }
+  ],
+  "startTime": "1790798400000",
+  "title": "\"Emotes\" Added to Membership!",
+  "type": 4
+}

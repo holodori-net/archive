@@ -1,0 +1,19 @@
+{
+  "bannerAssetId": "img_banner_full_update-info",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/8a5d2ec669252a40acf8ff694b3f68dba0dd11e65f15613d524c7569ff38778a/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "47ec7d225cc5b75db4ad13ef1048658a00261a623f0a04d17ad1ff354d09d35b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/882d11ee4c1b991628e33c9f95e991161cabe599f56c1b7da5766498473eed01.jpg"
+    },
+    {
+      "path": "d338ff106cc221f3e0ed1ea977a330fd8fe5cc909b9d57703365e8a6c215e3f0.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/85ff6848f2dbfd9e171df9e4a66f4dfb73124958136551fa7aaee8e75f6ce0f6.jpg"
+    }
+  ],
+  "startTime": "1787882400000",
+  "title": "Ver.1.1.0版本更新公告",
+  "type": 3
+}

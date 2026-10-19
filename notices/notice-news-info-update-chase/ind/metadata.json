@@ -1,0 +1,43 @@
+{
+  "bannerAssetId": "img_banner_full_minigame-chase-260828",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/4af01f4e3b090d122df9806e55ad713ea5bff0609eaec34472c6c8360fd0fe88/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "73961abf76e3a6053687ff9e4993fab7452c7cb609bd1289adab4c5907d77af7.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/51e7b234816d998b4c51405b6786e12f85495c1e797142a9201aaefed2cc398c.jpg"
+    },
+    {
+      "path": "63cf506b880fc1bff7b71d558eec757b881c4a82aeacd3d19d98230c6438f3fa.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/cb686fa8f94a0cd0ebc5d928f1bcc8d02dda68b20de372e0967c50fb01fbf6c2.jpg"
+    },
+    {
+      "path": "cede72e255e7254ded19439727d621efc5974a533ceb0f0aeb59f98ea51e72f7.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/08f46254097b98815d988690a2d88636e877734ee8c72a9549f85a04adc7e348.jpg"
+    },
+    {
+      "path": "0345123f7a7e6db0c9fc1ea0d93a75774a6d00a6a66da0cb266dba3c732d6086.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a8f44b0bfdeef005de0273b4a9755b3e3ae08d30f2f7409fd28e8a0b39ba07fb.jpg"
+    },
+    {
+      "path": "dbcb7ad9841a604e0b17e053eaafc828cdcbc2dcec6ab1fe27be7e5efa509557.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d9a1831c6059bb81e51f499b56d6cd66e9cb3bee952a8418af27f8be0d88281c.jpg"
+    },
+    {
+      "path": "ebe37839c1de5e2ad4d01605e23c5b52c46c70faa31ae8ad5c952ed42b777dac.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6f010aef5c60c708ad25667f51695c8ec793823494036e4c3ed330cf3d264022.jpg"
+    },
+    {
+      "path": "f3fb4183ad4e9c8740ebae790baddc35badf44679dfe3a8f5b6bcafde560616e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e25a3fd20648108d55fc05686f6390ddad82fff092d429d0f4f907af3bb64111.jpg"
+    },
+    {
+      "path": "8f3e75513d68a8a6b2434298aadcf2502eb29f9a5d17ec254c058969dba2814e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d81d9b3115abf2c92dfcbd2682b9c54ba33b19fd453a6df0ebc852f93ace8454.jpg"
+    }
+  ],
+  "startTime": "1787882400000",
+  "title": "Mini-game Baru \"Shadowbound Chase\" telah dimulai!",
+  "type": 3
+}

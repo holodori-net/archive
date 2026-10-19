@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_area-a03",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/0b74dc08d730e89e4b5067348be651982eb635838ccf8b1a81d3282f95a4ac82/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "6d5b21a617b9425ec17c6383c7801c9a9821d89b8f7e3d0505ed1793c34feb85.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/19c726f69ffbf82dfc1945142f78c608e435e7b9e46b5559f064448d218f16e4.jpg"
+    },
+    {
+      "path": "c4a1f77bb8773d70664ef5c7ff3fe7b5d8ae04f695bdd4d1484faac537e5e9bf.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/19c3f93b00b6059c92496acfcb856e4d85ba80326fe81abe84c95b208ec11508.jpg"
+    },
+    {
+      "path": "65fe2e0f6dd46d385eec9c70c2eaa7b3aa2f8682d01535790717d90245d92743.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/aedf54063efb274f3f0874aef6cccfd8661a1b9dc6783f46c3a8e17781a9b35b.jpg"
+    },
+    {
+      "path": "0b0ffef6b0ab9927797a51bf14e470d090083a6d26e7a8cb9eeeb7c190036697.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/abfb76f9ab46c82798eac37c71aa779f11a37a2130c767a228e1c5e5e4f09f45.jpg"
+    }
+  ],
+  "startTime": "1790647200000",
+  "title": "新エリア「ソーダポップラグーン」登場！",
+  "type": 3
+}

@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_shop-startdash-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d40f39bea298e79823c798e57049ec3cc0846b6e1be0766c049b75a21aa7c349/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "7b7407aae8b5a029d97d5bc496f8709633842f073c81243d5d74570aa752ef67.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ea78581e02b075efe2d7669606aa45468503f6038bf9722477714930632d9968.png"
+    },
+    {
+      "path": "88f55213d4520f6c8d57f30bfc41d9bb2038602fb70ef0111089b2a220f907c4.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4ed00f4d97b3592f5a3b5477b87b9d661f3c090b3e4e50a93891247bfd6d7edc.png"
+    },
+    {
+      "path": "f4739370a4713032e0a89e39b9148b9ceb7bdec05284597ef89c91abc1287297.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f31f1a6e1f8a9587f528b23e2776be0653f6a23a186007230e72f44d060630fe.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "开服纪念限时礼包登场",
+  "type": 4
+}

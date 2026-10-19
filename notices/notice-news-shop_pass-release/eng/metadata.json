@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_hololive-pass-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/ef2acecce0722b99a035d67889ed801bf47f77aa9113195fa1e88dc942a7a713/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "7318f1daf9fd87b4e839e85230fec7a07ca1ee4601bf4a81956808a5026cb331.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6249de5f5231dc7fab90361697f14904dafb438503ad08539a27858af38be4f4.jpg"
+    },
+    {
+      "path": "46ce9b251fd65fc23aa2944ae8f5bc3a4faf98e2ca2cfb7fbf74115b7b9c0b58.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ff28d143f2e953584d2db6a058304b5d268ffbdf1d3fb5fe9b6473c9d7002be1.jpg"
+    },
+    {
+      "path": "dea9248b19b16351f140523f7ff63040bc78e75841a16ff898254ab4725c639d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1bbf3b643073caba657f833b6987e441b13453341a5acc9a37ad696f99402766.jpg"
+    }
+  ],
+  "startTime": "1784772000000",
+  "title": "Great-value items such as the \"HoloPassport\" now live!",
+  "type": 4
+}

@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_hololive-pass-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/bf63105aec9c356df79c421e782ae4175ade7a1415516fcc53bdd3919cb56d2d/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "fe764ca502acce7531a871ce57efe4ce08da63a054dcc3dca47a621f424c2e6a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4dead8ceaa2e76c6379f02fae3a0d6f61d7b3c97e2f4bfa497e13286334410c1.jpg"
+    },
+    {
+      "path": "a06ad237442d83166bc7db1e8c48b5cd465b4dff1aef1ddc6b4c897875624b75.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/20252a26002e831c2693762ee291e01a4abac023425ea303b95df054d585626b.jpg"
+    },
+    {
+      "path": "b24fcbe8851393bfa3e69d7e605aa45697769c90c0e100814c46249c2555f217.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0630c000582f9cc6b1bd448a6ee37940f1c7053a6eb3c205b0f7f7b99b96c771.jpg"
+    }
+  ],
+  "startTime": "1784772000000",
+  "title": "ホロパスポートなどお得な商品が登場",
+  "type": 4
+}

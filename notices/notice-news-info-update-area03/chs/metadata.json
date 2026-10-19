@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_area-a03",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/a73540bde73205857b84a15a317c4928bf456c75118919cdfd974cc0828d95eb/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "937170272f8f68892a91c7b8585deed609123c4bedc9e19d75488bc1093edeed.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/76deaa91f0b8bc243999ac1a36da1f8c02b2e39222c3d95467d301bd301f9bb7.jpg"
+    },
+    {
+      "path": "c4a1f77bb8773d70664ef5c7ff3fe7b5d8ae04f695bdd4d1484faac537e5e9bf.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7dde0eb6aaee6059a580268f7232bacf429ea5ed782b55a6c7198727e78dfe5f.jpg"
+    },
+    {
+      "path": "65fe2e0f6dd46d385eec9c70c2eaa7b3aa2f8682d01535790717d90245d92743.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7c3bd3d3d6f7f2dff6c76e1de8df6e75ab4ebdd67b2ce59de30f248834c19c0b.jpg"
+    },
+    {
+      "path": "e7c71559ddd0df84b6b4888badae32749dd2008b1bd5d926b98ce0acd413ab7e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/17a1e7961c953f3792a8b2885a5b3fab4d3ad485213963f8d85ea8953ed411be.jpg"
+    }
+  ],
+  "startTime": "1790647200000",
+  "title": "新区域“汽水泡泡海湾”登场！",
+  "type": 3
+}

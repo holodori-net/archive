@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_hololive-pass-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/950755d21d38d0bebd10e0caa62573b671cfc138cfef899793149b3135c62e29/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "d6ea7989b2c1e3d8f5b664bdfe6fc1b5f1bbf1468c5abf381f110df6f24afab4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0206259340e27bf822dad99c006a18adfada08d39890c1338d27c668f2c85f8c.jpg"
+    },
+    {
+      "path": "2aa7b9dc12e2aa0d10d0ff68fa150a7d0bccfeeaaec64447ef886c11f8b55dfa.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3ab8cd576cbb8bd6b9e1d57419c74cd96afae9c9990bc43d148293b8684e1f37.jpg"
+    },
+    {
+      "path": "106818ca20ab78ffbddf2d1232798a517f3890592ff7edf1ebad9e2bf37aa319.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6d89e745aece172d4cafe8ff3827581997ecaa83bd049ebe5a8fe0afed561f0e.jpg"
+    }
+  ],
+  "startTime": "1784772000000",
+  "title": "Holo 패스포트 등 특가 상품 등장",
+  "type": 4
+}

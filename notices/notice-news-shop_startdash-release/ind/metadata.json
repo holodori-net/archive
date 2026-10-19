@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_shop-startdash-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/83d5e62db1f79a8b096feb850ef3756efaf9b8bebfbb0b6f836e035a13b9d90f/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "d55aa57365c5d701cbf8ea22684cf77ac093cf9290ed5245cd68a5fe34b8812e.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fe7d91ce9f2f85e4d88d784249112fb572195ef4bbb6789ca4ec29e5ec2b6614.png"
+    },
+    {
+      "path": "46f023625772274413bcc7fabba068299c6156c3838e2ab190ac97bfd550d1e3.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/89432bbe8daadcad2c2b45242b3c7743ed6bc81f73085fbfdceb6897bc99d9df.png"
+    },
+    {
+      "path": "27a864665aa5fa6760451db994d17719ee78644341d02569c95934d5fef113e1.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b8d1e371a614cb1d9959f6258e3179bbc62ec48e3a3d965f1bcc8c230ea44093.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "Paket terbatas spesial peluncuran game!",
+  "type": 4
+}

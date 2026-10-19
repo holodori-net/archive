@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-beginner-select-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/c7cc79a3811f79ac63038636d2d5fe330e414549d1ee69352f1f370e579d910a/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "459764eb3b2e5f3aa368b626b5fa0fd67c53348287e3779f48eae9bacdb565a0.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6f0b3d23f1e1d5175b3f9ab1a3e7d2dc45a568ff64e80e1b5493a5970f8abef1.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "7 Days Only! Take your pick! Beginner's Support Gacha now live!",
+  "type": 1
+}

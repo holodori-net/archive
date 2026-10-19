@@ -1,0 +1,19 @@
+{
+  "bannerAssetId": "img_banner_full_update-info",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/6a5b0cc955ad2bcc36edbd7378c7e7383d66b8bfa5001d0b26df770015ba1ed6/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "c8c6c849c3f7ff768b5224e668b23e6f0b24940925ad2b3431148d5f64195192.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e717823ff07266cb483cc7e88d577e3488da5407f6b772ecd87a0663c4b4b5b1.jpg"
+    },
+    {
+      "path": "60775169a98297db034d091a5acfbdb0fec1286f11d38fb87d8366a0fe92219e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7882ba929ad80ba4531adde8b0c56e3990a1d122b2d20b7dd279ce1cf4263207.jpg"
+    }
+  ],
+  "startTime": "1787882400000",
+  "title": "Ver.1.1.0 업데이트 안내",
+  "type": 3
+}

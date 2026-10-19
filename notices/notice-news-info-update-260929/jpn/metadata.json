@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_update-area03",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/6b4d959e20fe9e51329e72b967b84ca62d772e1a160f1c2a488fa4c3bd2807f7/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "b4e00dedac0f5097ace95ddc0e9d26fcc09b6a8d40d13c2e26345003184e94b8.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/00196b1c50a78272dc51583dccdee498f61ec914d8b25bfe9459de19b58415c6.jpg"
+    },
+    {
+      "path": "6d5b21a617b9425ec17c6383c7801c9a9821d89b8f7e3d0505ed1793c34feb85.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/19c726f69ffbf82dfc1945142f78c608e435e7b9e46b5559f064448d218f16e4.jpg"
+    },
+    {
+      "path": "14731b7de3c14a4b8ab8754699346a50a303d586c0b6ef6696c903cb385ebf7e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a6edba857575bc460d3574731b494e154501cafbe3c95f2725e46e9a06036e4f.jpg"
+    }
+  ],
+  "startTime": "1790647200000",
+  "title": "Ver.1.2.0アップデートのお知らせ",
+  "type": 3
+}

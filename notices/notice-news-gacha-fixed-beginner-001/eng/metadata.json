@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-fixed-beginner-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/ef59eb714fcc6029edb4131ea0933b2cc1eb47b902cd3ec602335184c606bde1/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "7a63df19c6cb83e135ba416b8202a4a38db9cd384dac849823f2c646017215c6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9643306ea4504da4d23544e29fd1e40541d2142b95518e83a138f10de8e29c37.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "Only for 48 hours! One ★5 Guaranteed! Running Start Gacha now live!",
+  "type": 1
+}

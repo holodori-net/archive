@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_area-a03",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d98186bafc3b539bb8d3a74630d91ea569da7876f0e4b6135dc1c07fc9b22b99/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "98d819c737f996a09096347617ec836d802e9e7ca6b92fdc17c6babdeeb75738.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/28216bea88d2311abd87d71e5403d8637eec38ba3a84082c15a39abbcb1aca30.jpg"
+    },
+    {
+      "path": "c4a1f77bb8773d70664ef5c7ff3fe7b5d8ae04f695bdd4d1484faac537e5e9bf.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/36ade7629cf02c9b1f5d1f7d9b1a85c9eb9917c18cccca6cf7ce9e9737530421.jpg"
+    },
+    {
+      "path": "65fe2e0f6dd46d385eec9c70c2eaa7b3aa2f8682d01535790717d90245d92743.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/74e95d1e59fd44fbd8aac07be1e98a4f1eafc4f1a9f46d40a160b233affcbb5d.jpg"
+    },
+    {
+      "path": "3bd887ae2dc55753002e91d85709f3182b54c800b2516e5b0c032b6ea052831f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fd7e5f50682d7a7a8fbc841bff4484040508ab42a3a485b4b47e26a678d20b22.jpg"
+    }
+  ],
+  "startTime": "1790647200000",
+  "title": "신규 구역 「소다팝 라군」 등장!",
+  "type": 3
+}

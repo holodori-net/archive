@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_hololive-pass-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/50abea19db2dd40b4b07f88e27873874c168289ecc6f1667d90a7a01871a8df3/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "0309244341c561cc4734ed5695900892a91878d5a5c6d0d4f1d510a5d86175e0.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ff085425dabad346fe48a486c8092ae2c89af200fddd9faff4d29af16c421ee4.jpg"
+    },
+    {
+      "path": "5b1197287d61b27d238049d0efafc71e38655d91be82d537b126e5a6c53b4ffc.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/48d84a2764655ea30956e6a78da354de890501e94de28b73983cf55cc73588bd.jpg"
+    },
+    {
+      "path": "f15fb5b9bd42c79c138daaa24b735049ea7304b7558e470836e3d2cd67eff221.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/590210d1b35ff6b17735b8bced81c1193a8192ed98d0069f72d16d8cbf3a1dd1.jpg"
+    }
+  ],
+  "startTime": "1784772000000",
+  "title": "Telah hadir HoloPaspor dan item menarik lainnya!",
+  "type": 4
+}

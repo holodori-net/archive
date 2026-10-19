@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_info-campaign-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/fc005aa720a428a26f6f51605d067f80dda743d875f032f5df671d54b1994775/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "90bfe2442e8883a58858a4ecdba0afbe68537ba01f685e754ab51549d145f009.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d05ec17547beeae3b8243625f0d583f385310575b4a3c9081660ebba6e869137.jpg"
+    },
+    {
+      "path": "11b4ffc0fb0b08ec7019e6bb1c8e4f63a0a1d0bc425c8e60cdb670ca8a3481e5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/588c26754e08cc748f3815f29e5de3876272481f98a2318fd77799e4fe98f133.jpg"
+    },
+    {
+      "path": "20e57fc0fd9487457eae640e6fee4a808c20daffc37f428e9bfcc371573e9e53.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2f89ce49111d5b9db115a257cbad4a134e809a7112fa486b6b4f416806716e7c.jpg"
+    },
+    {
+      "path": "d2dc6a9ad32cc58ff2c15d56de177416d65ffe863cef4e39d72b699969a2adb5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c423d74d8c7d0a64b8f682d3680600f31e52514062d4358d31da65e717794c10.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "「hololive Dreams」 정식 서비스 시작",
+  "type": 4
+}

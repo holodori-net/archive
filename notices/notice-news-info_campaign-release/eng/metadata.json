@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_info-campaign-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/55c1cfcf735e1a63b572730dc9829f374572df85613330b1a29834cb239bf59b/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "1e58230496e529dc1b4e3635d0bdebd210c3414a6422671fa9b6a38edb045112.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5a8057156839abb05aaf2be8683b5d5ea614c56f777bb125d52b76366767a10a.jpg"
+    },
+    {
+      "path": "40a143766424210ab82b54d0172a43a6037087c54afdebc82e4a69af9bc9e27f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b2638851332dc1a62376b883ce3c924eacd1603241d9d0de86bdb5d83783e5ac.jpg"
+    },
+    {
+      "path": "7deea9e3819d03458bcbb3559267e43e0dd9520768a4304e79c8aa53c38002eb.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fdf8fc6ae83ee94795bf063e6059562ef2bbfc9b9dc7b43716d99d2f71e7bd4d.jpg"
+    },
+    {
+      "path": "d2dc6a9ad32cc58ff2c15d56de177416d65ffe863cef4e39d72b699969a2adb5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fab078233327de97a98ad0fcf4ffce03efcc70913520f8930d294ba7076f5a2c.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "Official launch \"hololive Dreams\"",
+  "type": 4
+}

@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_info-campaign-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/19f75c732636f8ecf1b786c6c663c78346b2c63463ab753b087f9e45381c4339/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "41b6ef444b6b84617fec31645caca5b97bce8929f6c6f879dc28b9979fd3756d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9e64f8885f9ca6e214330cfdd283a43c85ad8243498b0ecf9e04b5e6ada2eed2.jpg"
+    },
+    {
+      "path": "efbb480348c270ecf6adbb9ed649c059236f8cd6e78ec1d68b5c55d79009ea50.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/92a279f6d7488eb1527a6d462a2ccdc796f0ac73379715dc3bef08f667fdcd76.jpg"
+    },
+    {
+      "path": "71917f44dbbc6837bf830e213a20a64ded180218f8a4cdb19921f56e87b81743.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e99087cae8ec457d048deecf7f8818a298aac4e87ae24395a183afa3939927f4.jpg"
+    },
+    {
+      "path": "d2dc6a9ad32cc58ff2c15d56de177416d65ffe863cef4e39d72b699969a2adb5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0330e062320d20429384cd38eaf68fbcd4a007ca8d756d5348906d2b77c4fbb6.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "「hololive Dreams」正式上線",
+  "type": 4
+}

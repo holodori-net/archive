@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_event-mission-beginner-mission",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/77e0164856262d37aa815566e961b0acaad362c36b3e79ccd00be50a87287045/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "fd75d346708dc60c08c051cf7e59353129998361dd265a446202e7a5194b0d54.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f8b53096a10ee518f1777727eeba57a570f099bfeef61922de6e37cf7506b2b2.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "Beginner Missions now live!",
+  "type": 4
+}

@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_shop-startdash-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/487a2fcc40edfe31f5035aa5bb474e69d3544afa1f6629c62e19d2c15e4ff8e1/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "1ae35d7ecef6b25666ef470a2bb423e29055687061754be3521e1448d1630a8c.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a3f2c697f5ca7ee049efd48cf07e5e7d6ee1c66270ed678c7999a972650f8406.png"
+    },
+    {
+      "path": "0820311b74a6052106674b3bcccee2c5c427c130b84e6456fee811e861b4f926.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/791816e1c32fdf3c38d51af61ddfcb2f57ac60ea517f1dcca6152c6bde4c972f.png"
+    },
+    {
+      "path": "f37361e7265591a71a956c7c8073a182d14311fa037e76166adcf305ad5fdd77.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/07e556ac2e2a83ae6b4dab796f823c14b7ec489e66f21760f8996c9bd10fa179.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "リリースを記念して期間限定パックが登場",
+  "type": 4
+}

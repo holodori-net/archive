@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_shop-startdash-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/da2ba6660575f675c42cb090982b8be2ce63c0429bfcb0642a5371d08889e49a/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "196abd21b3a189c8e6f044d6072339068b39b352d5c6460be184a8af292fa055.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6621fe3b5462d06248d8f7bf3c823926f7f50a13f6bd517bb5bc6679b8980ff1.png"
+    },
+    {
+      "path": "54fa893a8cfa33a5da1d0bb4e3e16e29d23d717980ec3bfee349d05a8d4e29aa.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fe01cec20d9d7a48deccfdc4ed551b3964f727bdaa07819688474d9e2c6cf672.png"
+    },
+    {
+      "path": "efc267e5293aebe38b5c076521661ec359a53e5064497e060a650c35ab05649a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/eb46f14de28fa3f913166044c36eb8f3e03b4b155af8463b3ae1fe4fdf2f3ed3.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "출시 기념으로 기간 한정 패키지 등장",
+  "type": 4
+}

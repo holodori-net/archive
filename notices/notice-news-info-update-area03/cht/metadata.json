@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_area-a03",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/72611d1f63c059b9cbce983288967280ed6434a64b5f00250b544d9e31ba7d5d/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "dc4647b5960cb2e56f822c8732f835b1ce53db254f1d0448720e7bc7f1f74b73.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6e85aa749ad38d06eb369d2f2e39dafa23c99a7b262edaad6df9b9661da752c7.jpg"
+    },
+    {
+      "path": "c4a1f77bb8773d70664ef5c7ff3fe7b5d8ae04f695bdd4d1484faac537e5e9bf.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b42c8d72dfc087e3f41f4231715d6e6fb3b7ccfe0cc985bc6341fb8270f2ab71.jpg"
+    },
+    {
+      "path": "65fe2e0f6dd46d385eec9c70c2eaa7b3aa2f8682d01535790717d90245d92743.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c66d0e09f9221c5162f4ed89497746b45510a32670d6745aee7ffc8939e148d9.jpg"
+    },
+    {
+      "path": "1d0f8d0dbc3df044d1122623a8ff2719b3024cc5cdc9d266e1163431cfd6dfa1.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e81977eb12cc0c98114f6f82278b9197693317b69da408cb5c3baceef95fdbfe.jpg"
+    }
+  ],
+  "startTime": "1790647200000",
+  "title": "新區域「汽水泡泡灣」登場！",
+  "type": 3
+}

@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_update-area03",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/7add5ddd14be882f841590d7e2520df0c0d6a52663e6b51a9c34d92fc544ab5e/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "6e589df754ecc689d8ed58e588f7b394d0ccd3dfea312102e9a591c49d1f9674.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e37ac61f14122616ad69623860c652128e80f9f5647f1f7a73da28154d58c821.jpg"
+    },
+    {
+      "path": "b56c2c68f1ae8672c92119053458ede80c62e79e8c6880943ff6afb34c24c41c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a68f06d20b1a674c0ff2c32189e74a9f5cbae415379141a63313ca4218500040.jpg"
+    },
+    {
+      "path": "25e1890c3887d7fec0514362cb202afd1bb4af0f118e462a36749b03fbfd9ee5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3b89de8528b2e3fa2db0643143f1e692ab6eb223f5f889e775db82ce97791a6b.jpg"
+    }
+  ],
+  "startTime": "1790647200000",
+  "title": "Pengumuman Pembaruan Ver.1.2.0",
+  "type": 3
+}

@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_event-mission-beginner-mission",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/f2de748a4222d3ff039a3a664642c4066f77ef896d0b044e93ffb7a4d15b9a10/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "d2d139744340a545d246db8c0ddedaf025923683f20685617cf002900b9ddf96.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fa3f18ad2263ef9de060c0deeed11f3fdd99877ab02dcb762ac6aa78a4a29bef.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "Misi Pemula dibuka",
+  "type": 4
+}

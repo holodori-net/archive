@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-beginner-select-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/f9da0e4c76657a6b970cd95c7c0bdabaaaf9d5aa4f4e8e968e0e7d4b4bd4ad01/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "29feecac954630fcf74ec9f4d396cc893033781e7d6bc8c098c79aa54b5873f5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/68f922c68e6f2e8fb1a95eb954ec77d05eaa96161f8d469d75a82bc9b1bdf5d2.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "7일 한정! 선택 가능! 초보자 응원 뽑기 개최",
+  "type": 1
+}

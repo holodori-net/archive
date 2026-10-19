@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_shop-startdash-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/5c8f62ddba665b707eea24daf8f65ec72cc1c5172673e8fe991b83e3e60ccb34/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "4aff854018832c2807c563c30c285d38bd1f963f24f3aeba6bd652e523fe49e5.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7aabe1f32a46fba70743f654f81a95c2b033ea8075f309bc0af54d581f2b33aa.png"
+    },
+    {
+      "path": "7d79ffb56dd213da88970d258aa750b38f4e1674e52835001b9b2957ee467462.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/91c484ea790c557c8d5585d4f95efb9cfe270ce9d31a5f49ff40d9635df94c8e.png"
+    },
+    {
+      "path": "5f8610231031b5f32a5ed6c0ca0009ef318b403037449ba265192e2b0d0b4538.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6643f4cc90e40902fe8cfdcde6b7e698b277bf0ead1e7644cad02403d7ab45dc.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "發布紀念期間限定禮包登場",
+  "type": 4
+}

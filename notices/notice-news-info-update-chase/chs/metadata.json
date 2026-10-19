@@ -1,0 +1,43 @@
+{
+  "bannerAssetId": "img_banner_full_minigame-chase-260828",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/a9fb2912b4d1b55a74540d4a4882de6d82905d123403ef4037654c3371eac987/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "adb1dd9c6fcd1fd4f6e6decc232bfa7b0ca9de3596ca65c9b19ade251838bb8e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/895d2fddf9599af9f298b5ed46222a9cbe30a1223fd9618ed8eb90c36b08df28.jpg"
+    },
+    {
+      "path": "63cf506b880fc1bff7b71d558eec757b881c4a82aeacd3d19d98230c6438f3fa.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9d6cc15e1d6d3828f7cb9ee61f8db082b2d1f0b9561b20b837dd842d8c5a7352.jpg"
+    },
+    {
+      "path": "cede72e255e7254ded19439727d621efc5974a533ceb0f0aeb59f98ea51e72f7.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e0f1499c2a2a10a60433e53149abd0c2aa920523e892ebb48e2d85f48689582b.jpg"
+    },
+    {
+      "path": "0345123f7a7e6db0c9fc1ea0d93a75774a6d00a6a66da0cb266dba3c732d6086.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/af9dea7176fc50b0eeb1a6b04b9a3759c9bd9c94c66b991b7dde65fee45c2f56.jpg"
+    },
+    {
+      "path": "dbcb7ad9841a604e0b17e053eaafc828cdcbc2dcec6ab1fe27be7e5efa509557.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/34d922140eba83e12e213742046f5ea04dff17d4d7ebf5047596123820cd2439.jpg"
+    },
+    {
+      "path": "ebe37839c1de5e2ad4d01605e23c5b52c46c70faa31ae8ad5c952ed42b777dac.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c224cb967146ab82a34a8f57f08c848cc1a508f8f85c507b988817349e11e992.jpg"
+    },
+    {
+      "path": "f3fb4183ad4e9c8740ebae790baddc35badf44679dfe3a8f5b6bcafde560616e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5e8171e5d1ce8620f0e5e667bf5da2e2f599685524798c9b2927221ad6e99032.jpg"
+    },
+    {
+      "path": "8f3e75513d68a8a6b2434298aadcf2502eb29f9a5d17ec254c058969dba2814e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/92fbb069f32026b56a49f46a774f3f7324287184f6e3655673dbd2b7abb62b25.jpg"
+    }
+  ],
+  "startTime": "1787882400000",
+  "title": "全新迷你游戏“夜色追逐战”开幕！",
+  "type": 3
+}

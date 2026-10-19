@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_info-campaign-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/6695cea064cd93e9035b3afab78c23fab24ad85eaf51bc4be086e1aacaea4988/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "7d289e0e83a66ea1a045d5eff60c3195a7e33d17019b66ef2bcf608a076473a8.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/340b4d31b3a45cadc44892d1ca1ad26846df3c9efcee48322e516a9034f03855.jpg"
+    },
+    {
+      "path": "9914d753881070d64cf889ee6a65ecc2b9074fb940cc156676a4af203f65a934.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ad1c13d138745622f32b4951cfd92c496053020005855085da9696b7499edc2d.jpg"
+    },
+    {
+      "path": "d620d0dbdcf8bd1ec665cc404391fa2a07b65cc2f7c9d325624155c9321d1875.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/58752e00f0df1c61b76a5a178ecb225089333a045b03a4b187a6cddacb61b386.jpg"
+    },
+    {
+      "path": "d2dc6a9ad32cc58ff2c15d56de177416d65ffe863cef4e39d72b699969a2adb5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4ec11e6c54cca04b1651d0e30b469c861f96f13d86e370d8c115b49bce8663d7.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "Layanan Resmi \"hololive Dreams\" dimulai",
+  "type": 4
+}

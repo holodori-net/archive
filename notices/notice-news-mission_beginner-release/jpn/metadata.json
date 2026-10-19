@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_event-mission-beginner-mission",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/b31b1b5a8522ce670d5e1c135820555893b84dba213534bb9f4698a768e2b383/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "2b6e77448a64c648b3fddc9e5581e99db7609f68b7d4b6ebcc4e65cb6d6064f5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/870332843a773beb6cd19304f9dc0979d2d042d7d1c65a6c52691b59061849cd.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "初心者ミッション開催",
+  "type": 4
+}

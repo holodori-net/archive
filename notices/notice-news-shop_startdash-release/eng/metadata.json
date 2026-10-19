@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_shop-startdash-release",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/bc355e1e8b108e662c02e41fc3d168d78291e364993420592803fb0ac6db63cf/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "0ec19d53755d2d4689933e08c3f3ffa22336c565caa91fbca243d6b6c35403c0.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fe813368c24cd87d22464877f110e808cb2dff3cc42b29fa9e264df8e1c8594d.png"
+    },
+    {
+      "path": "44749abe5ff3097f1f68d975c99d00ffd97e616669ebfc969a78ac90fd135174.png",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6f1a6c2f431bc0a449a4880e674e9ef45988dfa581d83d5ccfbf8164a0a7e581.png"
+    },
+    {
+      "path": "bbd8c7689209287e40f795afffb093cc9dfcb0def9d634958b50340f16832de7.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/030630a1ec8a4da45f081efad2d9b4bd2ab9435185f190cac8da0844ae51a54a.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "A limited-time pack is available to celebrate the official launch!",
+  "type": 4
+}

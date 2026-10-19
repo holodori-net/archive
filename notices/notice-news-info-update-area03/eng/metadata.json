@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_area-a03",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/8e5027c7048897d7b9f9f9a03b903f9445a125be52aac91c8ee4010a9e1e907b/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "7458ed4282db96f1005d81071558e211b4b5e1e2c978ab4e51da6368f4be77a3.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/52dafd41de3c82d52e197e67d27a25bb864fae26a2b5c68c58bc7352ccae439f.jpg"
+    },
+    {
+      "path": "c4a1f77bb8773d70664ef5c7ff3fe7b5d8ae04f695bdd4d1484faac537e5e9bf.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d7dc11bd719c0b53b7660e2d79bbdb95600d89c349383afa554356f7fae254fe.jpg"
+    },
+    {
+      "path": "65fe2e0f6dd46d385eec9c70c2eaa7b3aa2f8682d01535790717d90245d92743.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/18f42ea01c0625829af18e254dceff113427b80a9a4cb7aad20d9dbc48b71f29.jpg"
+    },
+    {
+      "path": "d1f0aee70354e03fe9af1d9610c6aabff1066165d9d45c732413212b057b80eb.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/45687db976e3296ce75cc8ed3421e13dcc4b8020d00ba75ad36c9d55366a92c1.jpg"
+    }
+  ],
+  "startTime": "1790647200000",
+  "title": "New Area \"Soda Pop Lagoon\" is open!",
+  "type": 3
+}

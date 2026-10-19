@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_shop-missionpass-261001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/f4234a2b3c011299fcf654a6a117a99d9d4641939dea68eec25e7fad1d6433f0/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "3e7f955deac30fa6a4948c132c9281679dad789b14a2e0dea2d98c1cf8c3ae81.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5f5b5f2fff5aa329d03b5dc1e2a223c9e9b0c538a4d3c7f19cbeb75e10e70a50.jpg"
+    }
+  ],
+  "startTime": "1790798400000",
+  "title": "October Mission Pass now underway!",
+  "type": 4
+}

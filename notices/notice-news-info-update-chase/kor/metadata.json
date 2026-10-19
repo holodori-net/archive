@@ -1,0 +1,43 @@
+{
+  "bannerAssetId": "img_banner_full_minigame-chase-260828",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/7fbd3a660d775a43dc2c4d8e854f6d3d985cc01d1eaa1fe1dd9c67066780c378/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "60775169a98297db034d091a5acfbdb0fec1286f11d38fb87d8366a0fe92219e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7882ba929ad80ba4531adde8b0c56e3990a1d122b2d20b7dd279ce1cf4263207.jpg"
+    },
+    {
+      "path": "63cf506b880fc1bff7b71d558eec757b881c4a82aeacd3d19d98230c6438f3fa.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b7e5fe256e4d30570727b33a4ef1899eacff7ca9d477d781440830e34dd0b54f.jpg"
+    },
+    {
+      "path": "cede72e255e7254ded19439727d621efc5974a533ceb0f0aeb59f98ea51e72f7.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/80b889df21c94e68656c334a9d5d9305840b758a41ff75821c305aa5a6a05c75.jpg"
+    },
+    {
+      "path": "0345123f7a7e6db0c9fc1ea0d93a75774a6d00a6a66da0cb266dba3c732d6086.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fced208715fdfb65e4d2d51fc1d590efa9575a02ea5d67c772f0d65f5fa208d1.jpg"
+    },
+    {
+      "path": "dbcb7ad9841a604e0b17e053eaafc828cdcbc2dcec6ab1fe27be7e5efa509557.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f6c592c233281f736c7743e2e559769a8897f4d43a917fd1751f6193a5ffc776.jpg"
+    },
+    {
+      "path": "ebe37839c1de5e2ad4d01605e23c5b52c46c70faa31ae8ad5c952ed42b777dac.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/956d8baae6639920669c8ec2ba03fc39d8725186e126a3e78428cb103c8a6d6e.jpg"
+    },
+    {
+      "path": "f3fb4183ad4e9c8740ebae790baddc35badf44679dfe3a8f5b6bcafde560616e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0ec9c0ebf5f9a2ac72c9c3808e16a38ec9ad2129cc038fa1bd0923d4b79058c5.jpg"
+    },
+    {
+      "path": "8f3e75513d68a8a6b2434298aadcf2502eb29f9a5d17ec254c058969dba2814e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d81c8d5cce097b54befcedc81be1263fd68673d37a5e60817eb1e67e0269c6ce.jpg"
+    }
+  ],
+  "startTime": "1787882400000",
+  "title": "신규 미니 게임 「어둠 속 추적」 개막!",
+  "type": 3
+}
