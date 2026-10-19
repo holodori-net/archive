@@ -1,4 +1,4 @@
-# Holodori Information Archive
+# Holodori Archive
 
 This repository contains public, account-independent Gacha, exchange, and notice data. The archive is rooted at [`index.json`](index.json) and uses schema version 2.
 
@@ -26,7 +26,7 @@ Notice metadata contains localized API fields, including `htmlPath` and image pa
 This browser JavaScript example loads the index, then joins one Gacha's metadata and Traditional Chinese text by `gachaId`:
 
 ```js
-const base = "https://raw.githubusercontent.com/holodori-net/information/main/";
+const base = "https://raw.githubusercontent.com/holodori-net/archive/main/";
 const LOCALE = "cht";
 
 const index = await fetch(`${base}index.json`).then((response) =>
