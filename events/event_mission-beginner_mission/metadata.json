@@ -1,0 +1,12 @@
+{
+  "backgroundAssetId": "img_event_mission_bg_001",
+  "endTime": "0",
+  "eventId": "event_mission-beginner_mission",
+  "exchangeEndTime": "0",
+  "logoAssetId": "",
+  "missionGroupId": "mission_grp-beginner_mission",
+  "startTime": "946652400000",
+  "type": 3,
+  "unlockConditionGroupId": "",
+  "viewConditionGroupId": "cd-event_mission-beginner_mission-close"
+}

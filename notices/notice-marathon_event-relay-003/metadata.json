@@ -1,0 +1,311 @@
+{
+  "id": "notice-marathon_event-relay-003",
+  "locales": {
+    "chs": {
+      "bannerAssetId": "img_banner_full_marathon_event-relay-003",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/9a739312abff12b5d9f646e8f06948fa4f586540937dc7e3fe30b75dc43e34e4/index.html",
+      "externalUrl": "",
+      "htmlPath": "chs/index.html",
+      "images": [
+        {
+          "path": "chs/45f22cea796e6212585aaf5cbcffd7b427998fac70a9ed337a92440b2a8bd939.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8b5eb71dc2dd96553875aca0c167e31bc569df4810d3f1fa0143aa79db35d6cb.jpg"
+        },
+        {
+          "path": "chs/ca1145d93757e999e71a3a2a6a89b98ccc7311e3c92c3a9b9351541f5f893dfa.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/61fbb5f623c773e854ad0142a08dcf16d06e8728d50b1e36b23376de2094e6e0.jpg"
+        },
+        {
+          "path": "chs/88b0ff18a71fc8bfdc388c7f7ed0aac494f5e406c0d32bbf22bc987dc1f2d2e6.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2c42d50a7fae198fe33f1bf738e17893377dd64709e02861b5918afda159b7be.jpg"
+        },
+        {
+          "path": "chs/851a664266f0314db00958e69193daa32aa6f508add975347e1b773d43bc82b8.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9f3e290f3cf7dd9d6db365774c3feeb912880ab199948253608074dc0251068b.jpg"
+        },
+        {
+          "path": "chs/501bbb1052dfb7c6d48cea8d43551a4e3fcd0f9bba66477a682573cb1b40eac3.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/12ec8c59ea3e6cfaeea7b153845559047ff2fe278ff8cfd04255063c708c6b51.jpg"
+        },
+        {
+          "path": "chs/ca4180038e96f0a0bee94114edea2c81583c5d0557abffa686bb5dce5a03c16f.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bb0a0d7ab29e3ead8a16671db0385c54b96505bee166bc29d48c27caf2114c79.jpg"
+        },
+        {
+          "path": "chs/44eec1a85d17b20299e5d014922829948ab1982034f97dee646c9f885657be93.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/509ebed4e3cdc134d7e15f72e61501bdcd4472c28778832aeaa72945f84bd320.jpg"
+        },
+        {
+          "path": "chs/7a109fb101757bdf7eea978f8e5c04693e31b63e2b07da4f4510b1483182b4ff.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d804b808f10ae0b995ae75fb769489dbb50c8fc1715d910d4bf895442f1e0793.jpg"
+        },
+        {
+          "path": "chs/d1f7df498a34a2e844bcb75ee0ec0edacc635be61609d4dfceda87ebafdc671c.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/aece0faecb5096141ef413be93afe846e333ad2f445136016fb080a22783a5b1.jpg"
+        },
+        {
+          "path": "chs/e328f4f9418494b5eced5341593ad8e5cb06b67e07bcdcf4146909270fc5fa3a.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/219b2b49ce600e0417910c338303ba708ff7f0778e7d53653d352f979f5e0298.jpg"
+        }
+      ],
+      "startTime": "1792407600000",
+      "title": "瞩目焦点活动《灿烂光辉，海滨的着装规范》上线！",
+      "type": 2
+    },
+    "cht": {
+      "bannerAssetId": "img_banner_full_marathon_event-relay-003",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/2fdb512858bf90ad3b5af8062fb3fbb53c3c26024f113dec1ed0cdc3e12ef59b/index.html",
+      "externalUrl": "",
+      "htmlPath": "cht/index.html",
+      "images": [
+        {
+          "path": "cht/dfc821226d86227fb38f9075dd7b3f6a6e5f8a6cc725b28a5b0fc068d8497061.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d82d9af8769dbb778c2e82866801af6f3e135485c2ecf6217fce5b4f9a82b43e.jpg"
+        },
+        {
+          "path": "cht/c85e3f43f53f5d0b574dd826f3c2ac2e4bd3856d7d35d0facc1a8e870e269275.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/07e93bfa332fdb634b2b09b0a23e3f87de69a0a7618e8efef39f1b3db4237a60.jpg"
+        },
+        {
+          "path": "cht/88b0ff18a71fc8bfdc388c7f7ed0aac494f5e406c0d32bbf22bc987dc1f2d2e6.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/98d84a260f1e2a1d82b1ac062744504e9296abecdc848139a9aa64904d5ef725.jpg"
+        },
+        {
+          "path": "cht/851a664266f0314db00958e69193daa32aa6f508add975347e1b773d43bc82b8.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/31bd001cc433f60bb55d76fd1d8ad7791868ba35ab6915d477956f2aa99f8c77.jpg"
+        },
+        {
+          "path": "cht/501bbb1052dfb7c6d48cea8d43551a4e3fcd0f9bba66477a682573cb1b40eac3.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1520ca670c24593d0992034b972498a50c958b4f8261b84c9f31f25217a465e2.jpg"
+        },
+        {
+          "path": "cht/ca4180038e96f0a0bee94114edea2c81583c5d0557abffa686bb5dce5a03c16f.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/880c00c3dc939ad8b141e562f12ab2985809af5e4bd882815e3e2303a497351e.jpg"
+        },
+        {
+          "path": "cht/922f0c5541b752bca7b9137080764a16fd826810ed18dd8f0fe0f1e69d64d1c7.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/94af5119397b3d51bbabff82d4322cbd815c4880d17fbed9f4376b1fbf33125d.jpg"
+        },
+        {
+          "path": "cht/cfce42e8f290a2af67b33c35c14b88ad2c658444d919d91b4602257682c1f28d.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8fb84a283067bf83ec80c0ee45089ba3880460fe1ead4ddd63d6339a58d2850e.jpg"
+        },
+        {
+          "path": "cht/7c72d718473a7fa017628f52763a8bb305219d1874e49b49592e4c5fd6850df1.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/590230431b5ff96f539af8c4ceefe92a1582be1890a13ed8c0019b42fa937313.jpg"
+        },
+        {
+          "path": "cht/a63c3143e33448dd38b0cc3e5e0411c494f29b14105cbdbb94f0332241a4a7c7.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ed4d3ac111b2527e7df8ac23ca57a7bc00502b7adad9cfc92ba95a2470eb2398.jpg"
+        }
+      ],
+      "startTime": "1792407600000",
+      "title": "焦點活動「光彩四射的海濱時尚秀」活動開始！",
+      "type": 2
+    },
+    "eng": {
+      "bannerAssetId": "img_banner_full_marathon_event-relay-003",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/0e6aef4475b89d92b3424f219602b24d9ef3324265f300ead3fd3f33d1afd184/index.html",
+      "externalUrl": "",
+      "htmlPath": "eng/index.html",
+      "images": [
+        {
+          "path": "eng/6c909483dae57bfa405331af9e9cf3408c7af03bd84db3867f514c4652d30dae.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5ac503ebd4eead8ba6a78ab879c51599dde653930f9ad1fd2b0fda032dd90fb0.jpg"
+        },
+        {
+          "path": "eng/5e99e9aad52660f63d3f69df95ceb21f405ace3b5b57641ccdce0f8e07e8a255.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ac07d9305eff3d3c99183d3c93556877877e49bc3c43bc62db39464d13aaed84.jpg"
+        },
+        {
+          "path": "eng/88b0ff18a71fc8bfdc388c7f7ed0aac494f5e406c0d32bbf22bc987dc1f2d2e6.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1957a80fc10333b37c22b1b9743c9346365884988de276be9d5479bee3c9ba9d.jpg"
+        },
+        {
+          "path": "eng/851a664266f0314db00958e69193daa32aa6f508add975347e1b773d43bc82b8.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/19fdf4368e82f16b383c3864c8b0fe1da813ce2645c88fb7b13288a1f954991d.jpg"
+        },
+        {
+          "path": "eng/501bbb1052dfb7c6d48cea8d43551a4e3fcd0f9bba66477a682573cb1b40eac3.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7e7b957167ffc0719e078fe632a3723088116021211e60147e1abe1d3fb8c21b.jpg"
+        },
+        {
+          "path": "eng/ca4180038e96f0a0bee94114edea2c81583c5d0557abffa686bb5dce5a03c16f.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/06d861e823f549c85bfbd1de1c5ea320ab3426a269079d5abb10538ff84afafd.jpg"
+        },
+        {
+          "path": "eng/bba77789f011cee2d6f11906219b64eaaac671bfc3b291aa2dec5f1fd33ce492.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/648ee477ddaebc789d1c11e0410781c2790b90364c0eeac3c4b82837fb7ad508.jpg"
+        },
+        {
+          "path": "eng/53caae1612c48d5c8759002f133201de0f58ae1f0056f219909f39376683620e.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5c1815077d69692ad9b951de7b6dfe9aa1a7c0c99791e89663eb4704472d0a7a.jpg"
+        },
+        {
+          "path": "eng/116f2f295b3fa876a1da16dd2c2cb113c76a4606fc4d3bc8e27e59a7a3b498e5.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8e275c14a11293896f3d019dae3b79fd7ae009993d67cfe572c3cf442577aef2.jpg"
+        },
+        {
+          "path": "eng/77682c2e1e2ad4da327e664b12b3cc4fb9ae7872ec1e74617a98428221cee4cb.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fe271ab42ec6338ceb683f32f9ef697501396c7cf39022823241c3c204e491f6.jpg"
+        }
+      ],
+      "startTime": "1792407600000",
+      "title": "The Spotlight Event \"Sunlit Shoreline Style\" is now underway!",
+      "type": 2
+    },
+    "ind": {
+      "bannerAssetId": "img_banner_full_marathon_event-relay-003",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/9492edec9f50970ebecc502bde728bbc2bcac75204a1f4a473498a4f7d7812f7/index.html",
+      "externalUrl": "",
+      "htmlPath": "ind/index.html",
+      "images": [
+        {
+          "path": "ind/2f0624f9dc067472a6a24c7906de9d35740ae474fe5dcfc4cff37d85272cc012.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/07b14d7e6f70aa6a31514445579226ed5b769c9bcd23e1421659250dd8a4d8da.jpg"
+        },
+        {
+          "path": "ind/90895aaffefda0087b4725a53ae81cbd76d72e8cc67699a60db1229e1575ca91.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e5f419cfed67a6344907f0e64ab5db69af79c41e27b797e3f91abd9d623e36f0.jpg"
+        },
+        {
+          "path": "ind/88b0ff18a71fc8bfdc388c7f7ed0aac494f5e406c0d32bbf22bc987dc1f2d2e6.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a45c04ae18bbbeca2cc4759bd369cca9bca454a9b00c07aa1ce40f614493d8cb.jpg"
+        },
+        {
+          "path": "ind/851a664266f0314db00958e69193daa32aa6f508add975347e1b773d43bc82b8.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6ec156701d9345c1a96b1271188babe2d2825b7f5ce0cf8baa2079f004ae0098.jpg"
+        },
+        {
+          "path": "ind/501bbb1052dfb7c6d48cea8d43551a4e3fcd0f9bba66477a682573cb1b40eac3.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f7e130af8d20f0afd80185c9296eec1e23c0423076edd7973cd6a74a3234571b.jpg"
+        },
+        {
+          "path": "ind/ca4180038e96f0a0bee94114edea2c81583c5d0557abffa686bb5dce5a03c16f.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d29d9129be43de5c0068981f0b5213be7c0649c105b6b8a1c9748389f1713bb1.jpg"
+        },
+        {
+          "path": "ind/dead3d887ee6bda4aa734596da9273f086d4b0a61c4cdfd7de54222c303a1eed.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4d75fbbfc921de1faa9ac41b8677ae09fdb74b0436237e19e050841c4932f0d4.jpg"
+        },
+        {
+          "path": "ind/1afb09b73847d34f28496a197c283fe098733f6badc4ae78c1879ee83318e688.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d4b5ffaf90257e7982614959fee20a6e9f553a33094ac1e13fef3eb6ad12ad3e.jpg"
+        },
+        {
+          "path": "ind/85130bced25705429ff10f83fa11837b46eac64cbad0f92bb34ae3370dcb7378.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/478e0b195365e0a808eddf0d6be1c9814c4bfb115b6e1987965c2f1c3f62fed6.jpg"
+        },
+        {
+          "path": "ind/58fe51bcabafb081ecd6546af8043871f011f96db7e621a412b2b9cd2e3118c7.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a1ef8f4bc92009e55d02486764bbf721ce0e4c9230dcb92ba25be0a3429b868e.jpg"
+        }
+      ],
+      "startTime": "1792407600000",
+      "title": "Event Spotlight \"OOTD Pantai Berkilau\" sedang berlangsung!",
+      "type": 2
+    },
+    "jpn": {
+      "bannerAssetId": "img_banner_full_marathon_event-relay-003",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/4a6aaadac5519cfb13269a42c9f13ef3f5e30235f322d59b9b3171eb866a3b40/index.html",
+      "externalUrl": "",
+      "htmlPath": "jpn/index.html",
+      "images": [
+        {
+          "path": "jpn/a3d467a88ff7d44d77bf1a322707c30a9689f6024e773ea7838d55a3e5e0f45a.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e53bc5e1eec7773c051cd7d1e66b75f4f5fc31d99d0c1e2e0a63cb5202dabd97.jpg"
+        },
+        {
+          "path": "jpn/f8499c3cbeb670454edc260f9f316be0b05def5f8407ff6dd7f70ae2646651e6.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ca36f11a863da274699b9fe9fb4193bd2a2c6d9dc339613eb4f438b8887380e2.jpg"
+        },
+        {
+          "path": "jpn/88b0ff18a71fc8bfdc388c7f7ed0aac494f5e406c0d32bbf22bc987dc1f2d2e6.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9da674b7f2e1a04b3d6f465e909a2ecac90b0614e3966ef3aa621e69c8e47d91.jpg"
+        },
+        {
+          "path": "jpn/851a664266f0314db00958e69193daa32aa6f508add975347e1b773d43bc82b8.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9583825c81b46a90d098689f302454163027cd442812597805cf7e11ee4efadc.jpg"
+        },
+        {
+          "path": "jpn/501bbb1052dfb7c6d48cea8d43551a4e3fcd0f9bba66477a682573cb1b40eac3.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5a41944a8f8c045265c3fbccee17abecda5ef8a76d77da9e264523d09328050c.jpg"
+        },
+        {
+          "path": "jpn/ca4180038e96f0a0bee94114edea2c81583c5d0557abffa686bb5dce5a03c16f.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2c378418b8e1ad95f581813a9ffdf2c08e732abfa77ee40f9ea1de6d9717abd7.jpg"
+        },
+        {
+          "path": "jpn/748d9b032a1c343f668d6f789ee0461a004c3b7c1a05602c628e5f4cf973317c.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4d7f0b72d3c829d0a100f22bb14ab61f1a080efd857cc00f63c4128e0d717594.jpg"
+        },
+        {
+          "path": "jpn/74edd5535a64614eecfc389e5947f7d2fca213943483105117b3ce0ad889ebc6.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5bb5625725a24250c16044ce387be1538bf98905f42277eeb3b27b203d6d5364.jpg"
+        },
+        {
+          "path": "jpn/60779e4ad65bf672d37a296570c6a1ac956988e44e2ffc32ac06305969704a9e.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/619e2ee4746fcaceea644df389c54824fd42e9346aa2dc9a3611359b6e17da97.jpg"
+        },
+        {
+          "path": "jpn/e0ac7e42011b14ba7d6ea18ed3364acf50b260e074362478046225873290a2ef.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4d8692747b6e26d6cb9d011f4faecd4b86b0e086a4edc8cf983a4d3c7ca49279.jpg"
+        }
+      ],
+      "startTime": "1792407600000",
+      "title": "スポットライトイベント「あふれる光と、渚のドレスコード」開催！",
+      "type": 2
+    },
+    "kor": {
+      "bannerAssetId": "img_banner_full_marathon_event-relay-003",
+      "detailUrl": "https://static.game-hololive-dreams.com/html/notice/709288c7de9acda53bb9a5e8bef051f864d500be51c184f6f913355e241709d6/index.html",
+      "externalUrl": "",
+      "htmlPath": "kor/index.html",
+      "images": [
+        {
+          "path": "kor/7423ee9835e5150560c1d6e6d2cb6a819883728d596904d0564a0c21f17b4cf4.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/89ac8fb68f729704e22c8ee9ada907aeb16f728d06bc886d3f96ff457d030d91.jpg"
+        },
+        {
+          "path": "kor/1e2b85ba378af3a993b29de2da72ded5647998a2edc519d94c59c788ff2826e8.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f6616c150e687906732875653acf0e7bad4879328e83a02d1ccb2d65ea024933.jpg"
+        },
+        {
+          "path": "kor/88b0ff18a71fc8bfdc388c7f7ed0aac494f5e406c0d32bbf22bc987dc1f2d2e6.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b7aa9d6bd01f67840b9e8dbc6db18db2a5c02bda046d1a3f1355cb8a8a291d10.jpg"
+        },
+        {
+          "path": "kor/851a664266f0314db00958e69193daa32aa6f508add975347e1b773d43bc82b8.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/25e742c8b251b9bc9806188fdd59ac5043199226a55ea1bb81cabe586312bdb0.jpg"
+        },
+        {
+          "path": "kor/501bbb1052dfb7c6d48cea8d43551a4e3fcd0f9bba66477a682573cb1b40eac3.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ad861283c8b299f4d0aaffad54e1048bea02c761b04fa67f615a0b58f20a529d.jpg"
+        },
+        {
+          "path": "kor/ca4180038e96f0a0bee94114edea2c81583c5d0557abffa686bb5dce5a03c16f.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fa350dcee72b88751f55c5dfeb616632902cdd213d6720595a810778949c05e5.jpg"
+        },
+        {
+          "path": "kor/a7f42bf01edacd02e6861155925e6751004605e8ef9fd64c92b82956ebc1098a.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3f965f18a7dc54edda599751917867a536fdcd0b27db5a5809c586ade8e44953.jpg"
+        },
+        {
+          "path": "kor/b18de1a2a1648a66b43ee25d3f5f910071a7b205629b852cc5f9dd1d98f26150.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e9c7d038deda64f3873f96bcc6048e1210fa2b099f046bd57202d076bca0cef3.jpg"
+        },
+        {
+          "path": "kor/2276c9424c77f3c79471549fae39e40f20c6f906b5f0664f5b87fdde49f0c0aa.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/28747c02defbf0a76cb149e1d3edd15104d436a3cecfcc87cb5f1bf80dbb1b07.jpg"
+        },
+        {
+          "path": "kor/4bfc4adeb878a89bd6b04682c8493d7e1e9381f28df14b35a877e488644c8112.jpg",
+          "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bbaefb8f1f4a95497a883467eae7484a458bb9b3287a8c012235c86c2c58f9d7.jpg"
+        }
+      ],
+      "startTime": "1792407600000",
+      "title": "스포트라이트 이벤트「넘치는 빛과 물가의 드레스 코드」 개최!",
+      "type": 2
+    }
+  }
+}

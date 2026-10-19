@@ -1,0 +1,688 @@
+{
+  "backgroundAssetId": "img_marathon_event_normal_bg-007-01",
+  "endTime": "1792234799000",
+  "eventId": "marathon_event-normal-007",
+  "exchangeEndTime": "1792753199000",
+  "logoAssetId": "img_marathon_event_normal_logo-007-01",
+  "marathonInfo": {
+    "aggregatedRankingRevealStartTime": "1792292400000",
+    "aggregationStartTime": "1792249200000",
+    "exchangeBoothGroupId": "exchange_booth_group-marathon_event-normal-007",
+    "isMarathonScoreRankingDisable": false,
+    "marathonChapters": [
+      {
+        "autoPlayStoryId": "",
+        "backgroundAssetId": "img_marathon_event_normal_top-007-01",
+        "bgmAssetId": "music_short_m0354",
+        "chapterNumber": 1,
+        "characterId": "",
+        "endTime": "1792234799000",
+        "eventStoryChapterId": "",
+        "id": "marathon_event-normal-007-chapter-01",
+        "marathonEventBadgeItemId": "item-event_badge-marathon_event-normal-007-chapter-01",
+        "marathonLiveMarathonScoreBonuses": [
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "chr-00023",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 1
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-03009-5-uniq-0088-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 10
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-04012-5-uniq-0087-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 11
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-00030-5-uniq-0089-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 12
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-00034-5-uniq-0090-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 13
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-06003-5-uniq-0091-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 14
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "1",
+            "cardRarity": 3,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 10,
+            "number": 15
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "2",
+            "cardRarity": 3,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 10,
+            "number": 16
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "3",
+            "cardRarity": 3,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 20,
+            "number": 17
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "4",
+            "cardRarity": 3,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 20,
+            "number": 18
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "5",
+            "cardRarity": 3,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 30,
+            "number": 19
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "chr-00037",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 2
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "1",
+            "cardRarity": 4,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 60,
+            "number": 20
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "2",
+            "cardRarity": 4,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 70,
+            "number": 21
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "3",
+            "cardRarity": 4,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 80,
+            "number": 22
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "4",
+            "cardRarity": 4,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 90,
+            "number": 23
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "5",
+            "cardRarity": 4,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 100,
+            "number": 24
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "1",
+            "cardRarity": 5,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 150,
+            "number": 25
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "2",
+            "cardRarity": 5,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 180,
+            "number": 26
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "3",
+            "cardRarity": 5,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 220,
+            "number": 27
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "4",
+            "cardRarity": 5,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 260,
+            "number": 28
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "5",
+            "cardRarity": 5,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 29
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "chr-03009",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 3
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "chr-04012",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 4
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "chr-00030",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 5
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "chr-00034",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 6
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "chr-06003",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 7
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-00023-5-uniq-0085-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 8
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-00037-5-uniq-0086-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "live_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 300,
+            "number": 9
+          }
+        ],
+        "marathonMiniGameMarathonScoreBonuses": [
+          {
+            "cardId": "card-00023-5-uniq-0085-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "groupId": "mini_game_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 200,
+            "number": 1
+          },
+          {
+            "cardId": "card-00037-5-uniq-0086-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "groupId": "mini_game_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 200,
+            "number": 2
+          },
+          {
+            "cardId": "card-03009-5-uniq-0088-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "groupId": "mini_game_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 200,
+            "number": 3
+          },
+          {
+            "cardId": "card-04012-5-uniq-0087-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "groupId": "mini_game_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 200,
+            "number": 4
+          },
+          {
+            "cardId": "card-00030-5-uniq-0089-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "groupId": "mini_game_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 200,
+            "number": 5
+          },
+          {
+            "cardId": "card-00034-5-uniq-0090-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "groupId": "mini_game_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 200,
+            "number": 6
+          },
+          {
+            "cardId": "card-06003-5-uniq-0091-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "groupId": "mini_game_marathon_score_bonus-marathon_event-normal-007-chapter-01",
+            "marathonScoreQuantityUpPermilUp": 200,
+            "number": 7
+          }
+        ],
+        "marathonMiniGameMarathonScoreRates": [
+          {
+            "bonusPermilUp": 0,
+            "groupId": "mini_game_marathon_score_rate-marathon_event-normal-007",
+            "marathonScorePermilMultiply": 1300,
+            "miniGameType": 1
+          },
+          {
+            "bonusPermilUp": 0,
+            "groupId": "mini_game_marathon_score_rate-marathon_event-normal-007",
+            "marathonScorePermilMultiply": 600,
+            "miniGameType": 2
+          },
+          {
+            "bonusPermilUp": 0,
+            "groupId": "mini_game_marathon_score_rate-marathon_event-normal-007",
+            "marathonScorePermilMultiply": 44,
+            "miniGameType": 3
+          },
+          {
+            "bonusPermilUp": 0,
+            "groupId": "mini_game_marathon_score_rate-marathon_event-normal-007",
+            "marathonScorePermilMultiply": 600,
+            "miniGameType": 4
+          },
+          {
+            "bonusPermilUp": 0,
+            "groupId": "mini_game_marathon_score_rate-marathon_event-normal-007",
+            "marathonScorePermilMultiply": 300,
+            "miniGameType": 5
+          },
+          {
+            "bonusPermilUp": 500,
+            "groupId": "mini_game_marathon_score_rate-marathon_event-normal-007",
+            "marathonScorePermilMultiply": 2700,
+            "miniGameType": 6
+          }
+        ],
+        "marathonMusicHighestScoreRankingRankRewards": [
+          {
+            "endRank": "10000",
+            "groupId": "music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-gold",
+            "musicId": "m0354",
+            "rewards": [
+              {
+                "quantity": "1",
+                "resourceId": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-gold",
+                "resourceType": 11
+              }
+            ]
+          },
+          {
+            "endRank": "1000",
+            "groupId": "music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-diamond",
+            "musicId": "m0354",
+            "rewards": [
+              {
+                "quantity": "1",
+                "resourceId": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-diamond",
+                "resourceType": 11
+              }
+            ]
+          },
+          {
+            "endRank": "100",
+            "groupId": "music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-dream",
+            "musicId": "m0354",
+            "rewards": [
+              {
+                "quantity": "1",
+                "resourceId": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-dream",
+                "resourceType": 11
+              }
+            ]
+          },
+          {
+            "endRank": "20000",
+            "groupId": "music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-silver",
+            "musicId": "m0354",
+            "rewards": [
+              {
+                "quantity": "1",
+                "resourceId": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-silver",
+                "resourceType": 11
+              }
+            ]
+          },
+          {
+            "endRank": "30000",
+            "groupId": "music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-bronze",
+            "musicId": "m0354",
+            "rewards": [
+              {
+                "quantity": "1",
+                "resourceId": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-bronze",
+                "resourceType": 11
+              }
+            ]
+          },
+          {
+            "endRank": "5000",
+            "groupId": "music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-platinum",
+            "musicId": "m0354",
+            "rewards": [
+              {
+                "quantity": "1",
+                "resourceId": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-m0354-platinum",
+                "resourceType": 11
+              }
+            ]
+          }
+        ],
+        "marathonMusicScoreBonuses": [
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-00023-5-uniq-0085-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "music_score_bonus-marathon_event-normal-007-chapter-01",
+            "musicId": "m0354",
+            "number": 1,
+            "scoreUpPermilUp": 100
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-00037-5-uniq-0086-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "music_score_bonus-marathon_event-normal-007-chapter-01",
+            "musicId": "m0354",
+            "number": 2,
+            "scoreUpPermilUp": 100
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-03009-5-uniq-0088-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "music_score_bonus-marathon_event-normal-007-chapter-01",
+            "musicId": "m0354",
+            "number": 3,
+            "scoreUpPermilUp": 100
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-04012-5-uniq-0087-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "music_score_bonus-marathon_event-normal-007-chapter-01",
+            "musicId": "m0354",
+            "number": 4,
+            "scoreUpPermilUp": 100
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-00030-5-uniq-0089-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "music_score_bonus-marathon_event-normal-007-chapter-01",
+            "musicId": "m0354",
+            "number": 5,
+            "scoreUpPermilUp": 100
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-00034-5-uniq-0090-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "music_score_bonus-marathon_event-normal-007-chapter-01",
+            "musicId": "m0354",
+            "number": 6,
+            "scoreUpPermilUp": 100
+          },
+          {
+            "cardAttributeType": 0,
+            "cardId": "card-06003-5-uniq-0091-00",
+            "cardPotentialUpgradeCount": "0",
+            "cardRarity": 0,
+            "characterId": "",
+            "groupId": "music_score_bonus-marathon_event-normal-007-chapter-01",
+            "musicId": "m0354",
+            "number": 7,
+            "scoreUpPermilUp": 100
+          }
+        ],
+        "marathonScoreRankingRankRewards": [
+          {
+            "endRank": "10000",
+            "groupId": "marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-gold",
+            "rewards": [
+              {
+                "quantity": "400",
+                "resourceId": "",
+                "resourceType": 1001
+              },
+              {
+                "quantity": "1",
+                "resourceId": "emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-gold",
+                "resourceType": 11
+              }
+            ]
+          },
+          {
+            "endRank": "1000",
+            "groupId": "marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-diamond",
+            "rewards": [
+              {
+                "quantity": "800",
+                "resourceId": "",
+                "resourceType": 1001
+              },
+              {
+                "quantity": "1",
+                "resourceId": "emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-diamond",
+                "resourceType": 11
+              }
+            ]
+          },
+          {
+            "endRank": "25000",
+            "groupId": "marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-silver",
+            "rewards": [
+              {
+                "quantity": "300",
+                "resourceId": "",
+                "resourceType": 1001
+              },
+              {
+                "quantity": "1",
+                "resourceId": "emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-silver",
+                "resourceType": 11
+              }
+            ]
+          },
+          {
+            "endRank": "50000",
+            "groupId": "marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-bronze",
+            "rewards": [
+              {
+                "quantity": "200",
+                "resourceId": "",
+                "resourceType": 1001
+              },
+              {
+                "quantity": "1",
+                "resourceId": "emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-bronze",
+                "resourceType": 11
+              }
+            ]
+          },
+          {
+            "endRank": "5000",
+            "groupId": "marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-platinum",
+            "rewards": [
+              {
+                "quantity": "600",
+                "resourceId": "",
+                "resourceType": 1001
+              },
+              {
+                "quantity": "1",
+                "resourceId": "emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-platinum",
+                "resourceType": 11
+              }
+            ]
+          },
+          {
+            "endRank": "500",
+            "groupId": "marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01",
+            "marathonRankingGradeId": "marathon_ranking_grade-dream",
+            "rewards": [
+              {
+                "quantity": "1000",
+                "resourceId": "",
+                "resourceType": 1001
+              },
+              {
+                "quantity": "1",
+                "resourceId": "emblem-marathon_score_ranking_rank_reward-marathon_event-normal-007-chapter-01-dream",
+                "resourceType": 11
+              }
+            ]
+          }
+        ],
+        "marathonScoreRewards": [],
+        "marathonTotalMusicHighestScoreRankingRewards": [],
+        "missionGroupId": "mission_grp-marathon_event-normal-007-chapter-01",
+        "rankingRevealStartTime": "1792292400000",
+        "scoreIconAssetId": "event-pt-01"
+      }
+    ],
+    "tipsHintType": 2105
+  },
+  "missionGroupId": "",
+  "startTime": "1792033200000",
+  "type": 1,
+  "unlockConditionGroupId": "cd-marathon_event",
+  "viewConditionGroupId": ""
+}

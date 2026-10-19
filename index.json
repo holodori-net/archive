@@ -3,13 +3,53 @@
     "versionCode": 1790677050,
     "versionName": "1.2.1"
   },
+  "currentEventIds": [
+    "event_mission-area03-release-260929",
+    "event_mission-beginner_mission",
+    "marathon_event-normal-007",
+    "marathon_event-relay-003"
+  ],
   "currentGachaIds": [
     "gacha-common-normal-001",
     "gacha-common-ticket_r4-001",
     "gacha-pickup-normal-261019",
     "gacha-pickup-select-261019"
   ],
-  "databaseMasterVersion": "e1eea8627c36e512ed0f8f662d0d80e14b9000cb8facd546d38e492e91a3c528",
+  "databaseMasterVersion": "452bd7acfd1b9f90cc85d9978aea55b1a6bf6c2cddaff470c640462830c8c00d",
+  "events": {
+    "event_mission-area03-release-260929": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "event_mission-beginner_mission": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "marathon_event-normal-007": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "marathon_event-relay-003": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ]
+  },
   "exchanges": {
     "exchange_booth_group-gacha-common-001": [
       "jpn",
@@ -36,6 +76,22 @@
       "chs"
     ],
     "exchange_booth_group-gacha-pickup-261019": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "exchange_booth_group-marathon_event-normal-007": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "exchange_booth_group-marathon_event-relay-003": [
       "jpn",
       "eng",
       "ind",
@@ -85,8 +141,24 @@
     "gacha-pickup-select-261007",
     "gacha-pickup-select-261019"
   ],
-  "masterVersion": "e1eea8627c36e512ed0f8f662d0d80e14b9000cb8facd546d38e492e91a3c528",
+  "masterVersion": "452bd7acfd1b9f90cc85d9978aea55b1a6bf6c2cddaff470c640462830c8c00d",
   "notices": {
+    "notice-marathon_event-normal-007": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-marathon_event-relay-003": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
     "notice-news-gacha-common-001": [
       "jpn",
       "eng",

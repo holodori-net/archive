@@ -1,0 +1,12 @@
+{
+  "backgroundAssetId": "img_event_mission_bg_area03-release-260929",
+  "endTime": "1792958399000",
+  "eventId": "event_mission-area03-release-260929",
+  "exchangeEndTime": "0",
+  "logoAssetId": "",
+  "missionGroupId": "mission_grp-area03-release-260929",
+  "startTime": "1790629200000",
+  "type": 3,
+  "unlockConditionGroupId": "",
+  "viewConditionGroupId": ""
+}

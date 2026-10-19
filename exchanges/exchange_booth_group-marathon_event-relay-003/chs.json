@@ -1,0 +1,270 @@
+{
+  "booths": [
+    {
+      "id": "exchange_booth-marathon_event-relay-003-all",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-card_level_up-001",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-card_limit_break-cmn-sr-001",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-facility-area_a01-001-1",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-facility-area_a01-001-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-facility-area_a01-002-1",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-facility-area_a01-002-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-gold-001",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-mini_game_bet_coin",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-mini-game-chase-coin",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-skill_tree_allmember-1",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-skill_tree_card-1",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-skill_tree_content-1",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-skill_tree_leader-1",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        }
+      ],
+      "name": "共通"
+    },
+    {
+      "id": "exchange_booth-marathon_event-relay-003-chapter-01",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-event_badge-marathon_event-relay-003-all",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-skill_tree_allmember-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-skill_tree_card-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-skill_tree_content-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-skill_tree_leader-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-poster-marathon_event-relay-003-chapter-01",
+          "boothItemType": 2,
+          "description": "灿烂光辉，海滨的着装规范（永远）的活动回忆卡。",
+          "name": "活动回忆卡"
+        }
+      ],
+      "name": "永远"
+    },
+    {
+      "id": "exchange_booth-marathon_event-relay-003-chapter-02",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-02-item-event_badge-marathon_event-relay-003-all",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-02-item-skill_tree_allmember-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-02-item-skill_tree_card-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-02-item-skill_tree_content-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-02-item-skill_tree_leader-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-02-poster-marathon_event-relay-003-chapter-02",
+          "boothItemType": 2,
+          "description": "灿烂光辉，海滨的着装规范（Kaela）的活动回忆卡。",
+          "name": "活动回忆卡"
+        }
+      ],
+      "name": "Kaela"
+    },
+    {
+      "id": "exchange_booth-marathon_event-relay-003-chapter-03",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-03-item-event_badge-marathon_event-relay-003-all",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-03-item-skill_tree_allmember-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-03-item-skill_tree_card-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-03-item-skill_tree_content-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-03-item-skill_tree_leader-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-03-poster-marathon_event-relay-003-chapter-03",
+          "boothItemType": 2,
+          "description": "灿烂光辉，海滨的着装规范（牡丹）的活动回忆卡。",
+          "name": "活动回忆卡"
+        }
+      ],
+      "name": "牡丹"
+    },
+    {
+      "id": "exchange_booth-marathon_event-relay-003-chapter-04",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-04-item-event_badge-marathon_event-relay-003-all",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-04-item-skill_tree_allmember-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-04-item-skill_tree_card-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-04-item-skill_tree_content-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-04-item-skill_tree_leader-2",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-04-poster-marathon_event-relay-003-chapter-04",
+          "boothItemType": 2,
+          "description": "灿烂光辉，海滨的着装规范（Bijou）的活动回忆卡。",
+          "name": "活动回忆卡"
+        }
+      ],
+      "name": "Bijou"
+    }
+  ],
+  "id": "exchange_booth_group-marathon_event-relay-003",
+  "name": "活动兑换所"
+}

@@ -1,0 +1,12 @@
+{
+  "eventId": "marathon_event-normal-007",
+  "marathonInfo": {
+    "marathonChapters": [
+      {
+        "id": "marathon_event-normal-007-chapter-01",
+        "scoreName": "Event Pt"
+      }
+    ]
+  },
+  "name": "Point Rally Event"
+}
