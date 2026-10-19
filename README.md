@@ -23,6 +23,8 @@ Event, Gacha, and exchange metadata contain source fields; localized files conta
 
 Event metadata contains schedules, assets, Marathon chapters, score and ranking rewards, and bonuses. Event locale files contain the event name and chapter score labels, joined to metadata by event and chapter IDs. `marathonInfo.exchangeBoothGroupId` links to an exchange in `index.exchanges` when available.
 
+Notices are collected from every visible category and page, regardless of notice type. Gacha detail-notice references are also collected, and previously archived notices remain available after leaving the visible lists.
+
 Each notice locale has its own metadata with the API title, type, start time, source URLs, and archived file references. `htmlPath` and image paths are relative to `notices/<noticeId>/<locale>/`; `htmlPath` is `index.html`, or null when no detail page is supplied. Archived HTML and images are sibling files, and HTML references images by basename. CSS, JavaScript, and video resources remain external. Event notices have `type: 2`. Account-specific state is not included.
 
 ## Read a Gacha
