@@ -1,6 +1,6 @@
 # Holodori Archive
 
-This repository contains public, account-independent event, Gacha, exchange, and notice data. The archive is rooted at [`index.json`](index.json) and uses schema version 2.
+This repository contains public, account-independent event, Gacha, exchange, and notice data. The archive is rooted at [`index.json`](index.json) and uses schema version 3.
 
 ## Files
 
@@ -12,7 +12,7 @@ gachas/<gachaId>/metadata.json
 gachas/<gachaId>/<locale>.json
 exchanges/<exchangeId>/metadata.json
 exchanges/<exchangeId>/<locale>.json
-notices/<noticeId>/metadata.json
+notices/<noticeId>/<locale>/metadata.json
 notices/<noticeId>/<locale>/index.html
 notices/<noticeId>/<locale>/<sha256>.<ext>
 ```
@@ -23,7 +23,7 @@ Event, Gacha, and exchange metadata contain source fields; localized files conta
 
 Event metadata contains schedules, assets, Marathon chapters, score and ranking rewards, and bonuses. Event locale files contain the event name and chapter score labels, joined to metadata by event and chapter IDs. `marathonInfo.exchangeBoothGroupId` links to an exchange in `index.exchanges` when available.
 
-Notice metadata contains localized API fields, including `htmlPath` and image paths relative to `notices/<noticeId>/`. `htmlPath` is null when no detail page is supplied. Archived HTML is at `<locale>/index.html`; archived images are sibling files in that locale directory and are referenced by basename from the HTML. CSS, JavaScript, and video resources remain external. Event notices are archived with localized notice `type: 2`. Account-specific state is not included.
+Each notice locale has its own metadata with the API title, type, start time, source URLs, and archived file references. `htmlPath` and image paths are relative to `notices/<noticeId>/<locale>/`; `htmlPath` is `index.html`, or null when no detail page is supplied. Archived HTML and images are sibling files, and HTML references images by basename. CSS, JavaScript, and video resources remain external. Event notices have `type: 2`. Account-specific state is not included.
 
 ## Read a Gacha
 
