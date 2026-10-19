@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/0c453fe32063d47dd70aa11aba4ca2de1ec51bb9187b21ae7cfa44b97f4e73e5/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "f8e15e2e659262088bd8bcc8304404c4392b4699ff8d8a490865e07358caa485.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/53607e1df45a060e03807d235e221584f8009046799f741dd6c9e58ca90102b1.jpg"
+    },
+    {
+      "path": "8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b9fe7daa71ed1dfe51ee0404958b7718706011ee9fb21492dc8967a01ced760a.jpg"
+    },
+    {
+      "path": "1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1b1f37b8649b8808a796b2da9668118503839c778313cdd04d6e9d9e28419ebd.jpg"
+    },
+    {
+      "path": "6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/39378b5943f877b1a6770a8e36e499f834d33af8895772ea834e5c6563908f19.jpg"
+    },
+    {
+      "path": "2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/37933dc5976d953979fcb96bd80107ec0c83312adf0247c47b0c1bc415c51557.jpg"
+    }
+  ],
+  "startTime": "1792375200000",
+  "title": "至福のシーサイドデイズガチャ開催！",
+  "type": 1
+}

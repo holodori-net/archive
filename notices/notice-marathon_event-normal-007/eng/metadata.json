@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/898fb123253c1033f4c32904aee11e5be82d80659ddfe01d554b9bba65901399/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "e0024fa724b4c2b8199121341759b917bef68911602bec5f500678d086c500ee.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/217bc628bd842dbb04ab1d576f016b53d3694d3d7cd09189290959515b70c369.jpg"
+    },
+    {
+      "path": "e5fadde309a89fd38c0fc306297e7282d84eb759da03048e86ccbee7d4bb31ae.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/22e9f444a82c07e699da9b8fe475ff26e5108dbe62cfc736509a8ca45e0b77ae.jpg"
+    },
+    {
+      "path": "dee75cdfce7c01ccbde71f8b9b6a8dc09d43ba91e24351e79f4012ebeec9d152.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/695f3df584c36f6eb545d4f5a144cb968bfdb400545188aa8c98a33470dfa7a0.jpg"
+    },
+    {
+      "path": "6c77cb8c27d7902bafa50afbac1087d12e56a0920af42ed80469ef1d7dc15ba1.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d575174dd7f8339579c1ff95bb17bbbae05b8cb9d31a0aa51810d8ffdcf5394a.jpg"
+    },
+    {
+      "path": "6ab1ab383bf6ee35aff118bd576751a0856139329763a91526c53c2d9a8ec3f6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a08096537acf000e67aff05548ad27eb19b51c8fc514d6a06f7efb9a95a07f17.jpg"
+    },
+    {
+      "path": "53f942fac89d6dbcbdf2c4c845a54ea15de8eaa54f137215d8fe7685e60deb4d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/440a6e74815582e1415472c5c968ec79db5d94a1569d42c67d24155ea1f95b41.jpg"
+    },
+    {
+      "path": "68d2dc7f4c48430e0f061a179a4806fdad6c7b56dd7cb09be7390589053ea8e4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6fa928ecbdbdf7b053272d9febe515d459d968f7c211062560e8b8a0a7673af4.jpg"
+    }
+  ],
+  "startTime": "1792033200000",
+  "title": "The Point Rally Event \"Neon Sunshine Festival\" is now underway!",
+  "type": 2
+}

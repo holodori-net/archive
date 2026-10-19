@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/4a28293f875cd126e5fe4e419998328ac9ed5828fe3c4393db01f993b75d9559/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "0f14cb455454a0f25ac067611d30731908889cd137ea90a0d1c328c4b0f212fd.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/dca20ff6c9718d3525819dde72a9ede545153971266cfa59acede827edd2b43f.jpg"
+    },
+    {
+      "path": "8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/05277b647ae981e85d9ce9337e3fb1f9de844463d295c747e0d4d1db08096cc7.jpg"
+    },
+    {
+      "path": "1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5eeee1509028e480f2911ef0d845a2fdd2f1b53e5cc1851b028c7b0c563821f6.jpg"
+    },
+    {
+      "path": "6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c9a6e9593951e3a2e670ac7109bbb5ffdf08444924ed1566a7b55b713abd551c.jpg"
+    },
+    {
+      "path": "2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2a2445891eb93c2a2811210dbdbc6f4b5dd7a0ffd415a4011172f50fceb3678d.jpg"
+    }
+  ],
+  "startTime": "1792375200000",
+  "title": "행복한 시사이드 데이즈 뽑기 개최!",
+  "type": 1
+}

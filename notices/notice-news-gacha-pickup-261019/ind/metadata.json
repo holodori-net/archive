@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/b014de8ed58adc9117cf29a16d998135465552677f08d09c8467cb4647732621/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "79e06d5fb5c4962a59d677420257eb230a7f7bdb7e7428449bd0b2b1026d4788.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/44a49c6c768ed774e846b67eb9a44a35b15847b061bbc50f6743cdf3970edf19.jpg"
+    },
+    {
+      "path": "8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/830d8b6ba3f00e17d1b9633b12f2f76c37726257a11e13790f6cb4c6a597cb6c.jpg"
+    },
+    {
+      "path": "1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a52fe4aab2fcc71b02c3098ce0b0be19c955dad07e49db5e229b0d52fbf8e208.jpg"
+    },
+    {
+      "path": "6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/deda9cd60748b97c47d23bb6800668154d1792910da141f3f57e2f15d5e14b57.jpg"
+    },
+    {
+      "path": "2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/805b036eb1b3b9da4306aafe9885b1dc84e42ee3ebab02f9f8624d0ddbc33979.jpg"
+    }
+  ],
+  "startTime": "1792375200000",
+  "title": "Gacha Hari Indah di Tepi Pantai Telah Dimulai!",
+  "type": 1
+}

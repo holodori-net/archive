@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/c65e96897b0106b59aadf58928f5c54eb9b6f626bdaaaf150ef745a48071e9ab/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "90c678410dc31dbc84f48c74e373b7a0241ea0e9fe935b42d94ffb5811a6f9d8.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9de29deb4ffa882c999e2cab60268ac7b459f1372cce98aca097b04aabba750c.jpg"
+    },
+    {
+      "path": "46b2f56272478712c48c54412c0e67c77665adc57ef91432b215729b05935d67.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d6ccec3262c078518e560bf102bc0e5d5f7163e53631241a52194893b1fc7336.jpg"
+    },
+    {
+      "path": "dee75cdfce7c01ccbde71f8b9b6a8dc09d43ba91e24351e79f4012ebeec9d152.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d971ffdb50f4c9ca37e7cded316929cb57672fe83995c714d8e09dae5f69a9a5.jpg"
+    },
+    {
+      "path": "3a6857e5fb5407fed1dbaeff7eb5b290bbfaf26cfda07ce830c277228b25b0d3.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b234ea5f8094cbb59033c267d89cd4350de1353ea688360b15ca5ddba23b78df.jpg"
+    },
+    {
+      "path": "b53be9630de6db135a1015f2d43495d82baf23dc2fa11a164743314edc2e64a2.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b31587a122738ec40b0ce813b39e00cd4dee2005a616729b67877095e5d45600.jpg"
+    },
+    {
+      "path": "e9844bc7f047831573ac78498a3e2b31f6a3cc5d1f8aeec260ec0bd7a0cf9a88.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/cf2aa90c4d89811c683aeaa4b1b475e5f008615cc4656c43ae1799416a769fba.jpg"
+    },
+    {
+      "path": "01c22667c5fc026a5d180d762f77fc7e9843803de8e37e04a1d99cf53a766fe6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bfdeaff4b81ea8452f156bf3711ba557d787072ed02939446e15ae3125fcb8a2.jpg"
+    }
+  ],
+  "startTime": "1792033200000",
+  "title": "积攒点数活动《增色添彩♪阳光灿烂大聚会》上线！",
+  "type": 2
+}

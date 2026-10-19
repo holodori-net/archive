@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/40e5c73aa767353696758be127a7836a7789fc5a077e31621e1fdce73aa799e2/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "28a8d11b440814a5502fe976a75f718cf5a83406bcb101d2ab06e1167030a6f1.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3a64d431402edac08f10cf2ec52855c5faf563ec39617410495b173c830b7771.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "holo드림 뽑기 개최",
+  "type": 1
+}

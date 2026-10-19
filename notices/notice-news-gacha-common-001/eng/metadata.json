@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/7e52a969977800840c67cbb758bdac9b6cbc866afb1880bf2b08cf5e4b489a80/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "35457a2fb66378d5e7ad458e0a8603e429e6ae25d0d60d514a821b1aa31ca3ad.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/02bd05cd523d71ed3cb7f5cd6576c42704cc63a855c0254f63d16c59d4192b8a.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "holodori Gacha now live!",
+  "type": 1
+}

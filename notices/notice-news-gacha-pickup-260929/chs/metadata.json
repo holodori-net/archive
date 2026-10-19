@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/4adeb0f2034ea861b42b16834808bc0fb21121b56750291402e1e2616c8e6f0b/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "2fbed441306220cae1ee2ca8e0b851c3477a192ba8b4ee944a9e2f700c4ad7b9.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8288d69c21a08867e934474714b8cb2c9078b9423918dfcd072dadb413d0ada0.jpg"
+    },
+    {
+      "path": "f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bc64e7b022681ffc54e18caf0306565c08349dbada97bd424682ce4d6ef10ae8.jpg"
+    },
+    {
+      "path": "8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8f57add2ec16763dd1e66af0905238c30e392ec9b037c3cd9cc7970c525b1122.jpg"
+    },
+    {
+      "path": "43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/cbb23e2a7ff97718f5a8a0a94992e8fec5c4a18f3abc3d3a8d29d13a7eb99c2b.jpg"
+    },
+    {
+      "path": "a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/331ed51522a224091c7bfe454d1b172a462b059c27176ca2ebf6376dd4be9cf4.jpg"
+    }
+  ],
+  "startTime": "1790629200000",
+  "title": "逐梦蔚蓝边境扭蛋上线！",
+  "type": 1
+}

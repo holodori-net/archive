@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/316740c6ecc7d1cc9628a22f3ac6605046f16c38fb97aace17d1b5c1462afde2/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "972d4544b4a86f0f2ccc7dfc7d413039b8180d75d0c5a5081d9ff4e9363f6f62.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/45d80736db33f76bc319d4e30846b50066eb41f25a3dc726221b303ecbc82b42.jpg"
+    },
+    {
+      "path": "8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6381ab8e2a524451533d1dcb271ce45ec690b55ef32e6ff3e5bdf85cf908b3b1.jpg"
+    },
+    {
+      "path": "1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b6c3eb06607179277a9d8d4a3062faed20af9a0659e68daeaf11c7e12eb54277.jpg"
+    },
+    {
+      "path": "6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4ee28899be59aa4b9a1ad2d63f72e2f7396b90c890f93a89908c3d9e5c77bc7d.jpg"
+    },
+    {
+      "path": "2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/835baeee55962390d5b9adeddeed3c947967765e059c2ee152d34074cd271146.jpg"
+    }
+  ],
+  "startTime": "1792375200000",
+  "title": "Blissful Seaside Days Gacha is now live!",
+  "type": 1
+}

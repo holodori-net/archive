@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/b9d56c7b08fa53666f31ca12d262b67359bd24e08b11994d444b25a0c75ba0c4/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "f59108b5535e3a44b00b2072abb7ae94938bd504c538235980845dcbffac8f78.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c513591d69c95b9bba01f613a0d1802b1fea735a2aadde61ceeff966ff8a77c6.jpg"
+    },
+    {
+      "path": "9366d2d2b452ed1bbf2807bbffd27093f3ce40308cf34c3a2309150ea07a65af.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a41ac2abcbb5fe715787e9c0dc767adf6999f860105ec5fb381289f02b026c22.jpg"
+    },
+    {
+      "path": "d81248270c50b638e693ad576a07c2bde732e5f3ef6b92184a4fa7012fc753ef.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/755a796baa99eda089de93c104eedfb1198936cb8fee2217dd5de3b08a7ca580.jpg"
+    },
+    {
+      "path": "a55d57c88983dbb898812c4d4a2a73e0a772573151b10b76b2c67a0d8d44b086.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ac1da965409865ca22bc280bf77cc91975c2457d2d2a8ee26c02c9d5afd33264.jpg"
+    }
+  ],
+  "startTime": "1791338400000",
+  "title": "다리 놓는 오션 크리에이트 뽑기 개최!",
+  "type": 1
+}

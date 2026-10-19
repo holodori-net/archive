@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d8c4e3d91171a6ed6ed33acc8f14b0674f6f934c71ecb1a066ce089de1954ca9/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "ee4ee33d53520c001bc4bc751fbee1fc3802a163f8e43098a7419efa31bca465.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/80ec4398dab3d8646f8af0a1beeae842e0fd386ba660abed2f6cac898e6857cb.jpg"
+    },
+    {
+      "path": "49afcf815fae5592b238e7d7fed712779c717c04ac02db0ae117d7e08f203a8d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b2616aa65ed7a3e2acc6b81deb9b8aa7949bb9c44bac8e8afd902e1b810e659f.jpg"
+    },
+    {
+      "path": "dee75cdfce7c01ccbde71f8b9b6a8dc09d43ba91e24351e79f4012ebeec9d152.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4ee9f0144a091807bcb4c394d6a2b524e05d79f1f5c3ef848524c980c2b987b9.jpg"
+    },
+    {
+      "path": "ecd53e72572e657af4916f91d16ac95f777375db3da6280b0ab4836e9692a561.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/464f32ddf0314b8381f4b90222d06580b54f0b9c38238dd2afce7e576b16201f.jpg"
+    },
+    {
+      "path": "6bd7a42d838e2253f1543b61fe771cf5f38db26e6e3c8ae9e396b1fc6e881605.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5b5d07c9501afc3307807fffe1cfae3256c11c9d59bd4fa384c76158174f0a04.jpg"
+    },
+    {
+      "path": "e4fe421d7128e5de53056953c31a2e4a861dafd60cf836cd83286e9988625678.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e48d69ffe0a844da3cd0911793dd67d024a3328406eecf3d05b6c24250678b04.jpg"
+    },
+    {
+      "path": "3ec9b765acbcc99449a9fb4b4402da1250020b3aff3e23e8fba6c4883ab19855.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/74a6ced54c6a2a5c576387c2499ac5dc59faccd37ff56e7cd98e87ae9ee1dfd1.jpg"
+    }
+  ],
+  "startTime": "1792033200000",
+  "title": "ポイントラリーイベント「彩れ♪サンシャインジャンボリー」開催！",
+  "type": 2
+}

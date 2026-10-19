@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/fd737faf0bf19f74f83316009589783892cfa1474f56e7323dbe8d9d204092f1/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "5923b38fb6cfc07e7e42bb7c5265330de48c4621d846bcba3698f71e57ea2889.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ce83a62a7d9fb4beab43a7deac98624ca993bed84281837c3ca8fcc7fd829c02.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "Gacha holodori Kini Hadir",
+  "type": 1
+}

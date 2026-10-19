@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-ticket_r4-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/fe3407b1874bb7457fca2d90dced0d97800a486be21775b806e95bd01d777800/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "71faac145cb3c602a6cfdab4921380f7335ae98289976e7ed6ad559bb8b6174f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6d937df17cbc58c6d90b58bbeec0b13042112c52ef42b67044cc3c12454d8a14.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "必得★4以上票券扭蛋",
+  "type": 0
+}

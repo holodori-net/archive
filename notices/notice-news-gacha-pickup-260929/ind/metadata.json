@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/ee884ea482c99b4ef2726bbefcc79b59fc42ce6366de8dba0b542a3ea8a5329b/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "fd7ab676889b1819bd682d424d2b48d8ff85907f9440dd8ec83e70bc7f9f4010.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7f7830efc09375c5484e7a3f18c746ffab87854702bd044668ac01e6a6ed5ebd.jpg"
+    },
+    {
+      "path": "f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/12a5f41b8c371c38f71a3b784e1ce2b943e9aa588178b5288297aaebdab2a310.jpg"
+    },
+    {
+      "path": "8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9c12b3b73fd58660fc83f180aaa3f89ad4e7efb8ffa6111b4880b90690c3ef93.jpg"
+    },
+    {
+      "path": "43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/eea5c1c7a53cd39823186bce5b150e2053353b105aa65919600e911b7ee1cc68.jpg"
+    },
+    {
+      "path": "a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/298e4b8a77362cac5012fb8a056760e1069824003de866aeca0b08c9939f7db9.jpg"
+    }
+  ],
+  "startTime": "1790629200000",
+  "title": "Gacha Cakrawala Biru Impian dimulai!",
+  "type": 1
+}

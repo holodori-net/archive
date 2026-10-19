@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/09bbaf28e6b141e40a993c6d04a97822bf6885e070b4994f189c1664bc1782c4/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "736429007fe9ffe984630232f6d42e0ef9849dea9d7df92ef9124522ba070722.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6aaf2bddfdea6e552fb7d1429dfe8f14be5fd98f7212b3db29c30898b565eb7b.jpg"
+    },
+    {
+      "path": "f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e107aa47f7433b463ffcc116c140f3793dedba2242aee9f6e5b1523da9c70922.jpg"
+    },
+    {
+      "path": "8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1b674da18292abe4107712b34ecbd2c73a66b7bca34960d5790516f147bbcd85.jpg"
+    },
+    {
+      "path": "43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bbffc27f2f690b4d08aa2715ab369126cf083ee3270a19c8948efa52a862a711.jpg"
+    },
+    {
+      "path": "a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f6745bdda79e5b3ea94fe03b55c111f0ac48bf312677f3de3248757222309d20.jpg"
+    }
+  ],
+  "startTime": "1790629200000",
+  "title": "夢幻的碧藍新天地轉蛋活動開始！",
+  "type": 1
+}

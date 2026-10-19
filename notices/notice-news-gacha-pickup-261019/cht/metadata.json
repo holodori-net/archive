@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/599280534e4a3a5447f915f114800132dee120bca736d1b82720c5196f90574a/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "8bee206e333acecb22f402004b1b07ed732d71b469c678965721e565eedbe201.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/06b8f0d0e946884ab68c7bd37d41ba39429cc85275bf1794a58138d4fe2718a7.jpg"
+    },
+    {
+      "path": "8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ce774e6ec2dc7e62060d20891bcf877a63d9f5fa3f48894aa4c9057baba08dde.jpg"
+    },
+    {
+      "path": "1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/df43fecaab97bc97f4a87a904a8e694c137d48e4c47b2d9f36e00fcaa893a3ed.jpg"
+    },
+    {
+      "path": "6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/aa43be915660dc1b407c4f4746aacf302f2b5629721e0ce72bf72483a37db6ca.jpg"
+    },
+    {
+      "path": "2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1adf29187f41016b186936c2dc9eefcdaec579e4bcc98124925f3a425ee3bf3d.jpg"
+    }
+  ],
+  "startTime": "1792375200000",
+  "title": "幸福無比的海濱時光 轉蛋活動開始！",
+  "type": 1
+}

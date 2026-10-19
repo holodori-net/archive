@@ -1,0 +1,51 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-relay-003",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/0e6aef4475b89d92b3424f219602b24d9ef3324265f300ead3fd3f33d1afd184/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "6c909483dae57bfa405331af9e9cf3408c7af03bd84db3867f514c4652d30dae.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5ac503ebd4eead8ba6a78ab879c51599dde653930f9ad1fd2b0fda032dd90fb0.jpg"
+    },
+    {
+      "path": "5e99e9aad52660f63d3f69df95ceb21f405ace3b5b57641ccdce0f8e07e8a255.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ac07d9305eff3d3c99183d3c93556877877e49bc3c43bc62db39464d13aaed84.jpg"
+    },
+    {
+      "path": "88b0ff18a71fc8bfdc388c7f7ed0aac494f5e406c0d32bbf22bc987dc1f2d2e6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1957a80fc10333b37c22b1b9743c9346365884988de276be9d5479bee3c9ba9d.jpg"
+    },
+    {
+      "path": "851a664266f0314db00958e69193daa32aa6f508add975347e1b773d43bc82b8.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/19fdf4368e82f16b383c3864c8b0fe1da813ce2645c88fb7b13288a1f954991d.jpg"
+    },
+    {
+      "path": "501bbb1052dfb7c6d48cea8d43551a4e3fcd0f9bba66477a682573cb1b40eac3.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7e7b957167ffc0719e078fe632a3723088116021211e60147e1abe1d3fb8c21b.jpg"
+    },
+    {
+      "path": "ca4180038e96f0a0bee94114edea2c81583c5d0557abffa686bb5dce5a03c16f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/06d861e823f549c85bfbd1de1c5ea320ab3426a269079d5abb10538ff84afafd.jpg"
+    },
+    {
+      "path": "bba77789f011cee2d6f11906219b64eaaac671bfc3b291aa2dec5f1fd33ce492.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/648ee477ddaebc789d1c11e0410781c2790b90364c0eeac3c4b82837fb7ad508.jpg"
+    },
+    {
+      "path": "53caae1612c48d5c8759002f133201de0f58ae1f0056f219909f39376683620e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5c1815077d69692ad9b951de7b6dfe9aa1a7c0c99791e89663eb4704472d0a7a.jpg"
+    },
+    {
+      "path": "116f2f295b3fa876a1da16dd2c2cb113c76a4606fc4d3bc8e27e59a7a3b498e5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8e275c14a11293896f3d019dae3b79fd7ae009993d67cfe572c3cf442577aef2.jpg"
+    },
+    {
+      "path": "77682c2e1e2ad4da327e664b12b3cc4fb9ae7872ec1e74617a98428221cee4cb.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fe271ab42ec6338ceb683f32f9ef697501396c7cf39022823241c3c204e491f6.jpg"
+    }
+  ],
+  "startTime": "1792407600000",
+  "title": "The Spotlight Event \"Sunlit Shoreline Style\" is now underway!",
+  "type": 2
+}

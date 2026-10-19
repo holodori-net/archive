@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/db5ff0826f578b5aeecc38e887c31a661b75fe923708dc1b35ad0b87b0f23cb7/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "6dbf995d3ab6bf9d82fa4d28e8d7b026cfd8fe23abf6314fce5249dc7762fb1a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c28a9cfbb1e6019feac70fd935406d0dcb2071a9f1da1546b16481e44f9de37a.jpg"
+    },
+    {
+      "path": "9366d2d2b452ed1bbf2807bbffd27093f3ce40308cf34c3a2309150ea07a65af.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fbbe92a4208cea3d2e39c12631f2c592e5f8f72cb911f8c9afc1e37e6b7dde17.jpg"
+    },
+    {
+      "path": "d81248270c50b638e693ad576a07c2bde732e5f3ef6b92184a4fa7012fc753ef.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9e20174cf41f11f2337b1c7faa892a10f35e49209fbf4e803ac1a99e6fd3860c.jpg"
+    },
+    {
+      "path": "a55d57c88983dbb898812c4d4a2a73e0a772573151b10b76b2c67a0d8d44b086.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/136a3b9189f644b79659217b87e535fb1a4ef2d3ef6f2dab36097c42e3885523.jpg"
+    }
+  ],
+  "startTime": "1791338400000",
+  "title": "架起桥梁的海洋工坊 扭蛋上线！",
+  "type": 1
+}

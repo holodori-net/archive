@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/6427ed33e91cb9ecac68165bcf6900b18f0f8844c28b7305563fa5bbcee08022/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "364dec6cc8f22691878e3cb80523b28a6d2db3fc7c72beb68af85af565545172.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/16d9594023cc05d514da4e7e0f50d4872a0cbd80bf34536791bdc498f21d81d5.jpg"
+    },
+    {
+      "path": "9366d2d2b452ed1bbf2807bbffd27093f3ce40308cf34c3a2309150ea07a65af.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e49a594afa29c96bd5e6171dbd31e6c43bdc6edb896ec930d6f3e7e680c38529.jpg"
+    },
+    {
+      "path": "d81248270c50b638e693ad576a07c2bde732e5f3ef6b92184a4fa7012fc753ef.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/68148f404b900b83a4391ce69bb0906037f0547ed21fadf863a48b8609ab1f6e.jpg"
+    },
+    {
+      "path": "a55d57c88983dbb898812c4d4a2a73e0a772573151b10b76b2c67a0d8d44b086.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/613b94bb0a840fc7c4e4b0fa83558d5383754146831a659bf9e69f3493ba1c36.jpg"
+    }
+  ],
+  "startTime": "1791338400000",
+  "title": "Gacha Jembatan Bahari Telah Dimulai!",
+  "type": 1
+}

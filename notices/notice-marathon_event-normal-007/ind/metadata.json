@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/a5c9327a0c0bc5a83db8a76e743d0bca3022dbdae4db901c44f88039d92eb30c/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "b884bf09a83e4a8b1c96eb26d7aeb4e8bd2fb70dd964276991259d2bad4e1a57.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7be1cfcaf967e70c19729857a45fd7bc40a839f225dc1ae6824737946c755f20.jpg"
+    },
+    {
+      "path": "cc91a371ae08621564c3adb04bc179b2d6b2144aba06f9eaad1a6508ca93e152.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2f91534469041d0996af75921d0a0c730d263cc5c6fe4ab2597519e34bcdd72d.jpg"
+    },
+    {
+      "path": "dee75cdfce7c01ccbde71f8b9b6a8dc09d43ba91e24351e79f4012ebeec9d152.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c910b3dc5868862c82e1621e48464c87299daed05cb6766c50d8cbfe3714f86c.jpg"
+    },
+    {
+      "path": "6c7c0e1fb7ea639232fe482403c30d9d20bb333652aeff73e47c19879891142f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/61e3738a4f909cf8277729eb08b0768903b0ac638b6744cea79f9dc75b2871b4.jpg"
+    },
+    {
+      "path": "0accc875eb1f880576734b12838ad6411b8f704c66baf7477f0b555229fd45c3.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0929d83873212767ff1e28d7d98e79f496efa70ca24b182c72deb15dc75cd8a7.jpg"
+    },
+    {
+      "path": "c7232f552db4a5c79d0ac329816ee8f2f08cb48ea85916192a5d9f0efd1d248f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4bdcb93c301665996d2d9e5e388ca3834e829eea3b56b6cb6aa2326736b90588.jpg"
+    },
+    {
+      "path": "0a57998725531112e3dff90576a440db934978b30c9c2a2fd5c7b33ca2982531.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6a05322d9cb7e7dbdf944fbeba113103834216959e0d14f37622a81befa71e59.jpg"
+    }
+  ],
+  "startTime": "1792033200000",
+  "title": "Event Point Rally \"Pesta Warna Mentari\" sedang berlangsung!",
+  "type": 2
+}

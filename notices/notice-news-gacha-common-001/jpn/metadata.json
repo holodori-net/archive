@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/319a9037398310a9f176fc8d11d8090e3f0f55fa3d0eb4f07226d2fa64cf91f9/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "2983c534b276b3b2046169bd7c15ad34616a4c3d3e601e866f474adcbd6b35c1.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1c4aa8ded139f4b038bf597b7e2955b9fcc382f728faeb863876b818fc1fe04b.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "ホロドリガチャ開催",
+  "type": 1
+}

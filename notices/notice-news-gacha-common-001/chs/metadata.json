@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/49f64d19595a83d6bc892295af187f51e3dcbd185ccdd82f7dc257f70f6b51ca/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "757ae84fd262539f23a07e5b175f3c3f47c0902e782db5b1a288412093f7f110.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fc80b6c251a7a3665877be4b9673fa7e5bb86693a789d6b38722e8b5b6b31a3d.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "holodori扭蛋开放",
+  "type": 1
+}

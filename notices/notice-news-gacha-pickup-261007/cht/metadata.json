@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/ab659a8aa3ec85cbe8f24bae70ffc231706aa46112bdc5a52092803be4b413a9/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "3fb1a29a031bb15491e2f4003c523a30b81dfb549c5c525a1c89f804c48c72f9.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ff5c83ed6f725d4b7568043e2ccb9036c918aa2f95d99eef6b5093730bcb9422.jpg"
+    },
+    {
+      "path": "9366d2d2b452ed1bbf2807bbffd27093f3ce40308cf34c3a2309150ea07a65af.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2f4f269116dab0ecfa69b1df458dc115db572d6b6edf8489cf6279a586a67d1a.jpg"
+    },
+    {
+      "path": "d81248270c50b638e693ad576a07c2bde732e5f3ef6b92184a4fa7012fc753ef.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7883f029fe21d1398fa868b3cbfc976266324586c0a76aadc944e4a728e9f3ee.jpg"
+    },
+    {
+      "path": "a55d57c88983dbb898812c4d4a2a73e0a772573151b10b76b2c67a0d8d44b086.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e01b81d7657ed37d195a95876b935f1e1ee2ed8055bfbbd9d48b8c91eb06da7b.jpg"
+    }
+  ],
+  "startTime": "1791338400000",
+  "title": "連結大海開拓逐夢 轉蛋活動開始！",
+  "type": 1
+}

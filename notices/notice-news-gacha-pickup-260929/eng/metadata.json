@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/6590ace1590485c3ed4fd4276a2a7e26cb35cc82c44585baebf67e46fdbc375f/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "d84d18093e5f81f31bc433eedea0f49fa7a194e67a4f9e3cf034751cee5eb12d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9990f9555f737a03dce5372ff4390c2bc2f03323f38615fbf2074b4fcf7200bf.jpg"
+    },
+    {
+      "path": "f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3d497525f8ec03b888edfd21a0baa8cd9f2a5fb58392e7b78f0fcc578d24552f.jpg"
+    },
+    {
+      "path": "8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ab7224d24a907715c3adf7d6ca428c1ff2f67771c547f7662604cba9430726c1.jpg"
+    },
+    {
+      "path": "43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2c058d7cf0e193c2fc9288c6bfb336a3ba9b774cc7866699bb5d306c0b8b2ee4.jpg"
+    },
+    {
+      "path": "a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/145113fca14d817eb9e7dbe504aeb29ab5bfe1320eeb1e8f486de994bb595329.jpg"
+    }
+  ],
+  "startTime": "1790629200000",
+  "title": "\"Dreamy Deep Blue Gacha\" is now underway!",
+  "type": 1
+}

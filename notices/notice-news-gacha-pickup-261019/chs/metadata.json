@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261019",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/5f4410fc12b29ae82f769fa34baa866703b43981b374d351e5d5ded9125f45f2/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "0cb5875c5ed83b5402b4e0dea0acfaad40fa0b46e67673f42c5d576eb9ab0b99.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/48c37c95218ee0275efaa75fcb7cd9fe94165d1270d6041436624b9598c35b35.jpg"
+    },
+    {
+      "path": "8dfa48314b9192982242be985ebc29af16d5daee227984594055f29ed182dbe9.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1076a728f87c16c85c4fd34e9c5228f0b57af198755475d96beb26759f67c06e.jpg"
+    },
+    {
+      "path": "1bd0919cf3d19a45705fbee592f4a3fc8e0f7bbc03ba5e049e3212e51d418c0d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4df392bf984eb012735703c412147fe1599583ffc8bef19a005c773576227099.jpg"
+    },
+    {
+      "path": "6c8712a5a6cc65fae0ad216c8123300291f193340b1b8aaaa465f38ca9b2c0ff.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/81193986e5c16f8954f0a2f6418aeb63d12e13a22ab1cfe5fefbdf34049ea053.jpg"
+    },
+    {
+      "path": "2c6a1b1d115d2832a86ceec7551fcc6dfce274a2db6d05b9a878bb06a83c27c5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0269194700c4aedee23114c41b124a1c3602311c792d8151afedeb9d2c282682.jpg"
+    }
+  ],
+  "startTime": "1792375200000",
+  "title": "至福的海边时光 扭蛋上线！",
+  "type": 1
+}

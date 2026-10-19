@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/f220915e49cce3ad1f67228296d5ce7b34b88564b6e0667cb51550be29222475/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "544984ac974efe3c362078ef660cecea6a9781e07d6027987d0cd80028717ef3.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3966baa44276e8b318477db0df8b4b9d14d86cc292a2ce30b99fcde8bca65045.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "holodori轉蛋活動開始",
+  "type": 1
+}

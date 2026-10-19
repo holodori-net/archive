@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/9be0827d4d17153f9c55f362810ce123b70417f929f576455b045bbe748388a3/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "71de15a7052b2155919ef84e2ec152c2ec1ae80328aee6e0aa09ef663bf395c3.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e304ad8d5a64e9d549ee7d475e9c7cb330b21d3ecd490d725a73c13f51788c74.jpg"
+    },
+    {
+      "path": "9366d2d2b452ed1bbf2807bbffd27093f3ce40308cf34c3a2309150ea07a65af.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7afb74b2631b41fdf4de2df67e5a66d10222cca48f84e837b9e4e8febef132f1.jpg"
+    },
+    {
+      "path": "d81248270c50b638e693ad576a07c2bde732e5f3ef6b92184a4fa7012fc753ef.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0a47bcbf805239c62df30805e12d29f5a3f0b5e80ae11a6feb251f68c4b7e6fc.jpg"
+    },
+    {
+      "path": "a55d57c88983dbb898812c4d4a2a73e0a772573151b10b76b2c67a0d8d44b086.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/250a21d44de24c015c9d12df98331ea9f944c63d73f35a5a3e1cc2bdfbfa8220.jpg"
+    }
+  ],
+  "startTime": "1791338400000",
+  "title": "橋を架けるオーシャンクリエイトガチャ開催！",
+  "type": 1
+}

@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-260929",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/90cb9911d3826ed67a178557b0bb3c2dab2554ea82b5c4681c798a1455e2cc39/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "1fa0d9f2d299f1ddd1d826eeb65bc3f8e75448eea79a85993745e1193e4ed525.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4285baa51e699e6f64018b551bdf6740ba4c1c353a209485eed46a4c5fae8691.jpg"
+    },
+    {
+      "path": "f72acd01633f6ee723900e7e81fa8e448019f1176d3538392de6150800081d10.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7ca5f1b2407b2ca732237685d406704fd59c00e4e22b1ce60ae99dc79c315cff.jpg"
+    },
+    {
+      "path": "8a91d362442a63d257570055d0a3bb7d7f72cae59e80073cad5073c8310f837c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bed5633c47cb64756ec742c0e78ccdd171d389fa56194afa681af022395a298e.jpg"
+    },
+    {
+      "path": "43a0a7ac135287c439d5db79ee8bcd41a253042dd2a143971abbc3610c785529.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2deebdb71905bb9134828b843e12842d58ab78ca046b5d96227a1c8fd4e613b7.jpg"
+    },
+    {
+      "path": "a60d744b4dbc98b4fca0da3126c66fa2fa3fcf1a01744b769ed4ff3fbf5c59ee.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0c8b81e6673822a096d1813784fd2bc7babdb019b51649d1636896f6287a5174.jpg"
+    }
+  ],
+  "startTime": "1790629200000",
+  "title": "꿈꾸는 블루 프론티어 뽑기 개최!",
+  "type": 1
+}

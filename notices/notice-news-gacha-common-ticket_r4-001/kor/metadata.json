@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-ticket_r4-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/e7d8e189f3da1303c8963b62684caeecaea00183cb6afbec1f924efeb3c99c28/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "3276a8ec92c79972ce58c26d94a0c9d62daaed602fda5567b026f4b68b3cfa55.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1acd6744900f586dd44fe711e9f92dc840ffedb9ba64513bf0ba79803fefe50d.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "★4 이상 확정 티켓 뽑기",
+  "type": 0
+}

@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/f9e012c125c00daef8bae4cbff37e5b7fbfa38654eb9ed739c45741cac9eb2f3/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "74e77deed979ad2dbe4397c7df34e5cf50ee4e95c0a27ccbf43ccf47c8c8b93c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/569d80827e46752e1debbdedf7ac18b1a63f90ec11a0cb9f59266e0644c85894.jpg"
+    },
+    {
+      "path": "9366d2d2b452ed1bbf2807bbffd27093f3ce40308cf34c3a2309150ea07a65af.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9f5c15422f1cc4f9d61712072a3caea9b8172101324296dc8580f7a6c0ef8683.jpg"
+    },
+    {
+      "path": "d81248270c50b638e693ad576a07c2bde732e5f3ef6b92184a4fa7012fc753ef.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/cb301c5f1d4b97bd1efe2e74b517e49fe8793601efb26910bc90070db71e5a02.jpg"
+    },
+    {
+      "path": "a55d57c88983dbb898812c4d4a2a73e0a772573151b10b76b2c67a0d8d44b086.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/dc8aa150054b2767bd75fc30c3b3fb53c608fbbbd2a91335097ef4b8a9e00347.jpg"
+    }
+  ],
+  "startTime": "1791338400000",
+  "title": "Sea Bridge Gacha is now live!",
+  "type": 1
+}

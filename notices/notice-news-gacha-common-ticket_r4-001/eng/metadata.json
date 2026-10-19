@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-ticket_r4-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/580bcd7af5e2d65b81d46415cb84acc7a2b228ef2c09f15245ffb4aa3550eac6/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "6c17be8f330a6a65715f0429402dcf7f4a5f685c1c710ebd5c7b5080784fdbf1.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9c5c8d5972092f96d971b137fe9f1e1689c9641cc7354ad01f236fe49f6747b0.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "★4 Guaranteed or higher Ticket Gacha",
+  "type": 0
+}

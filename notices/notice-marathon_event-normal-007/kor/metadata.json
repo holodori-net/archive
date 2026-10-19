@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-007",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/8418bd27e02d4b04f8a15db84f762c39eb0bd0e4b34c0323a094625e0b817a49/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "c70671630e0c78bb9205bfc1e5958d0b9c5fdd74046a92e735cfbf796384bc8d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6c4d8443d8d650f4af46f66b706d8e9d7a4ba43099c0849de2ea9b7608d77445.jpg"
+    },
+    {
+      "path": "9fbd9460f339541fcbb9ce05da979e0081368d2858941d2787f3af7b1ce89d9c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/60c62dedb9aa26e72b698b06b8f5bcc2838bd2fbce19d21ec22325860f382320.jpg"
+    },
+    {
+      "path": "dee75cdfce7c01ccbde71f8b9b6a8dc09d43ba91e24351e79f4012ebeec9d152.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8e9574851cd0cf7a661ad6f324b229f2cc131d5fda4168d6d62d71e2e13e9487.jpg"
+    },
+    {
+      "path": "973d1faea4ab265dd77e70a5e28841c4988b57f251a033d605ba6793b196dc40.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/20bc2da47297e936c5df11e030b713830b4730f6c6b6cb47aba74c2017dbf271.jpg"
+    },
+    {
+      "path": "3fd5e49c8eb265ee6d9f614faf2467388236a1232bbbba906dddd827b1c9104c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5953e01d9468e29009cda5efda57e9e81b26081e237fca2a7eb5353a41d73985.jpg"
+    },
+    {
+      "path": "23e6deda3ebb460610c5a1dc0dfb2ded2192851dfda7ec919fdbd4699a034b1f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0d5f98087a97933ca7050b4d23597767ecd14909c43d32160bb5fa80ba4d9071.jpg"
+    },
+    {
+      "path": "64efe62ba6318eacac6a56cd555f533029ae8a44f3c359f3f11f4835171006ec.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/143e61cfea66e14f87b2f93679bd9e03849a1dadb73e742f8748dc629cf30fbe.jpg"
+    }
+  ],
+  "startTime": "1792033200000",
+  "title": "포인트 랠리 이벤트「물들여라♪ 선샤인 잼버리」 개최!",
+  "type": 2
+}
