@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-ticket_r5-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/2c9b872e27f8b5405338b22985fddbf3de50ed7b882d9aa4735565b286dbab34/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "d8080554114e4b239ca92e2362b202a326b56d6d158beb10e05f15effba0b91b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/dc0e49b5780238330bbf9f1aaed3283d91c431f24101d547232994180926a070.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "★5 Guaranteed Ticket Gacha",
+  "type": 0
+}

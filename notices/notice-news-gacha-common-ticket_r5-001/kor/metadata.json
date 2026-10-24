@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-ticket_r5-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/4c55fd1cc60cde4d97d71260237d879187b60e13445add35b8bad3120f672799/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "db648b6a91f296a9404deb1294a1d87779f64d9209f631c2eac5a6bff5d39cd4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e1aa03f5fed1274cf9b121c1ee3d061336c97492b42d81cdce7ecb6c801a29a1.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "★5 확정 티켓 뽑기",
+  "type": 0
+}

@@ -1,0 +1,15 @@
+{
+  "fixedSlotName": "★5 Guaranteed Slot",
+  "gachaButtons": [
+    {
+      "description": "Guaranteed ★5!",
+      "gachaButtonId": "gacha_button-gacha_common-ticket_r5-001-btn_01-gacha-ticket",
+      "name": "Use Ticket"
+    }
+  ],
+  "gachaId": "gacha-common-ticket_r5-001",
+  "name": "★5 Guaranteed Ticket Gacha",
+  "precaution": "■Important Notes\n・Spend ★5 Guaranteed Tickets to earn Members.\n・Only some Members appear. Please check the Drop Rates.\n・Members when you first obtain them are Lv1.\n・Members appearing in this Gacha may have duplicates.\n・Obtaining a duplicate of a Member will convert them into the corresponding member’s Bloom Pts.\n・When earning new Members, you will obtain Live Outfits and Park Outfits at the same time.\n・The contents of this Gacha may change without warning.\n\n▼Gacha Mechanics\n(1) Each spin of the Gacha is based on the drop rates.\n(2) When spinning multiple times, each spin is based on the same drop rates, regardless of the results of previous spins.\n・The visible Drop Rate is cut off at the fifth decimal number, so the total may not equal 100%.\n・An unstable connection to the server may result in display issues with Gacha, or skipped entirely. However, Gacha results will be unaffected.\n・Previous results of Gacha can be viewed in [Gacha Log].\n\n▼Special Holosticker\nYou can exchange them for various items by going to [Shop] → [Special Holosticker Exchange].\n\n▽How To Obtain Special Holosticker & Amount\n・★5 Member = 30 Stickers\n・Fully Bloomed ★5 Member = 100 Stickers\n* If the ★5 Member you obtain has already been fully Bloomed, you can earn a total of 130 Stickers.\n* This also includes ★5 Members that have the required Bloom Pts to fully Bloom.",
+  "promotionSubText": "",
+  "promotionText": ""
+}

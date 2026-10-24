@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-ticket_r5-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/cbad44b8a5392b588526c947ffae743ac03144dc3f4a5283c53db9cbd6b2c2f5/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "15e1d735306b8dd65649138f18d805c0b9c25a681d31402878fc1fdf49203ede.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/60d56e8d60b91f8b841f8e830ac6c6f60b9e14b770c1819c8f01b4ff1fca5283.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "★5確定チケットガチャ",
+  "type": 0
+}

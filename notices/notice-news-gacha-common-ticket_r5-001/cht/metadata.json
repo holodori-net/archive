@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-common-ticket_r5-001",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/cb332210023503328052ebff89ba0b420cd602bd98e2713d2ea6c71241c0d5f3/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "37f491e6485239dc5d13b208695c6d4f8749a5359607237b1bc043243a4c88d4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d13970f0342a3cdcf15b41541009172ebd2a5554d315b1a90615ccc0a70ecab4.jpg"
+    }
+  ],
+  "startTime": "1784685600000",
+  "title": "必出5★票券轉蛋",
+  "type": 0
+}

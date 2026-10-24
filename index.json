@@ -11,6 +11,7 @@
   "currentGachaIds": [
     "gacha-common-normal-001",
     "gacha-common-ticket_r4-001",
+    "gacha-common-ticket_r5-001",
     "gacha-pickup-normal-261019",
     "gacha-pickup-select-261019"
   ],
@@ -101,6 +102,13 @@
   },
   "groups": [
     {
+      "gachaGroupId": "gacha_group-common-ticket_r5-001",
+      "gachaIds": [
+        "gacha-common-ticket_r5-001"
+      ],
+      "iconAssetId": "common-ticket_r5-001"
+    },
+    {
       "gachaGroupId": "gacha_group-common-ticket_r4-001",
       "gachaIds": [
         "gacha-common-ticket_r4-001"
@@ -132,6 +140,7 @@
   "knownGachaIds": [
     "gacha-common-normal-001",
     "gacha-common-ticket_r4-001",
+    "gacha-common-ticket_r5-001",
     "gacha-fixed-260929",
     "gacha-pickup-normal-260929",
     "gacha-pickup-normal-261007",
@@ -191,6 +200,14 @@
       "chs"
     ],
     "notice-news-gacha-common-ticket_r4-001": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-gacha-common-ticket_r5-001": [
       "jpn",
       "eng",
       "ind",
