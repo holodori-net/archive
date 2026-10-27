@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-008",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/7d4de1e8a94cd21e4e8ecb7da427e50d192ec0155f601885a694b8412dc30c44/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "4f872de02d9a0a307e7090b04f894204a13be64426b190f6a79f853bb9e03b6b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/73f1d06fb553f6a9f9cacdbd114d459f25530e11cfb3af6fa62e1604e84b7664.jpg"
+    },
+    {
+      "path": "0ec743b251bf671636a768b8925053a3849fdbbf68ecd969a7f6cf5549d5ae96.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/094acde71f7ead49a32695f41fbf44f449cb3373f629848e5ba82822665656aa.jpg"
+    },
+    {
+      "path": "2c6a2d416b744fdab8b9fb93425c823643e0b67c054a724debdbded20b8496d0.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0f6e8bcf6745db6d42188e263d1a24080fb0d55a08095e2a102729027ba7570c.jpg"
+    },
+    {
+      "path": "6c7c0e1fb7ea639232fe482403c30d9d20bb333652aeff73e47c19879891142f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/61e3738a4f909cf8277729eb08b0768903b0ac638b6744cea79f9dc75b2871b4.jpg"
+    },
+    {
+      "path": "0accc875eb1f880576734b12838ad6411b8f704c66baf7477f0b555229fd45c3.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0929d83873212767ff1e28d7d98e79f496efa70ca24b182c72deb15dc75cd8a7.jpg"
+    },
+    {
+      "path": "c7232f552db4a5c79d0ac329816ee8f2f08cb48ea85916192a5d9f0efd1d248f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4bdcb93c301665996d2d9e5e388ca3834e829eea3b56b6cb6aa2326736b90588.jpg"
+    },
+    {
+      "path": "0a57998725531112e3dff90576a440db934978b30c9c2a2fd5c7b33ca2982531.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6a05322d9cb7e7dbdf944fbeba113103834216959e0d14f37622a81befa71e59.jpg"
+    }
+  ],
+  "startTime": "1793102400000",
+  "title": "[PENGUMUMAN] Event Point Rally \"Heboh-hebohan Halloween!\" Dimulai!",
+  "type": 2
+}

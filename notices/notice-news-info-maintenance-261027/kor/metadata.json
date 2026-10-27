@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_maintenance-info",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/e79c6573ad301aac558b8676aff515544380ca4edbdbdd8907aaa62b1fde47b0/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "4a8524eff68463750a99de949692a73bda748140e8cfaf105c3f4a46984d65b3.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c006c8c66d28c9194aa8feddb39862de8e8be13a6b76be92f8b70f0609841f27.jpg"
+    }
+  ],
+  "startTime": "1793102400000",
+  "title": "점검 공지",
+  "type": 4
+}

@@ -1,0 +1,35 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261029-free",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/876ec217c053acf24f63692186ac3ba411ca20a93c43c4acba539214201a9380/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "0d6a5b72c95f4e0bcc3555af0bb04d49a566028f027fdc6dfc801e2547e1aae4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/245b359ac87f946624e0cbe1726968d347948a42dbce46071387c8b22b0c5309.jpg"
+    },
+    {
+      "path": "19c930d07ad65f1daf650cb6433a89e983023f9894f6bad38e361bc73f830d30.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/96da33fe007a92f727a21fed45c3c901a2cb6c3ce8f36b0ca580a81c86fc15f0.jpg"
+    },
+    {
+      "path": "4433f9332c23f21f49e50e9d1f1ad2e3356daea883b4f4133201456e1317fad7.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/27301bec85960826b7fb09254304c8eaf79f2fce291ea5dac220ad5645260061.jpg"
+    },
+    {
+      "path": "6a72cb4247b3f4588a78a59a6742edee7e1ef7f523a1918fb6e6593c988585c4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/03f66f8986422226d8c03b32d9fc9afafd9312a5043d68b641fa50dfe51e8552.jpg"
+    },
+    {
+      "path": "7a0d9bcbb90f485432da80f94210fa184b9c07d70823c3f8f21856c0ebc3daaa.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a30869c4671491c07c8baa80c682e7d4a7ee9e160969b5d98e137f375e8e3a2e.jpg"
+    },
+    {
+      "path": "532cecf4e5ab8625a0c18f29eb4466c66e1b08a0be6b7a65bf847ac908dc0518.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0fb4e69a75eb3b0c76d49436c3f45ef48744abe75aef880f58dc41145d33b19e.jpg"
+    }
+  ],
+  "startTime": "1793102400000",
+  "title": "【預告】首次10連抽免費！變幻自如☆Cosplay Night轉蛋活動開始！",
+  "type": 1
+}

@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_maintenance-info",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/e9d4c2ac78e4cb4ead079f830c14f430eb3eb6e3341706fc0959041c9cbb2184/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "4a315b554a2de73168a696f80732b09d919ed1cfe201ed4e945c1903a3f8c26f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2ef888d8cc9a1b2e783c308ad4afb7c75dae5def11f1af00ca57e4bbf3ce6c61.jpg"
+    }
+  ],
+  "startTime": "1793102400000",
+  "title": "停機維護公告",
+  "type": 4
+}

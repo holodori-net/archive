@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_maintenance-info",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/aa552380ff71f7b1ec13fb03dddda18638e9dec67c0b20c8ec9c9230bf2d0705/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "31ae5548bf352b1060e66695e2f98798a6a4d5e947ce1b4ec2faa0ca4bf8e682.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7edbd5d1fef133c9920679cd38c9d9d966da63454060abda056190d5071388dc.jpg"
+    }
+  ],
+  "startTime": "1793102400000",
+  "title": "Maintenance Notice",
+  "type": 4
+}

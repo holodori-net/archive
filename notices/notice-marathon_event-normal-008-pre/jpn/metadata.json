@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-008",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/a652065da0378b328960fbb4a8cec3071193c776a586d66110664ea39f0d797b/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "4125392b2f47549c3c552dfd386163a3e896eed570211d01715fe56b8b17397b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f43841f381a4cae66a34b52c2c8a5f159fc27a1209caae18f7d3fedbc53380c4.jpg"
+    },
+    {
+      "path": "847f599785a7e56fadc4d07005e154793b8f4ab08d7c3d2ccb35a083ffd7a21b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/29fd0b8230fe4534d57a9d0b1e5dec527fa5a4305534646f94c2568328077a0a.jpg"
+    },
+    {
+      "path": "2c6a2d416b744fdab8b9fb93425c823643e0b67c054a724debdbded20b8496d0.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9d72a5b8ddbacf0194a666f1ae7d606a72bc184755598431380c4d006c3be868.jpg"
+    },
+    {
+      "path": "ecd53e72572e657af4916f91d16ac95f777375db3da6280b0ab4836e9692a561.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/464f32ddf0314b8381f4b90222d06580b54f0b9c38238dd2afce7e576b16201f.jpg"
+    },
+    {
+      "path": "6bd7a42d838e2253f1543b61fe771cf5f38db26e6e3c8ae9e396b1fc6e881605.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5b5d07c9501afc3307807fffe1cfae3256c11c9d59bd4fa384c76158174f0a04.jpg"
+    },
+    {
+      "path": "e4fe421d7128e5de53056953c31a2e4a861dafd60cf836cd83286e9988625678.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e48d69ffe0a844da3cd0911793dd67d024a3328406eecf3d05b6c24250678b04.jpg"
+    },
+    {
+      "path": "3ec9b765acbcc99449a9fb4b4402da1250020b3aff3e23e8fba6c4883ab19855.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/74a6ced54c6a2a5c576387c2499ac5dc59faccd37ff56e7cd98e87ae9ee1dfd1.jpg"
+    }
+  ],
+  "startTime": "1793102400000",
+  "title": "【予告】ポイントラリーイベント「私たちのHalloween Fever！」開催！",
+  "type": 2
+}
