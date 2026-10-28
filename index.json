@@ -5,6 +5,7 @@
   },
   "currentEventIds": [
     "event_mission-beginner_mission",
+    "marathon_event-normal-008",
     "marathon_event-relay-003"
   ],
   "currentGachaIds": [
@@ -14,7 +15,7 @@
     "gacha-pickup-normal-261019",
     "gacha-pickup-select-261019"
   ],
-  "databaseMasterVersion": "d245f15608dd249e136a3079be1e6784998d400b52d3ba6b8d192f462e01f743",
+  "databaseMasterVersion": "b19847ed7f334b8f8f1f0d93e06a70b6cdab8456f7056dbe7308cbbe259182a2",
   "events": {
     "event_mission-area03-release-260929": [
       "jpn",
@@ -33,6 +34,14 @@
       "chs"
     ],
     "marathon_event-normal-007": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "marathon_event-normal-008": [
       "jpn",
       "eng",
       "ind",
@@ -148,7 +157,7 @@
     "gacha-pickup-select-261007",
     "gacha-pickup-select-261019"
   ],
-  "masterVersion": "b19847ed7f334b8f8f1f0d93e06a70b6cdab8456f7056dbe7308cbbe259182a2",
+  "masterVersion": "7a0ebef94447e81203670429f4a9c0ca086e5eec89fa6819b1c32a35d5585e98",
   "notices": {
     "notice-mal-list-confirmed": [
       "jpn",
@@ -318,6 +327,14 @@
       "cht",
       "chs"
     ],
+    "notice-news-info-survey-261027": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
     "notice-news-info-update-260730": [
       "jpn",
       "eng",
@@ -359,6 +376,14 @@
       "chs"
     ],
     "notice-news-info-update-261002": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-info-update-261028": [
       "jpn",
       "eng",
       "ind",
