@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_login-bonus-event-261029",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/01123eccddce0049465828dc5cdf82749044d2ddb70fa18f8b7dab6c7c12e45c/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "93e73bd11307664e85e1417f8c87223cfbd4d683daf44922db04b28d0f247333.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4e4c2b7ae325e81e38d59339585f5a60509bf32dcdf0a14513770d1afcb8be97.jpg"
+    }
+  ],
+  "startTime": "1793239200000",
+  "title": "Halloween Login Bonus now underway!",
+  "type": 6
+}

@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_shop-membership-261101",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d91459ee434c4e8e40f7db34b33982a077c020a7da5b1c7fad32ef0d8518b23e/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "3c93d4fd03a4d98892b85b894a553348c4dcdae37e0f91889a6028d78b3b409b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c504b431d6efba159b310eb2b2ad0507e86447775b5a877f3d2e11566d1a81ab.jpg"
+    }
+  ],
+  "startTime": "1793476800000",
+  "title": "Badges Added to Membership!",
+  "type": 4
+}

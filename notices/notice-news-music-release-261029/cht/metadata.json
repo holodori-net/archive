@@ -1,0 +1,19 @@
+{
+  "bannerAssetId": "img_banner_full_music-release-m0549",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/f0cd747400fa9b5c6d6299c5bd7e58a0c281e1546a10082ed178a2b0481d46fa/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "206cb4412f439af9b1efc10415885e5fce3fa8c7a073e2aa626b5246d97eb882.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7b6d93f1554dccfe20fa0e5c54e47a5556d55b05d2d269a81bdf880ffdd8fc2e.jpg"
+    },
+    {
+      "path": "9665483728a022619979f09a4b5381cea59fec5e26b76202cf1783f1acca9fec.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d4d973e952238115e0951e92f6976437f60cad7a0bad48ba39d5db61849706b4.jpg"
+    }
+  ],
+  "startTime": "1793277000000",
+  "title": "新增樂曲「Sakuraful March」！",
+  "type": 5
+}

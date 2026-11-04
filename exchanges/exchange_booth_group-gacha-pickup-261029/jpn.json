@@ -1,0 +1,42 @@
+{
+  "booths": [
+    {
+      "id": "exchange_booth-gacha-pickup-261029",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261029-001",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261029-002",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261029-003",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261029-004",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261029-005",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        }
+      ],
+      "name": "変幻自在☆Cosplay NightガチャPt交換所"
+    }
+  ],
+  "id": "exchange_booth_group-gacha-pickup-261029",
+  "name": "変幻自在☆Cosplay NightガチャPt交換所"
+}

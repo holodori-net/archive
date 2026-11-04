@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_shop-missionpass-261101",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/6604563b6e96968fd4298d3a3ebc37c18ccb44e12c31b227da2537fdba3c9e2a/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "4682876400aefca2482b255b8406e98ff9d0f88bcc2ab40fab822227f0439af0.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6a068b961e0e21483758e0a03726517d0230753ef4f9608386936cb6095ef0d3.jpg"
+    }
+  ],
+  "startTime": "1793476800000",
+  "title": "November Mission Pass now underway!",
+  "type": 4
+}
