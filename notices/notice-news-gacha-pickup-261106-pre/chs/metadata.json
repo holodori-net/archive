@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261106",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/5e08e6fee4b79856ea7012518ceaa341015431519324cd3d5b5f51e635ded346/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "c298d00ef0be3deafa59118e0e3821d6f08036eef0b2eebb0401b055d68614f9.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f6ea77a0b526f019253f3fd4fdaf72d72a16a82115398ef16c9fe160cf52a7a2.jpg"
+    },
+    {
+      "path": "84102199a365499ba28639c73de20a03d9516aff0dd4a4440144e4ce30363e78.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d182772bfdebf842ceebf20d59787278ee6a2da4b32eff70d52fd511b57848e9.jpg"
+    },
+    {
+      "path": "f70bdf0f826573b1684a06d81df6a04cade0c10dd2ae994881901a402696a7d6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ff64c6cb57d13a8617e391354cfae53e8962b50153993f958c78abcd56d8999d.jpg"
+    },
+    {
+      "path": "c4deb2f94f3c0246aa2c4dbc0dae675b2f711832a003e47c2767f682232e331f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5ea7219eda23e6950806067a124c9c461529bf94d3dd80d6bf2ae1caa2ddd26d.jpg"
+    }
+  ],
+  "startTime": "1793872800000",
+  "title": "【预告】温暖的放松时刻 扭蛋即将上线！",
+  "type": 1
+}

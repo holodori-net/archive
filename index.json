@@ -6,7 +6,8 @@
   "currentEventIds": [
     "event_mission-beginner_mission",
     "event_mission-training_support-261105",
-    "marathon_event-normal-008"
+    "marathon_event-normal-008",
+    "marathon_event-normal-009"
   ],
   "currentGachaIds": [
     "gacha-common-normal-001",
@@ -51,6 +52,14 @@
       "chs"
     ],
     "marathon_event-normal-008": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "marathon_event-normal-009": [
       "jpn",
       "eng",
       "ind",
@@ -192,7 +201,7 @@
     "gacha-pickup-select-261019",
     "gacha-pickup-select-261029"
   ],
-  "masterVersion": "1aba922e9cd282db2396b19d220524b46e7ac10459c5ffb3c1b6f6d4eb9f550d",
+  "masterVersion": "a968ca86762ff8aeb79996a4c0151e60962b5c70be8757b14410b14499f1a2ef",
   "notices": {
     "notice-mal-list-confirmed": [
       "jpn",
@@ -227,6 +236,14 @@
       "chs"
     ],
     "notice-marathon_event-normal-008-pre": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-marathon_event-normal-009-pre": [
       "jpn",
       "eng",
       "ind",
@@ -331,6 +348,14 @@
       "chs"
     ],
     "notice-news-gacha-pickup-261029-pre": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-gacha-pickup-261106-pre": [
       "jpn",
       "eng",
       "ind",

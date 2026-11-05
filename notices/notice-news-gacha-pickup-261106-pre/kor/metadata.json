@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261106",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/827368bc4d0c55305d54abc461e71c272529a3677313546c9dd8952b4accb74a/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "5bd6fa7a21c18f49edf6c68d56095c73caa5d4e2d2064cbe1fba17451526182c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4e4e631e8a9b9410587dc71f8b5f0e54a5942eeead69bdbcc1befb287aa2de22.jpg"
+    },
+    {
+      "path": "84102199a365499ba28639c73de20a03d9516aff0dd4a4440144e4ce30363e78.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f9f88b150f0d5c9e80d888579c05a7bd43d3d86c74b3c65f1a8f92c1f9e46126.jpg"
+    },
+    {
+      "path": "f70bdf0f826573b1684a06d81df6a04cade0c10dd2ae994881901a402696a7d6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1de215584b5fef65f476bd9332d4817335eafc5560ebb0fb541baf18a86359f2.jpg"
+    },
+    {
+      "path": "c4deb2f94f3c0246aa2c4dbc0dae675b2f711832a003e47c2767f682232e331f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/278de45bd36e77ce8a7218df32e34500f920e61ce71a61bbbe21e17417799388.jpg"
+    }
+  ],
+  "startTime": "1793872800000",
+  "title": "【예고】따뜻한 힐링 타임 뽑기 개최!",
+  "type": 1
+}

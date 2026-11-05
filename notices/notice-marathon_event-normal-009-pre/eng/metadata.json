@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-009",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/91e7aad0f73b82982947d7ebc805c70bb90e0538944aa7ea0fd89d7f6f481b7e/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "6d19280937005a83da2b91127f3056be0799e94ab82d3a7736060f38a99fded3.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4e5bd8518dc9bff8a539eb3eb2fb354b7d0160dda5d395e72b4b6a63a4c783ce.jpg"
+    },
+    {
+      "path": "32ff2c0e607f0b6c121e34323db132f8a26fdcdc5bc7e3261dac418c445d076d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/93f55d8509f20d731b51307524fe5258a81f331ea66475e10cc553160e53aba4.jpg"
+    },
+    {
+      "path": "c8a522d67830a3426aa397dd28a7639b84f389c71df722938f642976910d27ac.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4a242bddd04fba6924b1d817a36f713e5ae3d9cb06c191a4e753e116fcb0983b.jpg"
+    },
+    {
+      "path": "7a6289a2daaf7941b4ff6646c65381bc7eb803bfea2db27062839da3a4baf843.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/49f52c43e860a123cab2e7868a736d3210d16a6b1cce44ec1ea69a48dd9be2e8.jpg"
+    },
+    {
+      "path": "05f4e7f55a2d79106c6c44d94e47462856abd9550bdd3213cb182e060279dc93.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a24bac10be4f2d8ef07fab069b29d8706ea3dc4ca436d8f707018759507cafb2.jpg"
+    },
+    {
+      "path": "d8f6b7c85ee10b4576cb7bb978dbeba9cda86ff31181221c9eb6c2457e4ac33d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/78973f34e4b6e85d4283d7425b435d31884cdeba3663330c563fcbf552239800.jpg"
+    },
+    {
+      "path": "d83432c039ea17042245a78d340344b0e1ee8047311190b1bcba24162195d28b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/765a4914aafc68be7010f2567e3371ce439201bdb66d1e012205297776ab2041.jpg"
+    }
+  ],
+  "startTime": "1793872800000",
+  "title": "[Notice] Announcing the Score Challenge Event \"Cozy Long Autumn Nights Together\"!",
+  "type": 2
+}

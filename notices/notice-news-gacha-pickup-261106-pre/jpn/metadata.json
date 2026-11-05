@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261106",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/bf0b24db64077b6f6bee397916506568297fbbf4ddc392ba36a239a77bed4645/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "6bc040613c062d111d0a2943610766914fe64c06cf8861f3f3f8a4e11c1a5992.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/28d67ee6f827e8bfe77058dcc9a473539fc36b39bc2418a10fd9213ddffd5539.jpg"
+    },
+    {
+      "path": "84102199a365499ba28639c73de20a03d9516aff0dd4a4440144e4ce30363e78.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bccdb2d68aeea68913efcb1563a3e5f1567f2718bf7b2bdb6bd3232f5fbf03be.jpg"
+    },
+    {
+      "path": "f70bdf0f826573b1684a06d81df6a04cade0c10dd2ae994881901a402696a7d6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fc8ff44dfe1ca03b8582a2d3da385d80ac369c0b8d0fe60d5d5f59c3c2a3e086.jpg"
+    },
+    {
+      "path": "c4deb2f94f3c0246aa2c4dbc0dae675b2f711832a003e47c2767f682232e331f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7a979dacbbb437e96cf30a34fd4984feb2df519abf5a62b4b6b8afc8f2923dc8.jpg"
+    }
+  ],
+  "startTime": "1793872800000",
+  "title": "【予告】ぬくもりのチルタイムガチャ開催！",
+  "type": 1
+}

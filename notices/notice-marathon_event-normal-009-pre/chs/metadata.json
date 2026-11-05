@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-009",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/f9f7157396f31cc1e85112e5e0950bd957ed94d2f540bc8d8b797807400d0204/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "ac4311fe971aa7bc0a79a133990ed718489bb71a1d166f0055b69444a91469e1.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d82b406362073440ae42ccc0fd35fe61fa72a3bbbfd1e575c32ac7b7773fce46.jpg"
+    },
+    {
+      "path": "7b80977676508951fde26f7bac692162171c33ceaf3cf33d14f3afa81f090bc8.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7ae2317c04001fa4004957de0b0ec402407806b33f7d86a2a3bf4e516cfad95d.jpg"
+    },
+    {
+      "path": "c8a522d67830a3426aa397dd28a7639b84f389c71df722938f642976910d27ac.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ccd0077fba97889df501e7756c4ca37f218abfa585fbe3c2e5d2bdf0131f63f0.jpg"
+    },
+    {
+      "path": "250a2a61cf0939b94e469dfd6f116fd506cfd6fe62a91aaceb6ae7ed1e7548c5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/46c55498c3143fa6f8ef5553a5542f3e86d745236bcf95970751da2e5bb5e4d1.jpg"
+    },
+    {
+      "path": "b807bcb6c7c56162c7749e22d8007f69996095512baed979d69e7f6dbffcc94e.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1a2cc958980d2dcec56e4e3406ab4f7c1e7d5b8e0938fefa576a4235fe2530ba.jpg"
+    },
+    {
+      "path": "3efaf1d1175e1b70b504a465ed93e453312fdae6f7b0c26969a7ea4ed1bdc2f6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6c42edc55b8fff49df96139e5baac9b2acc371558d31d09232a161345d05e04f.jpg"
+    },
+    {
+      "path": "31e41e4ac8473c069913c46ca97727bdcd3f75b9c7fbdf37af94cc4dc2f73381.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0e7d1ca41ae0c97d36f928d633bb5827a0cf83a0a4882f4edc2063d35717f047.jpg"
+    }
+  ],
+  "startTime": "1793872800000",
+  "title": "【预告】得分挑战活动《秋夜漫漫，共度屋檐下》上线！",
+  "type": 2
+}
