@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-009",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/7f70daeb2b2c2a76962d39fe5b71d06c1d3f157d4eb10dd08b002c1e294eb1ca/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "de175184eba690b191affc87a66a58f94e699f669c21388501e6b6e281174e6b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ea5b89b17f8d0fbc9f82fd8ec9f746a28890f52631629f65784894529c750dab.jpg"
+    },
+    {
+      "path": "59040ed622bfcd48c2afe9aadb4756a278d1217a968c394e26eaa664010ccb5b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/92915c3d6cfc3311e267e843e92935ca4b30f03c0062f96d41e2387fad2f1dcf.jpg"
+    },
+    {
+      "path": "c8a522d67830a3426aa397dd28a7639b84f389c71df722938f642976910d27ac.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e4e5814def838c9259dd193292f646d0b2679a73f1022c1d1351cf918a6703c3.jpg"
+    },
+    {
+      "path": "b0231ecdac2fa40b34ce4243f8b93ca82cbc84b9386ae7846898cba21e3f7761.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fe93a922cc3c011f282d8c28e225ae7a851273fb95380996bd4a734ef418c4e5.jpg"
+    },
+    {
+      "path": "f7995d4a4b78aab856ff3d14875959b96be9ba528739a1ceab6eda9bb3d401d6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9a7cc677b6d2d9c7ed53a2a05bf601fa8b13eb424d74b3a02d2856b14dcab3e3.jpg"
+    },
+    {
+      "path": "e8a9fe162d1cc051073adc8eee67c964a1b32dffc112918606dbf7e19d475176.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6015cf2021434428ef75d4dd34398d588f7d674a8307a6825e6a42d709a6eab0.jpg"
+    },
+    {
+      "path": "fcf3ac9d0450de3199139260e95ab256bd646e14a4d3136a0745bbd625ba5738.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5fad2e63b05c58503c57ecedf2189075669b9d1b270090a6f01019842b340a6c.jpg"
+    }
+  ],
+  "startTime": "1793934000000",
+  "title": "스코어 챌린지 이벤트「기나긴 가을밤에, 한 지붕 아래서」 개최!",
+  "type": 2
+}

@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-009",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/752d6985aefb77d800ed35d4f055db5d14af992ada417c7e15559fed14260478/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "381931350baa1a3079adf0cfa3f58210e6f78daa235618d382b08ce2307dcc71.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/79dbeaac809a3c5923c05039688510ff6b97bbe6245c0f57454ade9198548a47.jpg"
+    },
+    {
+      "path": "ed6635d944137e736b024f391498551d7188561d8bd6cc8dc59bd72690f2bf92.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f51e020a7e221c54bb594a4390aae5da01a22584fc65092c679561f913a401ce.jpg"
+    },
+    {
+      "path": "c8a522d67830a3426aa397dd28a7639b84f389c71df722938f642976910d27ac.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fbf309d0c230c9ff61b879949f7610555cb8055b157aaa513dfd1c7abe121dd3.jpg"
+    },
+    {
+      "path": "c7b12507c6b6e5a7ddf31e034cea46afe8bf2b49a9a314d008441bff79684821.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0b2efca66576832be16e71a15c6fc3048e992d6fad4cb51f006c18cd30489fc0.jpg"
+    },
+    {
+      "path": "5a9c14feba6bb7e3c5458974a576c08c4aaac27cfe0227548473df919ca98943.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/33e4ce1a72e84cebf91386531d719f317c063324c2cec3680b82e8ca1d452f2b.jpg"
+    },
+    {
+      "path": "cca4268d1813f27ee4500ca9ee92f8430d37f9c1628fb8295cf48b8346a0f853.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/24d1f44e36af8403151044059f5f1bdaf84488d2cff44d0333afbe8e25c82549.jpg"
+    },
+    {
+      "path": "318abf857db6a5bfd1e10dbb13f417a6ed9a3b7ffc16f40dbe24e654701c171c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/36daf72c7701dfd0d650f01a0485cb338ece14aa8395766b42f637b57dbcc99d.jpg"
+    }
+  ],
+  "startTime": "1793934000000",
+  "title": "スコアチャレンジイベント「秋の夜長に、ひとつ屋根の下」開催！",
+  "type": 2
+}

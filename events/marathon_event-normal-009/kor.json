@@ -1,4 +1,12 @@
 {
   "eventId": "marathon_event-normal-009",
+  "marathonInfo": {
+    "marathonChapters": [
+      {
+        "id": "marathon_event-normal-009-chapter-01",
+        "scoreName": "이벤트 Pt"
+      }
+    ]
+  },
   "name": "스코어 챌린지 이벤트"
 }

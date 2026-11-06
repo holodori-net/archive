@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-009",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/bf4aca69affdae94b5836053dc4db4c9caa29ff91c70d2af64d71890fd957b15/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "92d5f60fc2ebefbe42dd5c2f69e897bab46d8aed2ca10487e636eac03b172cb4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/daf3732c29cc95bf6a60cf2083ea120565b9d2b51896700c5a080a355b66772f.jpg"
+    },
+    {
+      "path": "e03f552b3b82156bbec8aa3c8f403b99e8fdbe04cdf2a78f1f23d183d3ecc948.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/813812de4f12196163437ccd0b21320270e790d5892380041c4722b439ab4803.jpg"
+    },
+    {
+      "path": "c8a522d67830a3426aa397dd28a7639b84f389c71df722938f642976910d27ac.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6a5ec8eaf6c40e08ffb173bf3c543f088e09df905f81ecd22b52401f0bf8b90c.jpg"
+    },
+    {
+      "path": "901de08e68c78b35988e9d7d38c5967176f3e8ad807e612221aa85d0ce9308e1.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ec3e7dd082aa69f4bbbf480507a0f6dcad2950d4734fa0024703a65be280f5b4.jpg"
+    },
+    {
+      "path": "70d97f56d9903cfd29acbe1383ac9d9a40f34288b2c11cb57416851d31736286.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/63394efb58ce2d0da8f1481f8020dfb8221460a50094cdb371c0750775938c34.jpg"
+    },
+    {
+      "path": "7e1cc39ead033650d034e34aeb8e9dfa33fb5698eb065dc20f15a196f5822cba.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0527352761a9ebc82df465a03e025a1e5d94ac266297aef697063fc26cd9a343.jpg"
+    },
+    {
+      "path": "3170fbee105f6634a99c0a1ad1c0203abb9f576f8a75ca277883287b28128df5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d01bbbe16a75046a9b4bda331d28ec22baadcb96c2da4834f50ee25be90efed4.jpg"
+    }
+  ],
+  "startTime": "1793934000000",
+  "title": "分數挑戰活動「漫漫秋夜，有你相伴」開始！",
+  "type": 2
+}

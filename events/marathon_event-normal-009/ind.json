@@ -1,4 +1,12 @@
 {
   "eventId": "marathon_event-normal-009",
+  "marathonInfo": {
+    "marathonChapters": [
+      {
+        "id": "marathon_event-normal-009-chapter-01",
+        "scoreName": "Event Pt"
+      }
+    ]
+  },
   "name": "Event Tantangan Skor"
 }
