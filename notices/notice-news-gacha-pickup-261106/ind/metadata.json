@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261106",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/934ae3fc9c023151488e9e669551a0d131b0f19e6d1e5e8ff92e3194c025a138/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "257b854d4f6c86c6046394bc2539ee6374fc6f1e6e70602326303e17465fe419.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ed684e1c214c570ced3bdbff51da1be3a0b11530e20d339b285b16cb7465deb2.jpg"
+    },
+    {
+      "path": "84102199a365499ba28639c73de20a03d9516aff0dd4a4440144e4ce30363e78.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/be13ba21a7dea178b09dc516c670157df25ca75de32c5dcb317dc25b110cd938.jpg"
+    },
+    {
+      "path": "f70bdf0f826573b1684a06d81df6a04cade0c10dd2ae994881901a402696a7d6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3f47afe95b1bad29af6f61351ed9bb9217b03fb41fe3ce6b36f4873af06ac423.jpg"
+    },
+    {
+      "path": "c4deb2f94f3c0246aa2c4dbc0dae675b2f711832a003e47c2767f682232e331f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e3a345cf0702634740a22ada2624a596069b7152a90479a6bcaf40f2a8d59be4.jpg"
+    }
+  ],
+  "startTime": "1793930400000",
+  "title": "Gacha Santai Nan Hangat Telah Dimulai!",
+  "type": 1
+}

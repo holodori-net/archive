@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261106",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/0db96c3544d4d25df4e726edb500a66619a9376c1efc9d98c3d256b28b6b2306/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "754da8fc7cbb6da724dcd399b7e8ffef9971bb88315831f37efe21a0e3202ed5.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3163a811c0ebb97329237aeea33d963b150503cbe71ed6055d25c791dd50026b.jpg"
+    },
+    {
+      "path": "84102199a365499ba28639c73de20a03d9516aff0dd4a4440144e4ce30363e78.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f653bbea83a0058ab20283ed09e50a58015917f4636e7c29157f4a4a572ccf80.jpg"
+    },
+    {
+      "path": "f70bdf0f826573b1684a06d81df6a04cade0c10dd2ae994881901a402696a7d6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f87f78549b62deba7d2b8cb5d31ce6666b3674d14f398649e3302f49ea25a129.jpg"
+    },
+    {
+      "path": "c4deb2f94f3c0246aa2c4dbc0dae675b2f711832a003e47c2767f682232e331f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5ebed8a99eba7bb8889a6f220812ad0751f474f9fdc2b0c9707c1c9beb9b080f.jpg"
+    }
+  ],
+  "startTime": "1793930400000",
+  "title": "溫暖的放鬆時光轉蛋活動開始！",
+  "type": 1
+}

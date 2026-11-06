@@ -1,0 +1,27 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261106",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/474593bf6fc0911ab9bad3c223fedc22f7e0cc9d1bf06c930c9caabbc03a81c9/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "058517539cc4cf926cc49e056b4afd49b90c522abfde5e4ac19a1ee8ffe1287f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c5a985898632cfc02966e6ec59b120331f0c8d362d1a20f1c0f4dffcd0b6e9b9.jpg"
+    },
+    {
+      "path": "84102199a365499ba28639c73de20a03d9516aff0dd4a4440144e4ce30363e78.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/16813f0bdde5853461e7148ee8b7e9914d153391e52375f2a0aaaf8dc5d37084.jpg"
+    },
+    {
+      "path": "f70bdf0f826573b1684a06d81df6a04cade0c10dd2ae994881901a402696a7d6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/175bb36ee121730319df77ccddaf7ca37ccaa034f50e16c4c09a6bda8c99dc8c.jpg"
+    },
+    {
+      "path": "c4deb2f94f3c0246aa2c4dbc0dae675b2f711832a003e47c2767f682232e331f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b224cca3ed272b95d03bdeccbc521a9afa8d7d63b50b8aa0577cfdc827ddaeb7.jpg"
+    }
+  ],
+  "startTime": "1793930400000",
+  "title": "\"Heartwarming Chill Time Gacha\" is now live!",
+  "type": 1
+}
