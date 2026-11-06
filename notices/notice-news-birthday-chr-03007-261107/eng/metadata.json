@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_birthday-chr-03007-261107",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d3f47333e433753c9333458d18fa460d81a2742b1c0dbccd59f74eaf0011bf02/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "27891bf18def20184ffbdb316732cef503cf03b8ecda8c7e22c286699dc5d504.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5c0a4b2136b650d544807539b77be178d09d4dcb82364d80d7c66dda950bdddf.jpg"
+    },
+    {
+      "path": "dcb3647e8aa75cca92cdeb4a31a7c7398628afe46d7cb0855aafbcbbfe44cea4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7d66c9acc44ef8202a072ba3e38aa798d46c18f87223cbfdbaf61b73ccb22728.jpg"
+    },
+    {
+      "path": "25e31b232341a3bf377316ae335eba8d2d35e17c6c31513b274c47c19b35f96a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d527458c00703b0a057c2e7b18685cd14e29a33ec4b0cf971e1b87b7809fe3c7.jpg"
+    }
+  ],
+  "startTime": "1793977200000",
+  "title": "Happy Birthday! Vestia Zeta",
+  "type": 6
+}
