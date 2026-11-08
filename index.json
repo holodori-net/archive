@@ -13,7 +13,6 @@
     "gacha-common-normal-001",
     "gacha-common-ticket_r4-001",
     "gacha-common-ticket_r5-001",
-    "gacha-fixed-261029",
     "gacha-pickup-normal-261106",
     "gacha-pickup-select-261106"
   ],
@@ -186,13 +185,6 @@
         "gacha-pickup-normal-261106"
       ],
       "iconAssetId": "pickup-normal-261106"
-    },
-    {
-      "gachaGroupId": "gacha_group-fixed-261029",
-      "gachaIds": [
-        "gacha-fixed-261029"
-      ],
-      "iconAssetId": "fixed-261029"
     },
     {
       "gachaGroupId": "gacha_group-common-normal-001",
