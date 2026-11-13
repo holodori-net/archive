@@ -210,7 +210,7 @@
     "gacha-pickup-select-261029",
     "gacha-pickup-select-261106"
   ],
-  "masterVersion": "946df5578961c3cc9a9830a7f0af65713e46e0ed55ce52cdd508bd3dc6ec5314",
+  "masterVersion": "9171c5282eaf618dab68c4ca2459cfd386c79aad7fb56db59496f2058f78d875",
   "notices": {
     "notice-mal-list-confirmed": [
       "jpn",
@@ -269,6 +269,14 @@
       "chs"
     ],
     "notice-marathon_event-relay-003": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-marathon_event-relay-004-pre": [
       "jpn",
       "eng",
       "ind",
@@ -389,6 +397,14 @@
       "chs"
     ],
     "notice-news-gacha-pickup-261106-pre": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-gacha-pickup-261114-pre": [
       "jpn",
       "eng",
       "ind",

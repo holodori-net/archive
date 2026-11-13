@@ -1,0 +1,35 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261114",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/95d04301aae5ac39a06618dec9ff55ac5b22cb0a48a50d4117d3a22d89a488a9/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "05c2e7cc34077354306d3b6ac40430022bd81994928fc68b8949c7c7ee8ad6e0.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b875396fe5e8e30e3e0c7c78c4e152c352c372c585819c0300c3fa14add8b4d1.jpg"
+    },
+    {
+      "path": "0ca91ff1890f097e8dac5c7db8b0c3921e708db6e7922a564f73b45326b19370.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/30f7b9873c9130d81d9ec0bf30be6b01e98af5f24b360f2f8d1bbea16002e090.jpg"
+    },
+    {
+      "path": "37c44d5444ba8df6e97bc1fb0003856ba71753a9b296df5d146f12b94c9fc5de.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/112aa7ef0a00d83eba738dc0be4562b67f6b63f87a4b6adae35a5b71c16c7ae1.jpg"
+    },
+    {
+      "path": "48278321f67fafe1cb1262a31692921029b42d3cd000ef9dd029b556285eb77b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d8cccf69423794f7aac8d7d1e55713eba90c92098096ca9fa473cca709ac16a9.jpg"
+    },
+    {
+      "path": "ddd125c487ce860be2b4943bd3fce9785a34eb687015b6b2052d78baa979c683.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f83f22392ee69c08402a26803a45aaecb4a9362fa806d6ef018fdf5cb7c006ed.jpg"
+    },
+    {
+      "path": "d72184d42397fdfac54fc11a18d0632c9bff7a0a39d02c8b3a8c881b92932e45.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1953bf00f2be3a40f4cfd3df644d01f8b853818e2e973ee513a68d8efa7269b2.jpg"
+    }
+  ],
+  "startTime": "1794564000000",
+  "title": "【预告】秋高气爽，漫步好时节♪ 扭蛋即将上线！",
+  "type": 1
+}
