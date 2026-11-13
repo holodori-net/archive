@@ -6,7 +6,8 @@
   "currentEventIds": [
     "event_mission-beginner_mission",
     "event_mission-training_support-261105",
-    "marathon_event-normal-009"
+    "marathon_event-normal-009",
+    "marathon_event-relay-004"
   ],
   "currentGachaIds": [
     "gacha-common-normal-001",
@@ -15,7 +16,7 @@
     "gacha-pickup-normal-261106",
     "gacha-pickup-select-261106"
   ],
-  "databaseMasterVersion": "946df5578961c3cc9a9830a7f0af65713e46e0ed55ce52cdd508bd3dc6ec5314",
+  "databaseMasterVersion": "9171c5282eaf618dab68c4ca2459cfd386c79aad7fb56db59496f2058f78d875",
   "events": {
     "event_mission-area03-release-260929": [
       "jpn",
@@ -66,6 +67,14 @@
       "chs"
     ],
     "marathon_event-relay-003": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "marathon_event-relay-004": [
       "jpn",
       "eng",
       "ind",
