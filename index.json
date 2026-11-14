@@ -170,6 +170,14 @@
       "kor",
       "cht",
       "chs"
+    ],
+    "exchange_booth_group-marathon_event-relay-004": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
     ]
   },
   "groups": [
@@ -287,6 +295,14 @@
       "chs"
     ],
     "notice-marathon_event-relay-003": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-marathon_event-relay-004": [
       "jpn",
       "eng",
       "ind",

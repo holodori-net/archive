@@ -1,4 +1,28 @@
 {
   "eventId": "marathon_event-relay-004",
+  "marathonInfo": {
+    "marathonChapters": [
+      {
+        "id": "marathon_event-relay-004-chapter-01",
+        "scoreName": "イベントPt"
+      },
+      {
+        "id": "marathon_event-relay-004-chapter-02",
+        "scoreName": "イベントPt"
+      },
+      {
+        "id": "marathon_event-relay-004-chapter-03",
+        "scoreName": "イベントPt"
+      },
+      {
+        "id": "marathon_event-relay-004-chapter-04",
+        "scoreName": "イベントPt"
+      },
+      {
+        "id": "marathon_event-relay-004-chapter-05",
+        "scoreName": "イベントPt"
+      }
+    ]
+  },
   "name": "スポットライトイベント"
 }
