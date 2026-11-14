@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_birthday-chr-00030-261115",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/4fe494df03168977788bdf2d5c80dc228e21a3fc33e92b73c2a858d6b6d78269/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "aadedcec719c22de1c76aac1aff9d9999823b17e72c2e8dd54550cdf7ee6a69a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/84f920b83779c91ed5d81d81ea3139a75fb9f904b302d4b468998b010cdaa697.jpg"
+    },
+    {
+      "path": "f163f1e4bd69d97c72922cbdd9a9708aa9441189e8f2e14e92e8c8afae7aa29f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/edbd2189cdc7781c9f20f38985577279beb6e19b6d3ef0bbcd2cf76c66722c28.jpg"
+    },
+    {
+      "path": "3e0df353cffbf6944c62b5b2de829614ffa7a0b7f578543b6939700e7a01c065.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b86a466d71f9b83aeee3484bbcc018b9338e0cc6ebd93010047a55f6c07183fc.jpg"
+    }
+  ],
+  "startTime": "1794668400000",
+  "title": "Happy Birthday! Yukihana Lamy",
+  "type": 6
+}
