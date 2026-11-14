@@ -12,8 +12,8 @@
     "gacha-common-normal-001",
     "gacha-common-ticket_r4-001",
     "gacha-common-ticket_r5-001",
-    "gacha-pickup-normal-261106",
-    "gacha-pickup-select-261106"
+    "gacha-pickup-normal-261114",
+    "gacha-pickup-select-261114"
   ],
   "databaseMasterVersion": "9171c5282eaf618dab68c4ca2459cfd386c79aad7fb56db59496f2058f78d875",
   "events": {
@@ -131,6 +131,14 @@
       "cht",
       "chs"
     ],
+    "exchange_booth_group-gacha-pickup-261114": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
     "exchange_booth_group-marathon_event-normal-007": [
       "jpn",
       "eng",
@@ -180,18 +188,18 @@
       "iconAssetId": "common-ticket_r4-001"
     },
     {
-      "gachaGroupId": "gacha_group-pickup-select-261106",
+      "gachaGroupId": "gacha_group-pickup-select-261114",
       "gachaIds": [
-        "gacha-pickup-select-261106"
+        "gacha-pickup-select-261114"
       ],
-      "iconAssetId": "pickup-select-261106"
+      "iconAssetId": "pickup-select-261114"
     },
     {
-      "gachaGroupId": "gacha_group-pickup-normal-261106",
+      "gachaGroupId": "gacha_group-pickup-normal-261114",
       "gachaIds": [
-        "gacha-pickup-normal-261106"
+        "gacha-pickup-normal-261114"
       ],
-      "iconAssetId": "pickup-normal-261106"
+      "iconAssetId": "pickup-normal-261114"
     },
     {
       "gachaGroupId": "gacha_group-common-normal-001",
@@ -212,11 +220,13 @@
     "gacha-pickup-normal-261019",
     "gacha-pickup-normal-261029-free",
     "gacha-pickup-normal-261106",
+    "gacha-pickup-normal-261114",
     "gacha-pickup-select-260929",
     "gacha-pickup-select-261007",
     "gacha-pickup-select-261019",
     "gacha-pickup-select-261029",
-    "gacha-pickup-select-261106"
+    "gacha-pickup-select-261106",
+    "gacha-pickup-select-261114"
   ],
   "masterVersion": "9171c5282eaf618dab68c4ca2459cfd386c79aad7fb56db59496f2058f78d875",
   "notices": {
@@ -405,6 +415,14 @@
       "chs"
     ],
     "notice-news-gacha-pickup-261106-pre": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-gacha-pickup-261114": [
       "jpn",
       "eng",
       "ind",

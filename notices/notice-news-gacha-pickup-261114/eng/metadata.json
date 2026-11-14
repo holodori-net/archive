@@ -1,0 +1,35 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261114",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/2ad0ff64625a39e298c3ea0c802884f2790f412fc56a27f7d2606f5806f861d9/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "fa4244a7a67e437df2263fdf3764a74d88e2be3a75a485b73bc88859325de8c8.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f6942b8a332d6324e669aafd3b72a77d5a7c5233402bc32e5dafa371e4717bf3.jpg"
+    },
+    {
+      "path": "0ca91ff1890f097e8dac5c7db8b0c3921e708db6e7922a564f73b45326b19370.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/06c1eef172d46ae13f6cebc3f28091a97c9e4d2d23cd8f70a9f960c92291ff56.jpg"
+    },
+    {
+      "path": "37c44d5444ba8df6e97bc1fb0003856ba71753a9b296df5d146f12b94c9fc5de.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b5e765f6779e4eded68b020871bd649bef60dd0f03df7bf5be6592192e9694e5.jpg"
+    },
+    {
+      "path": "48278321f67fafe1cb1262a31692921029b42d3cd000ef9dd029b556285eb77b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/98673907004257cf5ef3fbd3c751cda6e20101655b8d81917175b6e6ae82ac1c.jpg"
+    },
+    {
+      "path": "ddd125c487ce860be2b4943bd3fce9785a34eb687015b6b2052d78baa979c683.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d48d29f860c0dcb3223920f04d16dfae0891b82dad8266d6edf50091e403a9c9.jpg"
+    },
+    {
+      "path": "d72184d42397fdfac54fc11a18d0632c9bff7a0a39d02c8b3a8c881b92932e45.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c69294276e9a877d2b9c020fcca84c20caef595206c376a7bb4be56796bc3842.jpg"
+    }
+  ],
+  "startTime": "1794621600000",
+  "title": "\"Bright Autumn Trip Gacha\" is now live!",
+  "type": 1
+}

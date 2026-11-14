@@ -1,0 +1,96 @@
+{
+  "bgmAssetId": "",
+  "cardBonuses": [],
+  "cardIds": null,
+  "detailNoticeId": "notice-news-gacha-pickup-261114",
+  "endTime": "1795658399000",
+  "exchangeBoothGroupId": "exchange_booth_group-gacha-pickup-261114",
+  "fixedRarityProbabilities": null,
+  "gachaAnimationAssetId": "gacha_animation_movie-default-001",
+  "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+  "gachaAnimationMovieGroupId": "gacha_animation_movie-default-001",
+  "gachaButtons": [
+    {
+      "bonusRewards": [
+        {
+          "quantity": "1",
+          "resourceId": "gacha_point-pickup-261114",
+          "resourceType": 18
+        }
+      ],
+      "consumptions": [
+        {
+          "quantity": "250",
+          "resourceId": "",
+          "resourceType": 1001
+        }
+      ],
+      "fixedRewardPickCount": 0,
+      "gachaButtonId": "gacha_button-gacha-pickup-select-261114-btn_01-stone",
+      "limitCount": 0,
+      "priority": 5,
+      "resetIntervalType": 0,
+      "totalRewardPickCount": 1
+    },
+    {
+      "bonusRewards": [
+        {
+          "quantity": "10",
+          "resourceId": "gacha_point-pickup-261114",
+          "resourceType": 18
+        }
+      ],
+      "consumptions": [
+        {
+          "quantity": "2500",
+          "resourceId": "",
+          "resourceType": 1001
+        }
+      ],
+      "fixedRewardPickCount": 1,
+      "gachaButtonId": "gacha_button-gacha-pickup-select-261114-btn_10-stone",
+      "limitCount": 0,
+      "priority": 6,
+      "resetIntervalType": 0,
+      "totalRewardPickCount": 10
+    }
+  ],
+  "gachaId": "gacha-pickup-select-261114",
+  "gachaPoint": {
+    "gachaPointId": "gacha_point-pickup-261114"
+  },
+  "iconAssetId": "pickup-select-261114",
+  "isDisplayPromotionPickupCardRandom": true,
+  "isEndTimeHidden": false,
+  "isPromotionPickupCardMovie": true,
+  "normalRarityProbabilities": null,
+  "pickupCardIds": [
+    "card-00002-5-uniq-0104-00",
+    "card-00019-5-uniq-0108-00",
+    "card-00031-5-uniq-0105-00",
+    "card-03006-5-uniq-0107-00",
+    "card-04007-5-uniq-0106-00"
+  ],
+  "probabilityStatus": "selection-required",
+  "promotionImageAssetId": "",
+  "promotionMovieAssetId": "",
+  "promotionPickupCardIds": [
+    "card-00002-5-uniq-0104-00",
+    "card-00019-5-uniq-0108-00",
+    "card-00031-5-uniq-0105-00",
+    "card-03006-5-uniq-0107-00",
+    "card-04007-5-uniq-0106-00"
+  ],
+  "selectableCardIds": [
+    "card-00002-5-uniq-0104-00",
+    "card-00019-5-uniq-0108-00",
+    "card-00031-5-uniq-0105-00",
+    "card-03006-5-uniq-0107-00",
+    "card-04007-5-uniq-0106-00"
+  ],
+  "selectableCardQuantity": 1,
+  "startTime": "1794621600000",
+  "termLimitedHours": 0,
+  "type": 2,
+  "unlockConditionGroupId": ""
+}

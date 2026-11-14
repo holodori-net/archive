@@ -1,0 +1,35 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261114",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/ef2c9245aa42b2524310e670e87ed309542f234847f3c0e67413862b16688a7f/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "90778b95b703a9cb14f0ec96dc20f2b081242a9d8e0b92ef0f95b78c94240ee8.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0bed4730195dfd6ca22ce851b8496dd87b1580d7abba0d770d784afce22abfdc.jpg"
+    },
+    {
+      "path": "0ca91ff1890f097e8dac5c7db8b0c3921e708db6e7922a564f73b45326b19370.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/811a3ec59b1b4610c16d252f9f6c91681059333134a506fc3f4702ba2498e14d.jpg"
+    },
+    {
+      "path": "37c44d5444ba8df6e97bc1fb0003856ba71753a9b296df5d146f12b94c9fc5de.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8ec6715ab95dfa9d3d5126b1e08584955e506ef5a14a6862bd9649023772b22f.jpg"
+    },
+    {
+      "path": "48278321f67fafe1cb1262a31692921029b42d3cd000ef9dd029b556285eb77b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/286c50b001b1ec715ed6bccd7900a446afd6aa6880de5683ed81592e8bf756c9.jpg"
+    },
+    {
+      "path": "ddd125c487ce860be2b4943bd3fce9785a34eb687015b6b2052d78baa979c683.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/02c2303426af3571e212d1b70647260e59f659be44f35eb922321bb9e6888951.jpg"
+    },
+    {
+      "path": "d72184d42397fdfac54fc11a18d0632c9bff7a0a39d02c8b3a8c881b92932e45.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a1c2b9efdae4a9a0bd1f1181f2963d0fcce253ed4e1f42460e6390e7a44a1805.jpg"
+    }
+  ],
+  "startTime": "1794621600000",
+  "title": "Gacha Tamasya Indah Musim Gugur Telah Dimulai!",
+  "type": 1
+}

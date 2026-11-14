@@ -1,0 +1,35 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261114",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d09baa407eacfee87e6d985597f46825da2a727dd8dde6a63a8dbbac25873d1c/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "569e07f5c9397502f8bec7b7dd218a6bb370f8162a3f9e2325691986152be367.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/85201e7e4fab7083e5e2aa65a64327298cdea924847556a7cd4656bbaa66c426.jpg"
+    },
+    {
+      "path": "0ca91ff1890f097e8dac5c7db8b0c3921e708db6e7922a564f73b45326b19370.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/748279a0747acf6108e6552d5eee31d88dedcdb76a44c7a3a84b8717ac649857.jpg"
+    },
+    {
+      "path": "37c44d5444ba8df6e97bc1fb0003856ba71753a9b296df5d146f12b94c9fc5de.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f12fec4a0d4df02de4a980bac1f244c463e2f0a5a0ffff0a1d2fbdf9d4eb3b9d.jpg"
+    },
+    {
+      "path": "48278321f67fafe1cb1262a31692921029b42d3cd000ef9dd029b556285eb77b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9b0fc6ef2bf18a9eee4e72270801874c7dacad311acf281b68551033faeb41ee.jpg"
+    },
+    {
+      "path": "ddd125c487ce860be2b4943bd3fce9785a34eb687015b6b2052d78baa979c683.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a6de85dab318074f106787d548ae83405452f6b2e576aeb5105f7f1c1ae9a296.jpg"
+    },
+    {
+      "path": "d72184d42397fdfac54fc11a18d0632c9bff7a0a39d02c8b3a8c881b92932e45.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f3fa82d00691f262e5e40dcc1db253e3aaa0456123474e8e7f56a821ad361880.jpg"
+    }
+  ],
+  "startTime": "1794621600000",
+  "title": "うららかな秋にお出かけを♪ガチャ開催！",
+  "type": 1
+}

@@ -1,0 +1,35 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261114",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d67630decadd76a4e095b12ba230f7191212d5fe9f6c40aa6c62ea62482db705/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "91114a8056b6a68e6022f7706fe29ac13a5ae12a20768ab32bccb36b75ee3cbf.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6b95321f39c7833e4e7deb2a9eb8b650bf05f6a68f601db29f4616554b6e873c.jpg"
+    },
+    {
+      "path": "0ca91ff1890f097e8dac5c7db8b0c3921e708db6e7922a564f73b45326b19370.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a193d674d921a4a8f2bdcc924364dda4f8d370df3906965408f70640ee904b3a.jpg"
+    },
+    {
+      "path": "37c44d5444ba8df6e97bc1fb0003856ba71753a9b296df5d146f12b94c9fc5de.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f19584ba3dcc949e8b1661b208b779b5a2c1dea48e0ec7f8f19979955531d93c.jpg"
+    },
+    {
+      "path": "48278321f67fafe1cb1262a31692921029b42d3cd000ef9dd029b556285eb77b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9f7650a6e03d5aa1a3e1a3be7e9a2b084b383f31c376579e038df57f058c062f.jpg"
+    },
+    {
+      "path": "ddd125c487ce860be2b4943bd3fce9785a34eb687015b6b2052d78baa979c683.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ef8d68e6cfce48e8c1924c7695c8d7670455d6b75e9d5466f9245cd99d8faae5.jpg"
+    },
+    {
+      "path": "d72184d42397fdfac54fc11a18d0632c9bff7a0a39d02c8b3a8c881b92932e45.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b657f83b36e3f1a13df8b9ec540c823dc5b7f27cd9a42f2fd5da91c6f5e43588.jpg"
+    }
+  ],
+  "startTime": "1794621600000",
+  "title": "宜人秋日，踏青出遊♪轉蛋活動開始！",
+  "type": 1
+}

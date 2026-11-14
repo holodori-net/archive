@@ -1,0 +1,42 @@
+{
+  "booths": [
+    {
+      "id": "exchange_booth-gacha-pickup-261114",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261114-001",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261114-002",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261114-003",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261114-004",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261114-005",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        }
+      ],
+      "name": "宜人秋日，踏青出遊♪轉蛋Pt兌換所"
+    }
+  ],
+  "id": "exchange_booth_group-gacha-pickup-261114",
+  "name": "宜人秋日，踏青出遊♪轉蛋Pt兌換所"
+}
