@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_birthday-chr-04015-261121",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/2dcf077288e2f3b4931712035ee6038df6213b3050911c8302381898b702d573/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "778f3d6422e4f0ffc54c12a509e704341b06043cd091867eba36b48659a00381.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/21d052dedb1cd07736c8c9ce49dab17bc5e59187b2627b5761eda73d93d02eaf.jpg"
+    },
+    {
+      "path": "0dac4e26236175b2e0631b957e0d4300c19c661f476f75a496ab85412926ab36.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a628b08a53db1572e891c6e38d8dc2444200bd6962484f51e9fe811cc7f7e1d3.jpg"
+    },
+    {
+      "path": "538d349d244940537ad3d33cd3a2e71f027bb0afa1b2ac5ca2a630a465dd7181.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f8bdcb022b40a18f7b8a2eeb96b61578f74a60adc8111b19b6628dcfa51b1d2b.jpg"
+    }
+  ],
+  "startTime": "1795186800000",
+  "title": "Happy Birthday! Nerissa Ravencroft",
+  "type": 6
+}
