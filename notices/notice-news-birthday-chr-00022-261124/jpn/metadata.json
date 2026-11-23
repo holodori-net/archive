@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_birthday-chr-00022-261124",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/86ba51e092db33d764cdf25a9f7eee1b4a95ccd9d00c2750adbfebb22f474876/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "933f440f4bdc8f66c33d91ff02b0cffd8cb11324b588d858fcb0cd41a74e9731.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f4135a8396df92b7c9b0f4670e20d1cc0ae1a40b85fea4cce600161a15ae46fb.jpg"
+    },
+    {
+      "path": "0121a0bdd348be9be90be88d74d6ab6e1b5b8a5de0391c344475076222ac7208.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c8a1113ea3bb831d715daeba6a652dedf9b8ccec98b04918f3d65d29ab57214d.jpg"
+    },
+    {
+      "path": "749884ba198376c1cd503f458196aa963acb9f60d56f7950ebabd5f0bad91ee6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/76f0282c325c542d2f90c033ae08486849ca1316d3c2f7b486a303c60cff1f51.jpg"
+    }
+  ],
+  "startTime": "1795446000000",
+  "title": "Happy Birthday！ 白銀ノエル",
+  "type": 6
+}

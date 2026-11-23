@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_birthday-chr-00022-261124",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/742817e1cca0cc8cd20f45f10e86fc1dcebcdcb75aa1e3b1b83b6a48ae5938a7/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "933f440f4bdc8f66c33d91ff02b0cffd8cb11324b588d858fcb0cd41a74e9731.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/467b4907463cd512a77e67e68fee91bebc804ec0f61dc6a88935386346835b19.jpg"
+    },
+    {
+      "path": "0121a0bdd348be9be90be88d74d6ab6e1b5b8a5de0391c344475076222ac7208.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c58233669267d95a97f2b014b6574378e8e611e26359a97982fa5e6324efee95.jpg"
+    },
+    {
+      "path": "749884ba198376c1cd503f458196aa963acb9f60d56f7950ebabd5f0bad91ee6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a431ae98aa9c8ba6be16bd85d8f0235aea759e96fced4f41e5304855c2a47305.jpg"
+    }
+  ],
+  "startTime": "1795446000000",
+  "title": "Happy Birthday! Shirogane Noel",
+  "type": 6
+}

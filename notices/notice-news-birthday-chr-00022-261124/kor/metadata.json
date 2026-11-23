@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_birthday-chr-00022-261124",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/f919e16bbf223b89512ee9514d42c815a3fe972229ab688396d72c432228550b/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "933f440f4bdc8f66c33d91ff02b0cffd8cb11324b588d858fcb0cd41a74e9731.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a7c8b324c0a7f72699c7655402320e2d1ef8aeb5c82193b7d3b9c3b1df15dfcd.jpg"
+    },
+    {
+      "path": "0121a0bdd348be9be90be88d74d6ab6e1b5b8a5de0391c344475076222ac7208.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8ba4aaa8ce15c8f8e76367c8d06202f16f977ac8d201f4b380000c0c202106bf.jpg"
+    },
+    {
+      "path": "749884ba198376c1cd503f458196aa963acb9f60d56f7950ebabd5f0bad91ee6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4dd9c5518f93832012fe0bd6aebef3a1d0ee6147acaf09b655787ef24a547673.jpg"
+    }
+  ],
+  "startTime": "1795446000000",
+  "title": "Happy Birthday! 시로가네 노엘",
+  "type": 6
+}
