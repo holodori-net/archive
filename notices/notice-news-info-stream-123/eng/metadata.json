@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_info-stream-123",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/a03aa5f2b2e1c9561ef2d40f5874d0c55421f9f06815aafb87c64d164d87be60/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "6299e147e37a83cfd247626b70c614b612f336b6e25789d957c2e3cfe0111e51.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/51e00a23389f2b7848add818da2eef57eb0d6b7c52c7affa6fa0c805011d799a.jpg"
+    }
+  ],
+  "startTime": "1795424400000",
+  "title": "Official holodori SP Announcement!",
+  "type": 4
+}

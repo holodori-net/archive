@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_info-stream-123",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/c5389ae4e75e94baa2ee334bcdc0651784724524aafb1bce83e4c276aef9c81e/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "bee84524d6b63afb8cd44754651d8620fb3cd36db7b206feafd883bb87f8f212.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6bfdece10bd5037d3797feed10313e908ad91e657a966a98a47c4a19b42dbeae.jpg"
+    }
+  ],
+  "startTime": "1795424400000",
+  "title": "ホロドリ公式特番が放送決定！",
+  "type": 4
+}

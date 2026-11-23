@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_info-stream-123",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/cf2314ea6cf0dbe196707a34477b31f0b7ff9c67bfa161eb03c93b8951b8be2a/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "0eeb4a4bc72272520a0ecdc940a7d2208b609aa3be861efc1efe8068bd72c90b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/282e2689bca2091214aa69af5f67c5d0f027b7657b5a545b0d4192fdfe3f83d8.jpg"
+    }
+  ],
+  "startTime": "1795424400000",
+  "title": "holodori官方特別節目確定播出！",
+  "type": 4
+}

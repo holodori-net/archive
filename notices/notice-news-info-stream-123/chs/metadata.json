@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_info-stream-123",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/a0b0711de2a88086bfa879695bfba4e9b8c03aebe223c2f0f87580ad67c2f4f4/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "b79075a338a2f6d83a148e06ec7c325b7744fc09b83f51e5030d8c87ed20803b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d6365a223710d2e9a7a449141e6044bc22394cf035f1cffda8e668485dc3eda6.jpg"
+    }
+  ],
+  "startTime": "1795424400000",
+  "title": "holodori官方特别节目确定上线！",
+  "type": 4
+}

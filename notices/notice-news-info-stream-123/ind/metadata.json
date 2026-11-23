@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_info-stream-123",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/7b9b7e94d77623dc5f055cc1fcd063c01013fb3a3cecd94d7c97b65926ea361a/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "f9b5a5d3462d2e96c3834e5ca191e2e272a5c405ba5f0cf4db2d76b1f1e75442.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7823cb6253f78fca579a0cc5f947501280abfb62bf09241a2c3eb8b27a85780d.jpg"
+    }
+  ],
+  "startTime": "1795424400000",
+  "title": "Program spesial resmi holodori telah diumumkan!",
+  "type": 4
+}
