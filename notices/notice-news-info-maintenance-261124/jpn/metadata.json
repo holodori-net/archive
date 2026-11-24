@@ -1,0 +1,15 @@
+{
+  "bannerAssetId": "img_banner_full_maintenance-info",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/0a851f1ce2cf0cae3b7ff21d87a1e5ac0e207dcd262531375ea396190b58abe8/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "6576cd7452a11aa395221e4b75e5e0dfa480cebf0994ceb51265b1a72b6eb440.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/89b51e808813ecded08d8d4d6f1a3c50e83c6c3a5115599c2a72ce096810768a.jpg"
+    }
+  ],
+  "startTime": "1795528800000",
+  "title": "メンテナンスのお知らせ",
+  "type": 4
+}

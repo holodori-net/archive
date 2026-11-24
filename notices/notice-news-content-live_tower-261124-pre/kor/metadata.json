@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_content-live-tower-261125",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d34dc2bfbe56a7f4d8b07c1184944de6f2b1ade12a1f02e39b1a5827a546a5a9/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "0a8ab10a6439da197f8b234a05ec7dd407a1e0c01b6984037939a2c5b5e41dd9.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9503bfd5038ed874478569742645d405227e68aa8c17fc213fda9717866ff4ff.jpg"
+    },
+    {
+      "path": "034b4c53c0ce93361b9a7fb7c67f5a2b73c5db5d96b6eaacfb4aa99cc7b2b073.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/548085ab9662f5989ca49069490ec6f7b2cba2c9aa3da901dcf1c9924e3c96be.jpg"
+    },
+    {
+      "path": "a0ddc26c506e6189fa539accfd01c57db8272d426e00ce1df2416e9f5c94de91.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b2cf3d9c8144b15cf53924c74fcdb018aec0b3652a744baff5b0a6d7470cc70b.jpg"
+    }
+  ],
+  "startTime": "1795528800000",
+  "title": "【예고】신규 컨텐츠 「챌린지 라이브」 등장!",
+  "type": 3
+}

@@ -1,0 +1,47 @@
+{
+  "bannerAssetId": "img_banner_full_minigame-shogi-261125",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/734dd1ab046c65504b0957d6638672bc6fc021ce3ff8699c6f8962ed6e560c95/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "e41bd8893443389ae3c8ee6c8132a3ac843187c47af2acf83462069cb2cdca2a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c9efeeb7a895a8ccaabbb207b4452f78e0399e0c833a8f3af04de428fec97a35.jpg"
+    },
+    {
+      "path": "e9eb0dea0d34e0cd32f527b59bb08ba687a7b871435953c6914b4a0b1bf7da02.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1cecb45589a9fc08fc3405b8ed2ca9ff29cf1642f28da0c7707332cdd2533547.jpg"
+    },
+    {
+      "path": "32e2b862e681432556596f919a978ce9c837e903246e5865b0065199f0fda049.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3e56663921b5b955861d14d15b8d6c37f6da7be4884a243a937cfb6477ea7728.jpg"
+    },
+    {
+      "path": "16438ff03b989e066d9d7d8e66906f18c73ce8dd693bf513055bf02540b1f5cf.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2da79d68b971fdd05c5f6774fa5c18f75799f3b73878d2df5f195bc8f8b1a6cd.jpg"
+    },
+    {
+      "path": "41e5db200463a227eeb65a7ed30d96ae9b901fa1fc7e27921c6df9eaa67514c4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3267f982ba9e904feb0f447d5c0371c12a7f40a91301f25e98a8ae8d7a4d3574.jpg"
+    },
+    {
+      "path": "1d5a251ef4f4b8a5474b5ed997232d8871dbc77d1593b2ad7dca9e7890a6f712.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/33a8f8dde269f4b102667fe9d6a65b6e13583fe2d8ab98432a6932c0a00bb62c.jpg"
+    },
+    {
+      "path": "1031dcc99896b1dde1f817c267b7a4fd0c97077d905fd6677ca1b2460f80e8c7.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/98297f2ea0a2ea97cb324c86dcea0d8fb1c897cdf795db47050718d6a2b85450.jpg"
+    },
+    {
+      "path": "4d0606aec2af35ba94dabd5665171b00899fe60b6ccde91f5791fa402f723988.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/27db658a23cebdc96d80c861c100af09dcfe1c06325af2d32eba471eb33f0faf.jpg"
+    },
+    {
+      "path": "077905fb3cdc894e46607a2806379759079ee7f45db9a63f1e4072fac9619790.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/34ffee155f4852be67e23e25856f21770db4575698cf32b44c44f5c7c3705264.jpg"
+    }
+  ],
+  "startTime": "1795528800000",
+  "title": "[Notice] Announcing the new Minigame \"Puka Puka Fight\"!",
+  "type": 3
+}

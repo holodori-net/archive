@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_content-live-tower-261125",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/26537aa64f85e2336c8435cf7ffacc4a0f25d76a5e9ed1613e752bdd62e9841b/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "ba4994aaa0bd615c974c5f3256e64625f02288e215d4cb54f5c4f3230646f72c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/aeb924fc0393ad498fbeac9006eebf8154a348fd37e6c565587188ba6c5b7ea9.jpg"
+    },
+    {
+      "path": "034b4c53c0ce93361b9a7fb7c67f5a2b73c5db5d96b6eaacfb4aa99cc7b2b073.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2abcfa06ecb3fa70ed8654370ba6a8a321f15ff43652053b6bdc24b1c9a1d6da.jpg"
+    },
+    {
+      "path": "a0ddc26c506e6189fa539accfd01c57db8272d426e00ce1df2416e9f5c94de91.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c07846b405e068b97fce87a0af73b2976cb48f97d1e28dc767ca5e3143089b52.jpg"
+    }
+  ],
+  "startTime": "1795528800000",
+  "title": "[PENGUMUMAN] Konten Baru \"Challenge Live\" Telah Hadir!",
+  "type": 3
+}

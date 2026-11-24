@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-010",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/eaf1be65751e8408d7ee17aa4287e79c47fe18d91806102b46bba3020dd45df4/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "6254e18c7635dbebe18c1a9d5683c307200f153bbebf07065351faa41d60d138.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e758969d271f099d2d6b3916f9cd97071d75a37fbcff970bfc60da732ee2234d.jpg"
+    },
+    {
+      "path": "060860e453a8e1718415cf504b9adf827c9cc749b81326bc421182561c85d4b4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b9a88f73dc5b31b3d6e53b34ce02f0eed41abfdcf0c1ee24e66e3bc165ac34c5.jpg"
+    },
+    {
+      "path": "89015b84f1ed1ba6ad05bdea8d8a95ae4a248ad096629fd3c7e09a31ec0f3d3a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/cbfb2e1d6b5451cd00344e0b704f2c6ceab7a9a8b2bc827aad849930755ab87f.jpg"
+    },
+    {
+      "path": "6c77cb8c27d7902bafa50afbac1087d12e56a0920af42ed80469ef1d7dc15ba1.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/d575174dd7f8339579c1ff95bb17bbbae05b8cb9d31a0aa51810d8ffdcf5394a.jpg"
+    },
+    {
+      "path": "b99cfc5c6bbe24699e48e1933c2939a3f6b93d8fbf239104525832da5fc37a31.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a08096537acf000e67aff05548ad27eb19b51c8fc514d6a06f7efb9a95a07f17.jpg"
+    },
+    {
+      "path": "53f942fac89d6dbcbdf2c4c845a54ea15de8eaa54f137215d8fe7685e60deb4d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/440a6e74815582e1415472c5c968ec79db5d94a1569d42c67d24155ea1f95b41.jpg"
+    },
+    {
+      "path": "68d2dc7f4c48430e0f061a179a4806fdad6c7b56dd7cb09be7390589053ea8e4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6fa928ecbdbdf7b053272d9febe515d459d968f7c211062560e8b8a0a7673af4.jpg"
+    }
+  ],
+  "startTime": "1795528800000",
+  "title": "[Notice] Point Rally Event \"Joyful Twinkle Night\" now underway!",
+  "type": 2
+}
