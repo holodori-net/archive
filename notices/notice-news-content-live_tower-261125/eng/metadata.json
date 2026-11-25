@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_content-live-tower-261125",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/1794cd199833ea098e447d7b08593fabea45db0eaca7bba7ddf25158e286a667/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "b0c6076c35ce65c16e6ad50507f129fa6efb8dd88ebd7efcd89bffa957eaab23.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ab13364361d63b75bc44782ea38e38251d70b100d64f6d98ef5c497bcf1df9dd.jpg"
+    },
+    {
+      "path": "034b4c53c0ce93361b9a7fb7c67f5a2b73c5db5d96b6eaacfb4aa99cc7b2b073.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5377dd37ed786b9d5948c5c9846505215ecff574fdcb30f73212fd54a4600de2.jpg"
+    },
+    {
+      "path": "a0ddc26c506e6189fa539accfd01c57db8272d426e00ce1df2416e9f5c94de91.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5ef63f9ad91cc9aa8b2df44a131f9b960e334ba0958d079062cfe868e4cf47e3.jpg"
+    }
+  ],
+  "startTime": "1795572000000",
+  "title": "New Live Mode! \"Challenge Live\" is here!",
+  "type": 3
+}

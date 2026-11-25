@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_content-live-tower-261125",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/556421c38ec8ddd23c1de84d1d1527f0ebfbc77f8a6b1788af146426174b0fb4/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "29ce4ae0f7e803497db11afa63f8c1b87d8a85be1802d27d6f488cc722971a07.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/dd1afe79593a9038ecf85cdd024f8245341e8bb84d26c07703cc794db2d2677f.jpg"
+    },
+    {
+      "path": "034b4c53c0ce93361b9a7fb7c67f5a2b73c5db5d96b6eaacfb4aa99cc7b2b073.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e8a4056d35d6a9d27f64d5da2e77996349be697d2256520d70e055f894250e89.jpg"
+    },
+    {
+      "path": "a0ddc26c506e6189fa539accfd01c57db8272d426e00ce1df2416e9f5c94de91.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/694e03db79de3ccdde48dbd63b35a05133a74a31395a7bce0a068287d629284a.jpg"
+    }
+  ],
+  "startTime": "1795572000000",
+  "title": "全新內容「挑戰Live」登場！",
+  "type": 3
+}

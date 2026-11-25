@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_content-live-tower-261125",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/79eb8b6e529d4cae715879d9f7857fb2348c796f22a19d0856f9ffd869479549/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "42989947a476eacde7c5889b8ac1b3518b0b30b8c5453bcb1828b114bf671da7.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a21beb9b47d7b31bca40589119cd88c3a77c989af6257794acf1a112109254dc.jpg"
+    },
+    {
+      "path": "49082a71a7aefcb99a44629cef97dd5cef3b1474c4dcdd47e96f47097fdfa676.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f1221a521c2d5c1671a56ce82c3c63a13e65af1674cf7a7e6ddeee71b7396bfa.jpg"
+    },
+    {
+      "path": "e1ffb9bba5aa7986e5b39e17f5136ffb3a09ec39bb957596cea25c9da39b5f2d.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/39aa3f9b6f9b55cc1e9c889a7f9cdd96b21516c95f3e691fd0e70afcb47478d6.jpg"
+    }
+  ],
+  "startTime": "1795572000000",
+  "title": "新コンテンツ「チャレンジライブ」登場！",
+  "type": 3
+}

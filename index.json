@@ -1,10 +1,11 @@
 {
   "app": {
-    "versionCode": 1793072585,
-    "versionName": "1.2.101"
+    "versionCode": 1794558081,
+    "versionName": "1.3.0"
   },
   "currentEventIds": [
     "event_mission-beginner_mission",
+    "event_mission-shogi_celebration-261125",
     "marathon_event-relay-004"
   ],
   "currentGachaIds": [
@@ -25,6 +26,14 @@
       "chs"
     ],
     "event_mission-beginner_mission": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "event_mission-shogi_celebration-261125": [
       "jpn",
       "eng",
       "ind",
@@ -235,7 +244,7 @@
     "gacha-pickup-select-261106",
     "gacha-pickup-select-261114"
   ],
-  "masterVersion": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
+  "masterVersion": "c85ba53533bd8ef6166a5baf2e358e294393b689cf38cc020ea4f4fb51aa32b6",
   "notices": {
     "notice-mal-list-confirmed": [
       "jpn",
@@ -358,6 +367,14 @@
       "chs"
     ],
     "notice-news-content-live_tower-261124-pre": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-content-live_tower-261125": [
       "jpn",
       "eng",
       "ind",
@@ -645,6 +662,14 @@
       "cht",
       "chs"
     ],
+    "notice-news-info-update-261125": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
     "notice-news-info-update-area03": [
       "jpn",
       "eng",
@@ -677,6 +702,14 @@
       "cht",
       "chs"
     ],
+    "notice-news-login_bonus-event-261125": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
     "notice-news-minigame-shogi-261124-pre": [
       "jpn",
       "eng",
@@ -685,7 +718,23 @@
       "cht",
       "chs"
     ],
+    "notice-news-minigame-shogi-261125": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
     "notice-news-mission-area03-release-260929": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-mission-shogi_celebration-261125": [
       "jpn",
       "eng",
       "ind",

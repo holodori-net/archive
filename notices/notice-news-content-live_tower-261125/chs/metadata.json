@@ -1,0 +1,23 @@
+{
+  "bannerAssetId": "img_banner_full_content-live-tower-261125",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/215945a9db6db1c47500127e44aaf849911a5797bcf85a0b2238673a9ea2892a/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "916e9cc1f467cc7f3976770f354cd27b10b14a86a25d988baf84e038225316db.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/bdd3da453960baf486175ee7bc540c61f4a137dbf01003eafd0a1482164d05d1.jpg"
+    },
+    {
+      "path": "034b4c53c0ce93361b9a7fb7c67f5a2b73c5db5d96b6eaacfb4aa99cc7b2b073.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c1fd99012cefee84f357fdd8463368aba75901b8415d7c78b00e5bbf22f80341.jpg"
+    },
+    {
+      "path": "a0ddc26c506e6189fa539accfd01c57db8272d426e00ce1df2416e9f5c94de91.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6ed1e06951fc147875e7bd7ea1f68ed26ae3ed080f19944ba5c3ce3caefea2c5.jpg"
+    }
+  ],
+  "startTime": "1795572000000",
+  "title": "全新游戏内容“挑战演出”登场！",
+  "type": 3
+}

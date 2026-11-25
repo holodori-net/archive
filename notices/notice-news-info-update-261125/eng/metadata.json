@@ -1,0 +1,35 @@
+{
+  "bannerAssetId": "img_banner_full_update-info",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/a740e263b949bfbd5a3c11b74cfb6607118fa882dcd959a74b926ad76b80bc80/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "511cd330cec58a2ec585ae58af6d159775ef52a590873d0f86f089695b524d3c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3249673db172ea9fd684902ba27f5599fee0d9732035b4742977da5dd111b509.jpg"
+    },
+    {
+      "path": "e9eb0dea0d34e0cd32f527b59bb08ba687a7b871435953c6914b4a0b1bf7da02.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/95916530fb38238aa5c1198eb9b80c88dce180aeb8ef2dc41fa8e2aa49885031.jpg"
+    },
+    {
+      "path": "b0c6076c35ce65c16e6ad50507f129fa6efb8dd88ebd7efcd89bffa957eaab23.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ab13364361d63b75bc44782ea38e38251d70b100d64f6d98ef5c497bcf1df9dd.jpg"
+    },
+    {
+      "path": "1e15fb209c83dbf23fab6822861cbefa237fbab1388b3ae6293f6858712091c8.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/32f4154d1464906bef681caaa6e38e295a5f90281e005c159c7b3c1475d68e7b.jpg"
+    },
+    {
+      "path": "ba85374d25256478667e87dec96f539af3a61be8925e736683258af529f812f1.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/3b72e1bfb7a8aa8d738842313f527bb0b896a8709b9ddc2bb3997eae2bbe87dd.jpg"
+    },
+    {
+      "path": "71ac4e88380a0ee8e11d06f15134761976a5a516dd9bb08af1940038379ed80c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7f309c64c76ba396cdc57da71f864e7e04838a16dd80448fe07a9ce9b3e0be72.jpg"
+    }
+  ],
+  "startTime": "1795572000000",
+  "title": "Ver.1.3.0 Update",
+  "type": 3
+}
