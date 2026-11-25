@@ -6,6 +6,7 @@
   "currentEventIds": [
     "event_mission-beginner_mission",
     "event_mission-shogi_celebration-261125",
+    "marathon_event-normal-010",
     "marathon_event-relay-004"
   ],
   "currentGachaIds": [
@@ -15,7 +16,7 @@
     "gacha-pickup-normal-261114",
     "gacha-pickup-select-261114"
   ],
-  "databaseMasterVersion": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
+  "databaseMasterVersion": "c85ba53533bd8ef6166a5baf2e358e294393b689cf38cc020ea4f4fb51aa32b6",
   "events": {
     "event_mission-area03-release-260929": [
       "jpn",
@@ -66,6 +67,14 @@
       "chs"
     ],
     "marathon_event-normal-009": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "marathon_event-normal-010": [
       "jpn",
       "eng",
       "ind",
@@ -244,7 +253,7 @@
     "gacha-pickup-select-261106",
     "gacha-pickup-select-261114"
   ],
-  "masterVersion": "c85ba53533bd8ef6166a5baf2e358e294393b689cf38cc020ea4f4fb51aa32b6",
+  "masterVersion": "1112ae6e32e798bc6884ee0b85e2b07c643c04c2060b3828006baae2b62a722e",
   "notices": {
     "notice-mal-list-confirmed": [
       "jpn",

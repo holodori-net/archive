@@ -1,0 +1,12 @@
+{
+  "backgroundAssetId": "img_marathon_event_normal_bg-010-01",
+  "endTime": "1796381999000",
+  "eventId": "marathon_event-normal-010",
+  "exchangeEndTime": "1796900399000",
+  "logoAssetId": "img_marathon_event_normal_logo-010-01",
+  "missionGroupId": "",
+  "startTime": "1795662000000",
+  "type": 1,
+  "unlockConditionGroupId": "cd-marathon_event",
+  "viewConditionGroupId": ""
+}
