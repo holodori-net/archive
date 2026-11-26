@@ -13,8 +13,9 @@
     "gacha-common-normal-001",
     "gacha-common-ticket_r4-001",
     "gacha-common-ticket_r5-001",
-    "gacha-pickup-normal-261114",
-    "gacha-pickup-select-261114"
+    "gacha-fixed-261126",
+    "gacha-pickup-normal-261126-free",
+    "gacha-pickup-select-261126"
   ],
   "databaseMasterVersion": "7c4ab23b96e2c1dd01ae6d5ac5842d19f6e5ca23cfa25ba7fb361be681b40580",
   "events": {
@@ -156,6 +157,14 @@
       "cht",
       "chs"
     ],
+    "exchange_booth_group-gacha-pickup-261126": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
     "exchange_booth_group-marathon_event-normal-007": [
       "jpn",
       "eng",
@@ -213,18 +222,25 @@
       "iconAssetId": "common-ticket_r4-001"
     },
     {
-      "gachaGroupId": "gacha_group-pickup-select-261114",
+      "gachaGroupId": "gacha_group-pickup-normal-261126-free",
       "gachaIds": [
-        "gacha-pickup-select-261114"
+        "gacha-pickup-normal-261126-free"
       ],
-      "iconAssetId": "pickup-select-261114"
+      "iconAssetId": "pickup-normal-261126"
     },
     {
-      "gachaGroupId": "gacha_group-pickup-normal-261114",
+      "gachaGroupId": "gacha_group-pickup-select-261126",
       "gachaIds": [
-        "gacha-pickup-normal-261114"
+        "gacha-pickup-select-261126"
       ],
-      "iconAssetId": "pickup-normal-261114"
+      "iconAssetId": "pickup-select-261126"
+    },
+    {
+      "gachaGroupId": "gacha_group-fixed-261126",
+      "gachaIds": [
+        "gacha-fixed-261126"
+      ],
+      "iconAssetId": "fixed-261126"
     },
     {
       "gachaGroupId": "gacha_group-common-normal-001",
@@ -240,18 +256,21 @@
     "gacha-common-ticket_r5-001",
     "gacha-fixed-260929",
     "gacha-fixed-261029",
+    "gacha-fixed-261126",
     "gacha-pickup-normal-260929",
     "gacha-pickup-normal-261007",
     "gacha-pickup-normal-261019",
     "gacha-pickup-normal-261029-free",
     "gacha-pickup-normal-261106",
     "gacha-pickup-normal-261114",
+    "gacha-pickup-normal-261126-free",
     "gacha-pickup-select-260929",
     "gacha-pickup-select-261007",
     "gacha-pickup-select-261019",
     "gacha-pickup-select-261029",
     "gacha-pickup-select-261106",
-    "gacha-pickup-select-261114"
+    "gacha-pickup-select-261114",
+    "gacha-pickup-select-261126"
   ],
   "masterVersion": "7c4ab23b96e2c1dd01ae6d5ac5842d19f6e5ca23cfa25ba7fb361be681b40580",
   "notices": {
@@ -439,6 +458,14 @@
       "cht",
       "chs"
     ],
+    "notice-news-gacha-fixed-261126": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
     "notice-news-gacha-fixed-beginner-001": [
       "jpn",
       "eng",
@@ -512,6 +539,14 @@
       "chs"
     ],
     "notice-news-gacha-pickup-261114-pre": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-news-gacha-pickup-261126": [
       "jpn",
       "eng",
       "ind",

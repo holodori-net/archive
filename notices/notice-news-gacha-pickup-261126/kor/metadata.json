@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261126-free",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/c99d93502cf50dd15adc528a5e19759c0de183a54059ee6180bc57398168cde2/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "b965d0d3e999c3ab627e281d3d7fae40616ebc1785589488df8a810c13d4e433.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b62ffa9d0c7b6c665a078d453ff66c0518469bde38138fcfee00c560962137d3.jpg"
+    },
+    {
+      "path": "aae8600d9151ad299faa2460c56296eccd5b1e15ef572a95c14f0b925e2a4a28.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fe06196791f5ea713ff6a4c37128684291cb47cabfd4f22d3e409e4de169deed.jpg"
+    },
+    {
+      "path": "230f51149652ee3ee474f85f4ce48384ef05cca8beb9297ede95d5963ded91d4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/619a0c8bbfd6210266dab80b626ea77937a7a7e89e5497cec6d58d88b33adbf9.jpg"
+    },
+    {
+      "path": "f3bfe755c3b76fc80109c5b30f220cac41b2aa846984b8f114072a831012e602.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/a764d11de17242a05c5dbb59cd7716a588675f6d71076597b9302d2f062b1fee.jpg"
+    },
+    {
+      "path": "d993ef7012ae071befcdeead77d8c1db7a7083dc00bcdb83f1b4e8b713c45485.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8965b64673be1db7fcfa8c714acb6e4228920988ca7b4f8dfad2ded6e8ed1690.jpg"
+    }
+  ],
+  "startTime": "1795658400000",
+  "title": "첫 10연속 무료! 설레는 크리스마스 모먼트 뽑기 개최!",
+  "type": 1
+}

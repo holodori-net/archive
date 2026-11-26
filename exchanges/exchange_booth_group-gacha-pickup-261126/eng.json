@@ -1,0 +1,36 @@
+{
+  "booths": [
+    {
+      "id": "exchange_booth-gacha-pickup-261126",
+      "items": [
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261126-001",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261126-002",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261126-003",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        },
+        {
+          "boothItemId": "exchange_booth_fixed_item-gacha-pickup-261126-004",
+          "boothItemType": 2,
+          "description": "",
+          "name": ""
+        }
+      ],
+      "name": "Dancing Christmas Moments Gacha Pt Exchange"
+    }
+  ],
+  "id": "exchange_booth_group-gacha-pickup-261126",
+  "name": "Dancing Christmas Moments Gacha Pt Exchange"
+}

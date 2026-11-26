@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261126-free",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/c97b7983b7f9b74f32b3f63b31c56c502b24334761bf90caa3d3ea2219345f09/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "5438eca860b9a52d8a738b4f14f6fd4e6d621e7c25183170ff3a9b55f95d58fa.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/24c6c21e1f5dc13c4c0cbe527c86e871114adfa429d0ec06e91e20d4055da472.jpg"
+    },
+    {
+      "path": "aae8600d9151ad299faa2460c56296eccd5b1e15ef572a95c14f0b925e2a4a28.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c11b78db53dc77e416aca0426fb65445a9cd0eefb272bcf8160dafbf046288c8.jpg"
+    },
+    {
+      "path": "230f51149652ee3ee474f85f4ce48384ef05cca8beb9297ede95d5963ded91d4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/fd0f59b2d235484482bb9b299236221e75916614ef68f1d5328a8ae53d7e3249.jpg"
+    },
+    {
+      "path": "f3bfe755c3b76fc80109c5b30f220cac41b2aa846984b8f114072a831012e602.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/45565718a4e5190b48e7f4096f58327cfa1ce9384a30f37d8ada36fb1dc00943.jpg"
+    },
+    {
+      "path": "d993ef7012ae071befcdeead77d8c1db7a7083dc00bcdb83f1b4e8b713c45485.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/2d6570ca8a2a46b7e32cad14bc32d7cf111ab0060d1d9814bd2a97a4ba6d085c.jpg"
+    }
+  ],
+  "startTime": "1795658400000",
+  "title": "首次10連抽免費！舞動之心聖誕時光轉蛋活動開始！",
+  "type": 1
+}

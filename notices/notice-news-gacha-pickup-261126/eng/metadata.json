@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261126-free",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/dbf2c4fa92fadbb58ca2464df5e20c797a7c348702cb149fd77a212ff8d818bd/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "56bc878368b4169cf505e88983997ca43e500520d401ecdfb18f440f5b606b7f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/c3af4aefbeb729ae7f45320bf59ad22859ab61ef4e5ee9c8ea9f2ec753729f06.jpg"
+    },
+    {
+      "path": "aae8600d9151ad299faa2460c56296eccd5b1e15ef572a95c14f0b925e2a4a28.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/1a5396083b5f748a35dd4d7572649e28e464253a46c254e8955514703de55803.jpg"
+    },
+    {
+      "path": "230f51149652ee3ee474f85f4ce48384ef05cca8beb9297ede95d5963ded91d4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9d29101ebc56cdd645dab3cf23d761f9e4f005f269eafe357c5a3502330a1347.jpg"
+    },
+    {
+      "path": "f3bfe755c3b76fc80109c5b30f220cac41b2aa846984b8f114072a831012e602.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f86079605c5cb05efa65e344adad44eb3a7780ded5f1e98b5cbe8b0e111fb17e.jpg"
+    },
+    {
+      "path": "d993ef7012ae071befcdeead77d8c1db7a7083dc00bcdb83f1b4e8b713c45485.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/20db846fab64c89b141e578999ff561cd5b133615763753a825520426a6f02e1.jpg"
+    }
+  ],
+  "startTime": "1795658400000",
+  "title": "\"First 10-Pull for free! Dancing Christmas Moments Gacha\" is now live!",
+  "type": 1
+}

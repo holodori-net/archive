@@ -1,0 +1,31 @@
+{
+  "bannerAssetId": "img_banner_full_gacha-pickup-261126-free",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/2ecbd8a0a6b188d6cdc1e3aac3545a368b0203744fced6ac3649cfa9e68653b4/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "9e02f525e661ef97af28a817368e0646afae5ef91396ea9d9ae7125bde5eb8b6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/788cf7233e0ae9383237690cc416d973d9cbd16f327837660674bfd57e6795c3.jpg"
+    },
+    {
+      "path": "aae8600d9151ad299faa2460c56296eccd5b1e15ef572a95c14f0b925e2a4a28.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f3fe6eb80539b4ed0531050b64b2fa46cebecef8fcd5a5fe9f0caea873c6e9ae.jpg"
+    },
+    {
+      "path": "230f51149652ee3ee474f85f4ce48384ef05cca8beb9297ede95d5963ded91d4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/28807a73fc340ed1caa66a341d1807fbd74dee8beaf169530254ecf229de09d4.jpg"
+    },
+    {
+      "path": "f3bfe755c3b76fc80109c5b30f220cac41b2aa846984b8f114072a831012e602.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6425de8b33a7648715fb8591e5341ae5a1ecd4cd684c89487d2d7e55ba014a17.jpg"
+    },
+    {
+      "path": "d993ef7012ae071befcdeead77d8c1db7a7083dc00bcdb83f1b4e8b713c45485.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/8a686cdf6ac8223d1e7a5bd97b310310bb2ab50d17e758af541b881a20a39ce0.jpg"
+    }
+  ],
+  "startTime": "1795658400000",
+  "title": "初回10連無料！心舞うクリスマスモーメントガチャ開催！",
+  "type": 1
+}
