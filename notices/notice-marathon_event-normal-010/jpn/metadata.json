@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-010",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d20b0aaa532a9475814b39889ad0fcfe5b195cdcdd950f99d914097c7024da2b/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "b87d45209a5f803fbb9f0fbfc2aa1053dbaa153809bc0c1b1452ac692849d79c.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/16e2256fffe7de2de9863f8f0c5732c07a49f877128c6534dbd5ae42b6da3606.jpg"
+    },
+    {
+      "path": "847f599785a7e56fadc4d07005e154793b8f4ab08d7c3d2ccb35a083ffd7a21b.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/29fd0b8230fe4534d57a9d0b1e5dec527fa5a4305534646f94c2568328077a0a.jpg"
+    },
+    {
+      "path": "89015b84f1ed1ba6ad05bdea8d8a95ae4a248ad096629fd3c7e09a31ec0f3d3a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5e432da77b723b6c11021a4ac2f517b3da9f05aa15840692041c706019fb691a.jpg"
+    },
+    {
+      "path": "ecd53e72572e657af4916f91d16ac95f777375db3da6280b0ab4836e9692a561.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/464f32ddf0314b8381f4b90222d06580b54f0b9c38238dd2afce7e576b16201f.jpg"
+    },
+    {
+      "path": "6bd7a42d838e2253f1543b61fe771cf5f38db26e6e3c8ae9e396b1fc6e881605.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5b5d07c9501afc3307807fffe1cfae3256c11c9d59bd4fa384c76158174f0a04.jpg"
+    },
+    {
+      "path": "e4fe421d7128e5de53056953c31a2e4a861dafd60cf836cd83286e9988625678.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e48d69ffe0a844da3cd0911793dd67d024a3328406eecf3d05b6c24250678b04.jpg"
+    },
+    {
+      "path": "3ec9b765acbcc99449a9fb4b4402da1250020b3aff3e23e8fba6c4883ab19855.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/74a6ced54c6a2a5c576387c2499ac5dc59faccd37ff56e7cd98e87ae9ee1dfd1.jpg"
+    }
+  ],
+  "startTime": "1795662000000",
+  "title": "ポイントラリーイベント「童心踊るTwinkle Night」開催！",
+  "type": 2
+}

@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-010",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/4e23c04068e58a7a6b7e751b6b597007243dac2bb85b18217977f6487a58d899/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "1c355ca997d86bcee6a162dbc333a0f0ed7c404ac8f93b600797af9015a4e760.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/e8e7aea0453302244a2e4bf4b4f5fb43ab2823db2f89a298552145792f81cfa9.jpg"
+    },
+    {
+      "path": "0ec743b251bf671636a768b8925053a3849fdbbf68ecd969a7f6cf5549d5ae96.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/094acde71f7ead49a32695f41fbf44f449cb3373f629848e5ba82822665656aa.jpg"
+    },
+    {
+      "path": "89015b84f1ed1ba6ad05bdea8d8a95ae4a248ad096629fd3c7e09a31ec0f3d3a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/ee8a063846607dcd45889db0b9f935501ad015d850f0c1aa9e03ee54c6116e13.jpg"
+    },
+    {
+      "path": "6c7c0e1fb7ea639232fe482403c30d9d20bb333652aeff73e47c19879891142f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/61e3738a4f909cf8277729eb08b0768903b0ac638b6744cea79f9dc75b2871b4.jpg"
+    },
+    {
+      "path": "0accc875eb1f880576734b12838ad6411b8f704c66baf7477f0b555229fd45c3.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0929d83873212767ff1e28d7d98e79f496efa70ca24b182c72deb15dc75cd8a7.jpg"
+    },
+    {
+      "path": "c7232f552db4a5c79d0ac329816ee8f2f08cb48ea85916192a5d9f0efd1d248f.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/4bdcb93c301665996d2d9e5e388ca3834e829eea3b56b6cb6aa2326736b90588.jpg"
+    },
+    {
+      "path": "0a57998725531112e3dff90576a440db934978b30c9c2a2fd5c7b33ca2982531.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/6a05322d9cb7e7dbdf944fbeba113103834216959e0d14f37622a81befa71e59.jpg"
+    }
+  ],
+  "startTime": "1795662000000",
+  "title": "Event Point Rally \"Malam Penuh Bintang dan Keceriaan\" sedang berlangsung!",
+  "type": 2
+}

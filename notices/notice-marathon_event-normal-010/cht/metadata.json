@@ -1,0 +1,39 @@
+{
+  "bannerAssetId": "img_banner_full_marathon_event-normal-010",
+  "detailUrl": "https://static.game-hololive-dreams.com/html/notice/d4956ec7204b22c3699e2d1d6001505bf2918524edfeee6c19481ac7970aaada/index.html",
+  "externalUrl": "",
+  "htmlPath": "index.html",
+  "images": [
+    {
+      "path": "98fdcccd1a9e6f8972847e59765ca26950ae4fcf18a8256e234c18eb5a06c9e4.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/b919d4ac55c313f7bce236d1d4e647c05d133745f956d58916a862827203b16f.jpg"
+    },
+    {
+      "path": "a0a8b5b2a9694b80adba60bfaf8a02995ba2b2afb989c6e7568f858f01a32923.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/60c8f1425f74de99863b28d0d9c941d6b24431e309f072b6a742d58d4d30148d.jpg"
+    },
+    {
+      "path": "89015b84f1ed1ba6ad05bdea8d8a95ae4a248ad096629fd3c7e09a31ec0f3d3a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/7a548fdbd677edfa47b005c0b58bb28a5ca428c60dd35d40c99e06a00fe0fec4.jpg"
+    },
+    {
+      "path": "7f45d1b43eb81b8d322e0be92114a548c4e0128d588d17e1a50af7b6bb07b209.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/5d8314c5c23e7085a2734f28c18a402dc281f1874af77f664f4de9b3eafb5512.jpg"
+    },
+    {
+      "path": "9dfc4b607103e870cc93bd210e7f75efcdc8d469e6f6494b6d907c881cbe52d6.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/f76c89ba346579c06aa09785b10ef275ee35197c5c8e732b2492c71edec9f580.jpg"
+    },
+    {
+      "path": "2af732a1002e238b18a68948c763e97962ca3bb69cb2f7511dce175131a77ef7.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/0b979a46320eb158389c8310c410ac973469edd041bc2054308bccdc1ecaaad4.jpg"
+    },
+    {
+      "path": "a9a39c8b46a33dd42bea888255e86fb48cc5ac3165561a72d25f92129e760e5a.jpg",
+      "sourceUrl": "https://static.game-hololive-dreams.com/html/assets/9a9d7f4a38feb375019dabc9ee559f931ba4d379496ddcd000a937333d2b3072.jpg"
+    }
+  ],
+  "startTime": "1795662000000",
+  "title": "集點活動「童心雀躍的Twinkle Night」開始！",
+  "type": 2
+}
