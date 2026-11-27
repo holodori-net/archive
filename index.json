@@ -17,7 +17,7 @@
     "gacha-pickup-normal-261126-free",
     "gacha-pickup-select-261126"
   ],
-  "databaseMasterVersion": "7c4ab23b96e2c1dd01ae6d5ac5842d19f6e5ca23cfa25ba7fb361be681b40580",
+  "databaseMasterVersion": "da2c2b5b55c5c125d9b3da17d61c6c4082e146f655ca5a501c248799a38f61f1",
   "events": {
     "event_mission-area03-release-260929": [
       "jpn",
@@ -280,7 +280,7 @@
     "gacha-pickup-select-261114",
     "gacha-pickup-select-261126"
   ],
-  "masterVersion": "da2c2b5b55c5c125d9b3da17d61c6c4082e146f655ca5a501c248799a38f61f1",
+  "masterVersion": "2df01217d6e251ff602ae1ed3c1cda5b2bba78359084548ab964ec5ee4f82f85",
   "notices": {
     "notice-mal-list-confirmed": [
       "jpn",
@@ -291,6 +291,14 @@
       "chs"
     ],
     "notice-mal-list-fixed": [
+      "jpn",
+      "eng",
+      "ind",
+      "kor",
+      "cht",
+      "chs"
+    ],
+    "notice-mal-v1-3-0-post-update-issues": [
       "jpn",
       "eng",
       "ind",
